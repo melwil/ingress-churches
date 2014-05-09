@@ -1,0 +1,28 @@
+settings/
+log4j2.xml
+target/
+.iws
+*.ipr
+*.db
+*.swp
+.DS_Store
+
+release*
+beta*
+
+# idea ignores
+.idea/
+*.iml
+
+# eclipse ignores
+.project
+.settings/
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*~.nib
+.classpath
+.loadpath
