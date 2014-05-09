@@ -1,12 +1,12 @@
-package model;
+package net.melwil.churches.model;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class Church {
 
-    private double xcoord;
-    private double ycoord;
+    private double lat;
+    private double lng;
     private String name;
     private String url;
 
@@ -20,23 +20,23 @@ public class Church {
     }
 
 
-    public double getXcoord() {
-        return xcoord;
+    public double getLat() {
+        return lat;
     }
 
 
-    public void setXcoord(double xcoord) {
-        this.xcoord = xcoord;
+    public void setLat(double lat) {
+        this.lat = lat;
     }
 
 
-    public double getYcoord() {
-        return ycoord;
+    public double getLng() {
+        return lng;
     }
 
 
-    public void setYcoord(double ycoord) {
-        this.ycoord = ycoord;
+    public void setLng(double lng) {
+        this.lng = lng;
     }
 
 
