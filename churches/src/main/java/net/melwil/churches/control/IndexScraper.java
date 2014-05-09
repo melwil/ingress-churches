@@ -28,7 +28,7 @@ public class IndexScraper {
         
         List<Church> churches = new ArrayList<Church>();
         
-        if(Paths.get("churches.json").toFile().exists()) {
+        if(Files.exists(Paths.get("churches.json"))) {
             Scanner scanner = new Scanner(System.in);
             System.out.print("File already exists. Are you sure you want to parse everything all over? (Y/N): ");
             String answer = scanner.nextLine();
@@ -53,7 +53,7 @@ public class IndexScraper {
         Gson gson = builder.create();
         
         String json = gson.toJson(churches).toString();
-        Files.write(Paths.get("churches.json"), json.getBytes(), StandardOpenOption.TRUNCATE_EXISTING);
+        Files.write(Paths.get("churches.json"), json.getBytes(), StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING);
     }
     
     
