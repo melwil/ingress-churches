@@ -38,7 +38,8 @@ public class Main {
         Gson gson = builder.create();
 
         String json = gson.toJson(churches).toString();
-        Files.write(Paths.get("churches.json"), json.getBytes(), StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING);
+        json = "var data = {'churches':"+ json +"}";
+        Files.write(Paths.get("view/churches.json"), json.getBytes(), StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING);
     }
 
 }

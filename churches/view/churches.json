@@ -1,4 +1,4 @@
-[
+var data = {'churches':[
   {
     "lat": "59.1821",
     "lng": "8.0868",
@@ -9731,4 +9731,4 @@
     "name": "Trøgstad kirke",
     "images": []
   }
-]
+]}
