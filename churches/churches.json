@@ -118,5 +118,9617 @@
     "lng": "11.2101",
     "name": "Namdalseid kirke",
     "images": []
+  },
+  {
+    "lat": "64.4657",
+    "lng": "11.4950",
+    "name": "Namsos kirke",
+    "images": []
+  },
+  {
+    "lat": "62.3508",
+    "lng": "11.4676",
+    "name": "Narbuvoll kirke",
+    "images": []
+  },
+  {
+    "lat": "68.4393",
+    "lng": "17.4134",
+    "name": "Narvik kirke",
+    "images": []
+  },
+  {
+    "lat": "59.7566",
+    "lng": "10.0384",
+    "name": "Nedre Eiker kirke",
+    "images": []
+  },
+  {
+    "lat": "59.3496",
+    "lng": "5.8001",
+    "name": "Nedstrand kyrkje",
+    "images": []
+  },
+  {
+    "lat": "61.9187",
+    "lng": "6.7837",
+    "name": "Nedstryn kyrkje",
+    "images": []
+  },
+  {
+    "lat": "69.7022",
+    "lng": "29.3884",
+    "name": "Neiden kapell",
+    "images": []
+  },
+  {
+    "lat": "63.7848",
+    "lng": "9.6040",
+    "name": "Nes kirke, Bjugn",
+    "images": []
+  },
+  {
+    "lat": "60.4308",
+    "lng": "10.4543",
+    "name": "Nes kirke, Brandbu",
+    "images": []
+  },
+  {
+    "lat": "60.1622",
+    "lng": "11.4493",
+    "name": "Nes kirke, Nes",
+    "images": []
+  },
+  {
+    "lat": "60.5670",
+    "lng": "9.1035",
+    "name": "Nes kirke, Nesbyen",
+    "images": []
+  },
+  {
+    "lat": "60.7622",
+    "lng": "10.9431",
+    "name": "Nes kirke, Ringsaker",
+    "images": []
+  },
+  {
+    "lat": "61.3869",
+    "lng": "7.3676",
+    "name": "Nes kyrkje, Luster",
+    "images": []
+  },
+  {
+    "lat": "59.3720",
+    "lng": "9.2220",
+    "name": "Nes kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.6452",
+    "lng": "6.8065",
+    "name": "Nesflaten kapell",
+    "images": []
+  },
+  {
+    "lat": "60.7989",
+    "lng": "6.1554",
+    "name": "Nesheim kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.5238",
+    "lng": "7.9859",
+    "name": "Nesland kyrkje",
+    "images": []
+  },
+  {
+    "lat": "66.2005",
+    "lng": "13.0256",
+    "name": "Nesna kirke",
+    "images": []
+  },
+  {
+    "lat": "59.8052",
+    "lng": "10.6938",
+    "name": "Nesodden kirke",
+    "images": []
+  },
+  {
+    "lat": "70.1452",
+    "lng": "28.8607",
+    "name": "Nesseby kirke",
+    "images": []
+  },
+  {
+    "lat": "58.6252",
+    "lng": "6.9175",
+    "name": "Netlandsnes kapell",
+    "images": []
+  },
+  {
+    "lat": "66.3780",
+    "lng": "14.5771",
+    "name": "Nevernes kirke",
+    "images": []
+  },
+  {
+    "lat": "60.3667",
+    "lng": "10.5295",
+    "name": "Nikolaikirken, Gran",
+    "images": []
+  },
+  {
+    "lat": "59.1619",
+    "lng": "8.5058",
+    "name": "Nissedal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.0090",
+    "lng": "10.9462",
+    "name": "Nittedal kirke",
+    "images": []
+  },
+  {
+    "lat": "60.3900",
+    "lng": "5.3326",
+    "name": "Nonneseter klosterkapell",
+    "images": []
+  },
+  {
+    "lat": "61.6428",
+    "lng": "5.3786",
+    "name": "Nordal kyrkje, Sunnfjord",
+    "images": []
+  },
+  {
+    "lat": "59.9629",
+    "lng": "10.7425",
+    "name": "Nordberg kirke, Oslo",
+    "images": []
+  },
+  {
+    "lat": "61.9058",
+    "lng": "8.1545",
+    "name": "Nordberg kyrkje, Skjåk",
+    "images": []
+  },
+  {
+    "lat": "63.6489",
+    "lng": "9.1368",
+    "name": "Nordbotn kapell",
+    "images": []
+  },
+  {
+    "lat": "59.7196",
+    "lng": "10.7728",
+    "name": "Nordby kirke, Ås",
+    "images": []
+  },
+  {
+    "lat": "62.2560",
+    "lng": "7.2370",
+    "name": "Norddal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "67.7611",
+    "lng": "15.2272",
+    "name": "Nordfold kirke",
+    "images": []
+  },
+  {
+    "lat": "62.7008",
+    "lng": "6.9010",
+    "name": "Nord-Heggdal kapell",
+    "images": []
+  },
+  {
+    "lat": "63.1091",
+    "lng": "7.7478",
+    "name": "Nordlandet kirke",
+    "images": []
+  },
+  {
+    "lat": "64.4675",
+    "lng": "13.5907",
+    "name": "Nordli kirke, Lierne",
+    "images": []
+  },
+  {
+    "lat": "60.7434",
+    "lng": "10.7699",
+    "name": "Nordlien kirke",
+    "images": []
+  },
+  {
+    "lat": "61.3009",
+    "lng": "11.7629",
+    "name": "Nordre Osen gamle kirke",
+    "images": []
+  },
+  {
+    "lat": "61.3002",
+    "lng": "11.7628",
+    "name": "Nordre Osen kirke",
+    "images": []
+  },
+  {
+    "lat": "61.4148",
+    "lng": "12.1377",
+    "name": "Nordre Trysil kirke",
+    "images": []
+  },
+  {
+    "lat": "61.1354",
+    "lng": "10.4691",
+    "name": "Nordre Ål kirke",
+    "images": []
+  },
+  {
+    "lat": "69.7696",
+    "lng": "21.0333",
+    "name": "Nordreisa kirke",
+    "images": []
+  },
+  {
+    "lat": "61.8495",
+    "lng": "9.4208",
+    "name": "Nord-Sel kirke",
+    "images": []
+  },
+  {
+    "lat": "61.8514",
+    "lng": "6.5205",
+    "name": "Nordsida kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.8414",
+    "lng": "9.9585",
+    "name": "Nordsinni kirke",
+    "images": []
+  },
+  {
+    "lat": "60.9921",
+    "lng": "11.6963",
+    "name": "Nordskogbygda kirke",
+    "images": []
+  },
+  {
+    "lat": "59.8592",
+    "lng": "10.8026",
+    "name": "Nordstrand kirke",
+    "images": []
+  },
+  {
+    "lat": "66.1240",
+    "lng": "12.5152",
+    "name": "Nordvik kirke",
+    "images": []
+  },
+  {
+    "lat": "61.9885",
+    "lng": "5.1520",
+    "name": "Nord-Vågsøy kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.1693",
+    "lng": "9.0123",
+    "name": "Nore kirke, Norefjord",
+    "images": []
+  },
+  {
+    "lat": "60.1790",
+    "lng": "5.4081",
+    "name": "Nore Neset kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.1646",
+    "lng": "9.0102",
+    "name": "Nore stavkirke",
+    "images": []
+  },
+  {
+    "lat": "59.3798",
+    "lng": "5.3086",
+    "name": "Norheim kirke",
+    "images": []
+  },
+  {
+    "lat": "61.1709",
+    "lng": "6.9941",
+    "name": "Norum kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.3873",
+    "lng": "5.2733",
+    "name": "Nygård kirke",
+    "images": []
+  },
+  {
+    "lat": "59.4228",
+    "lng": "10.3836",
+    "name": "Nykirke kirke, Horten",
+    "images": []
+  },
+  {
+    "lat": "59.8872",
+    "lng": "9.8797",
+    "name": "Nykirke kirke, Modum",
+    "images": []
+  },
+  {
+    "lat": "60.8978",
+    "lng": "10.3388",
+    "name": "Nykirke, Snertingdal",
+    "images": []
+  },
+  {
+    "lat": "59.7825",
+    "lng": "5.3979",
+    "name": "Nysæter kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.6625",
+    "lng": "5.6262",
+    "name": "Nærbø gamle kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.6583",
+    "lng": "5.6568",
+    "name": "Nærbø kyrkje",
+    "images": []
+  },
+  {
+    "lat": "64.8297",
+    "lng": "11.2215",
+    "name": "Nærøy gamle kirke",
+    "images": []
+  },
+  {
+    "lat": "59.2302",
+    "lng": "10.4068",
+    "name": "Nøtterøy kirke",
+    "images": []
+  },
+  {
+    "lat": "60.0702",
+    "lng": "6.5478",
+    "name": "Odda kirke",
+    "images": []
+  },
+  {
+    "lat": "58.5156",
+    "lng": "5.8082",
+    "name": "Ogna kyrkje",
+    "images": []
+  },
+  {
+    "lat": "63.5193",
+    "lng": "11.0734",
+    "name": "Okkelberg kapell",
+    "images": []
+  },
+  {
+    "lat": "60.1710",
+    "lng": "9.6370",
+    "name": "Olberg kirke, Krødsherad",
+    "images": []
+  },
+  {
+    "lat": "61.8342",
+    "lng": "6.8056",
+    "name": "Olden gamle kyrkje",
+    "images": []
+  },
+  {
+    "lat": "61.8273",
+    "lng": "6.8084",
+    "name": "Olden kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.3787",
+    "lng": "5.2189",
+    "name": "Olsvik kirke",
+    "images": []
+  },
+  {
+    "lat": "58.8256",
+    "lng": "6.0316",
+    "name": "Oltedal kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9470",
+    "lng": "5.6273",
+    "name": "Onarheim kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.7788",
+    "lng": "10.7506",
+    "name": "Oppegård kirke",
+    "images": []
+  },
+  {
+    "lat": "60.7928",
+    "lng": "6.5754",
+    "name": "Oppheim kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.8997",
+    "lng": "10.8431",
+    "name": "Oppsal kirke",
+    "images": []
+  },
+  {
+    "lat": "61.9099",
+    "lng": "7.0552",
+    "name": "Oppstryn kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.8767",
+    "lng": "10.7623",
+    "name": "Ormøy kirke",
+    "images": []
+  },
+  {
+    "lat": "61.1073",
+    "lng": "6.1308",
+    "name": "Ortnevik kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.5020",
+    "lng": "11.1915",
+    "name": "Os kirke, Os i Østerdalen",
+    "images": []
+  },
+  {
+    "lat": "64.2984",
+    "lng": "10.5145",
+    "name": "Osen kirke, Osen",
+    "images": []
+  },
+  {
+    "lat": "59.9125",
+    "lng": "10.7469",
+    "name": "Oslo domkirke",
+    "images": []
+  },
+  {
+    "lat": "62.6996",
+    "lng": "6.7057",
+    "name": "Otrøy kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.9264",
+    "lng": "10.7583",
+    "name": "Paulus kirke",
+    "images": []
+  },
+  {
+    "lat": "61.1341",
+    "lng": "12.5067",
+    "name": "Plassen Kirke",
+    "images": []
+  },
+  {
+    "lat": "70.0753",
+    "lng": "27.9958",
+    "name": "Polmak kirke",
+    "images": []
+  },
+  {
+    "lat": "58.9934",
+    "lng": "11.5326",
+    "name": "Prestebakke kirke, Enningdal",
+    "images": []
+  },
+  {
+    "lat": "70.0190",
+    "lng": "23.5342",
+    "name": "Rafsbotn kapell",
+    "images": []
+  },
+  {
+    "lat": "59.4109",
+    "lng": "11.3695",
+    "name": "Rakkestad kirke",
+    "images": []
+  },
+  {
+    "lat": "63.7516",
+    "lng": "10.0867",
+    "name": "Ramsvik kirke",
+    "images": []
+  },
+  {
+    "lat": "58.1342",
+    "lng": "8.1175",
+    "name": "Randesund kirke",
+    "images": []
+  },
+  {
+    "lat": "60.2380",
+    "lng": "10.3818",
+    "name": "Randsfjord kirke",
+    "images": []
+  },
+  {
+    "lat": "64.4935",
+    "lng": "11.9514",
+    "name": "Ranem kirke",
+    "images": []
+  },
+  {
+    "lat": "62.9761",
+    "lng": "8.7720",
+    "name": "Ranes kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.7163",
+    "lng": "7.9990",
+    "name": "Rauland kyrkje",
+    "images": []
+  },
+  {
+    "lat": "67.9336",
+    "lng": "13.0883",
+    "name": "Reine kirke",
+    "images": []
+  },
+  {
+    "lat": "60.8314",
+    "lng": "9.4930",
+    "name": "Reinli stavkyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.0403",
+    "lng": "5.4343",
+    "name": "Reksteren kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.9523",
+    "lng": "5.6440",
+    "name": "Revheim kirke",
+    "images": []
+  },
+  {
+    "lat": "63.0515",
+    "lng": "9.2097",
+    "name": "Rindal kirke",
+    "images": []
+  },
+  {
+    "lat": "61.5094",
+    "lng": "10.1728",
+    "name": "Ringebu stavkyrkje",
+    "images": []
+  },
+  {
+    "lat": "69.9662",
+    "lng": "19.6215",
+    "name": "Ringvassøy kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9475",
+    "lng": "10.7012",
+    "name": "Ris kirke",
+    "images": []
+  },
+  {
+    "lat": "58.9278",
+    "lng": "5.8544",
+    "name": "Riska kirke",
+    "images": []
+  },
+  {
+    "lat": "63.6059",
+    "lng": "10.0124",
+    "name": "Rissa kirke",
+    "images": []
+  },
+  {
+    "lat": "58.7193",
+    "lng": "9.2245",
+    "name": "Risør kirke",
+    "images": []
+  },
+  {
+    "lat": "59.8795",
+    "lng": "8.6073",
+    "name": "Rjukan kirke",
+    "images": []
+  },
+  {
+    "lat": "64.1723",
+    "lng": "10.2269",
+    "name": "Roan kirke (Fosenkatedralen)",
+    "images": []
+  },
+  {
+    "lat": "59.1891",
+    "lng": "11.3443",
+    "name": "Rokke kirke",
+    "images": []
+  },
+  {
+    "lat": "59.2660",
+    "lng": "11.0168",
+    "name": "Rolvsøy kirke",
+    "images": []
+  },
+  {
+    "lat": "59.2976",
+    "lng": "9.2752",
+    "name": "Romnes kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9693",
+    "lng": "10.8903",
+    "name": "Romsås kirke",
+    "images": []
+  },
+  {
+    "lat": "69.7883",
+    "lng": "20.7081",
+    "name": "Rotsund kapell",
+    "images": []
+  },
+  {
+    "lat": "62.1763",
+    "lng": "5.7399",
+    "name": "Rovde kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.8556",
+    "lng": "5.6088",
+    "name": "Ræge kirke",
+    "images": []
+  },
+  {
+    "lat": "62.7527",
+    "lng": "7.2939",
+    "name": "Røbekk kirke",
+    "images": []
+  },
+  {
+    "lat": "62.6247",
+    "lng": "7.4938",
+    "name": "Rødven kirke",
+    "images": []
+  },
+  {
+    "lat": "62.6242",
+    "lng": "7.4937",
+    "name": "Rødven stavkirke",
+    "images": []
+  },
+  {
+    "lat": "59.8309",
+    "lng": "6.8227",
+    "name": "Røldal stavkyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.7269",
+    "lng": "11.8165",
+    "name": "Rømskog kirke",
+    "images": []
+  },
+  {
+    "lat": "67.2951",
+    "lng": "14.4162",
+    "name": "Rønvik kirke",
+    "images": []
+  },
+  {
+    "lat": "62.5774",
+    "lng": "11.3878",
+    "name": "Røros kirke",
+    "images": []
+  },
+  {
+    "lat": "67.5176",
+    "lng": "12.1188",
+    "name": "Røst kirke",
+    "images": []
+  },
+  {
+    "lat": "67.4812",
+    "lng": "15.4675",
+    "name": "Røsvik kirke",
+    "images": []
+  },
+  {
+    "lat": "62.7324",
+    "lng": "7.4250",
+    "name": "Røvik kirke",
+    "images": []
+  },
+  {
+    "lat": "64.8864",
+    "lng": "13.5554",
+    "name": "Røyrvik kirke",
+    "images": []
+  },
+  {
+    "lat": "59.6040",
+    "lng": "8.6396",
+    "name": "Råde kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9377",
+    "lng": "10.7530",
+    "name": "Sagene kirke",
+    "images": []
+  },
+  {
+    "lat": "63.8719",
+    "lng": "11.2759",
+    "name": "Sakshaug kyrkje",
+    "images": []
+  },
+  {
+    "lat": "68.8718",
+    "lng": "17.8569",
+    "name": "Salangen kirke",
+    "images": []
+  },
+  {
+    "lat": "59.1343",
+    "lng": "10.2265",
+    "name": "Sandar kirke",
+    "images": []
+  },
+  {
+    "lat": "61.3270",
+    "lng": "5.7937",
+    "name": "Sande kyrkje, Gaular",
+    "images": []
+  },
+  {
+    "lat": "59.1331",
+    "lng": "10.2217",
+    "name": "Sandefjord kirke",
+    "images": []
+  },
+  {
+    "lat": "59.5468",
+    "lng": "5.8576",
+    "name": "Sandeid kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.9177",
+    "lng": "7.7382",
+    "name": "Sandnes kirke, Åraksbø i Bygland",
+    "images": []
+  },
+  {
+    "lat": "66.0192",
+    "lng": "12.6182",
+    "name": "Sandnessjøen kirke",
+    "images": []
+  },
+  {
+    "lat": "68.9529",
+    "lng": "16.6583",
+    "name": "Sandsøy kirke",
+    "images": []
+  },
+  {
+    "lat": "59.2824",
+    "lng": "11.1111",
+    "name": "Sarpsborg kirke",
+    "images": []
+  },
+  {
+    "lat": "67.1018",
+    "lng": "14.2847",
+    "name": "Saura kirke",
+    "images": []
+  },
+  {
+    "lat": "60.8803",
+    "lng": "10.4626",
+    "name": "Seegård kirke",
+    "images": []
+  },
+  {
+    "lat": "69.8393",
+    "lng": "21.9346",
+    "name": "Sekkemo kirke",
+    "images": []
+  },
+  {
+    "lat": "62.6607",
+    "lng": "7.3822",
+    "name": "Sekken kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.4898",
+    "lng": "8.6358",
+    "name": "Seljord kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.2918",
+    "lng": "10.3864",
+    "name": "Sem kirke",
+    "images": []
+  },
+  {
+    "lat": "70.1529",
+    "lng": "19.6702",
+    "name": "Sengskroken kirke",
+    "images": []
+  },
+  {
+    "lat": "68.6440",
+    "lng": "15.5192",
+    "name": "Sigerfjord kirke",
+    "images": []
+  },
+  {
+    "lat": "59.7918",
+    "lng": "10.8875",
+    "name": "Siggerud kirke",
+    "images": []
+  },
+  {
+    "lat": "59.2883",
+    "lng": "9.7116",
+    "name": "Siljan kirke",
+    "images": []
+  },
+  {
+    "lat": "62.9418",
+    "lng": "10.6504",
+    "name": "Singsås kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9319",
+    "lng": "10.7874",
+    "name": "Sinsen kirke",
+    "images": []
+  },
+  {
+    "lat": "62.6662",
+    "lng": "8.1134",
+    "name": "Sira kyrkje, Eresfjord",
+    "images": []
+  },
+  {
+    "lat": "59.2540",
+    "lng": "5.8153",
+    "name": "Sjernarøy kyrkje",
+    "images": []
+  },
+  {
+    "lat": "66.3020",
+    "lng": "13.4788",
+    "name": "Sjona kirke",
+    "images": []
+  },
+  {
+    "lat": "61.4785",
+    "lng": "11.3065",
+    "name": "Sjøli kirke",
+    "images": []
+  },
+  {
+    "lat": "59.8500",
+    "lng": "10.2138",
+    "name": "Sjåstad kirke",
+    "images": []
+  },
+  {
+    "lat": "59.4083",
+    "lng": "8.0142",
+    "name": "Skafså kyrkje",
+    "images": []
+  },
+  {
+    "lat": "64.4639",
+    "lng": "11.7563",
+    "name": "Skage kirke",
+    "images": []
+  },
+  {
+    "lat": "70.1879",
+    "lng": "30.3422",
+    "name": "Skallelv kapell",
+    "images": []
+  },
+  {
+    "lat": "59.9322",
+    "lng": "6.5935",
+    "name": "Skare kirke",
+    "images": []
+  },
+  {
+    "lat": "63.5121",
+    "lng": "10.8616",
+    "name": "Skatval kirke",
+    "images": []
+  },
+  {
+    "lat": "63.2510",
+    "lng": "10.0515",
+    "name": "Skaun kirke",
+    "images": []
+  },
+  {
+    "lat": "64.0200",
+    "lng": "11.6314",
+    "name": "Skei kirke",
+    "images": []
+  },
+  {
+    "lat": "59.7195",
+    "lng": "10.8308",
+    "name": "Ski nye kirke",
+    "images": []
+  },
+  {
+    "lat": "59.4677",
+    "lng": "11.1745",
+    "name": "Skiptvet kirke",
+    "images": []
+  },
+  {
+    "lat": "59.2289",
+    "lng": "11.1903",
+    "name": "Skjeberg kirke",
+    "images": []
+  },
+  {
+    "lat": "59.2849",
+    "lng": "11.2820",
+    "name": "Skjebergdalen kirke",
+    "images": []
+  },
+  {
+    "lat": "59.2366",
+    "lng": "10.2811",
+    "name": "Skjee kirke",
+    "images": []
+  },
+  {
+    "lat": "67.2343",
+    "lng": "15.0211",
+    "name": "Skjerstad kirke",
+    "images": []
+  },
+  {
+    "lat": "70.0360",
+    "lng": "20.9778",
+    "name": "Skjervøy kirke",
+    "images": []
+  },
+  {
+    "lat": "60.3060",
+    "lng": "5.3331",
+    "name": "Skjold kirke, Bergen",
+    "images": []
+  },
+  {
+    "lat": "59.5055",
+    "lng": "5.5882",
+    "name": "Skjold kyrkje, Vindafjord",
+    "images": []
+  },
+  {
+    "lat": "59.4321",
+    "lng": "5.6144",
+    "name": "Skjoldastraumen kyrkje",
+    "images": []
+  },
+  {
+    "lat": "68.2554",
+    "lng": "17.4008",
+    "name": "Skjomen kirke",
+    "images": []
+  },
+  {
+    "lat": "60.2589",
+    "lng": "8.9992",
+    "name": "Skjønne kirke",
+    "images": []
+  },
+  {
+    "lat": "61.8776",
+    "lng": "8.3731",
+    "name": "Skjåk kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.6774",
+    "lng": "10.2085",
+    "name": "Skoger gamle kirke",
+    "images": []
+  },
+  {
+    "lat": "59.6872",
+    "lng": "10.2222",
+    "name": "Skoger kirke",
+    "images": []
+  },
+  {
+    "lat": "59.8469",
+    "lng": "10.6714",
+    "name": "Skoklefall kirke",
+    "images": []
+  },
+  {
+    "lat": "64.6431",
+    "lng": "13.1207",
+    "name": "Skorovatn kapell",
+    "images": []
+  },
+  {
+    "lat": "69.9312",
+    "lng": "21.7264",
+    "name": "Skorpa kirke, Kvænangen",
+    "images": []
+  },
+  {
+    "lat": "59.2140",
+    "lng": "9.5252",
+    "name": "Skotfoss kirke",
+    "images": []
+  },
+  {
+    "lat": "61.0299",
+    "lng": "9.2124",
+    "name": "Skrautvål kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.4487",
+    "lng": "10.8269",
+    "name": "Skrukkeli kapell",
+    "images": []
+  },
+  {
+    "lat": "60.4763",
+    "lng": "8.3010",
+    "name": "Skurdalskyrkja",
+    "images": []
+  },
+  {
+    "lat": "60.6381",
+    "lng": "10.3346",
+    "name": "Skute kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9293",
+    "lng": "10.6874",
+    "name": "Skøyen kirke",
+    "images": []
+  },
+  {
+    "lat": "61.5285",
+    "lng": "9.4160",
+    "name": "Skåbu kyrkje",
+    "images": []
+  },
+  {
+    "lat": "65.8634",
+    "lng": "12.1737",
+    "name": "Skålvær kirke",
+    "images": []
+  },
+  {
+    "lat": "59.7319",
+    "lng": "5.9397",
+    "name": "Skånevik kyrkje",
+    "images": []
+  },
+  {
+    "lat": "68.5824",
+    "lng": "16.5737",
+    "name": "Skånland kirke",
+    "images": []
+  },
+  {
+    "lat": "59.4196",
+    "lng": "5.2633",
+    "name": "Skåre kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9197",
+    "lng": "10.9601",
+    "name": "Skårer kirke",
+    "images": []
+  },
+  {
+    "lat": "58.8588",
+    "lng": "9.4758",
+    "name": "Skåtøy kirke",
+    "images": []
+  },
+  {
+    "lat": "59.7784",
+    "lng": "10.4883",
+    "name": "Slemmestad kirke",
+    "images": []
+  },
+  {
+    "lat": "63.7957",
+    "lng": "8.8078",
+    "name": "Sletta kirke, Frøya",
+    "images": []
+  },
+  {
+    "lat": "60.3529",
+    "lng": "5.3570",
+    "name": "Slettebakken kirke",
+    "images": []
+  },
+  {
+    "lat": "61.0904",
+    "lng": "8.9800",
+    "name": "Slidre kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.9175",
+    "lng": "10.7277",
+    "name": "Slottskapellet, Oslo",
+    "images": []
+  },
+  {
+    "lat": "60.0254",
+    "lng": "9.8682",
+    "name": "Snarum kirke",
+    "images": []
+  },
+  {
+    "lat": "59.8812",
+    "lng": "10.6110",
+    "name": "Snarøya kirke",
+    "images": []
+  },
+  {
+    "lat": "63.3999",
+    "lng": "9.5065",
+    "name": "Snillfjord kirke",
+    "images": []
+  },
+  {
+    "lat": "64.2441",
+    "lng": "12.3706",
+    "name": "Snåsa kirke",
+    "images": []
+  },
+  {
+    "lat": "59.7959",
+    "lng": "10.8122",
+    "name": "Sofiemyr kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9224",
+    "lng": "10.7661",
+    "name": "Sofienberg kirke",
+    "images": []
+  },
+  {
+    "lat": "62.9548",
+    "lng": "10.1924",
+    "name": "Soknedal kirke",
+    "images": []
+  },
+  {
+    "lat": "58.8902",
+    "lng": "5.6191",
+    "name": "Sola kirke",
+    "images": []
+  },
+  {
+    "lat": "60.3726",
+    "lng": "5.3354",
+    "name": "Solheim kirke",
+    "images": []
+  },
+  {
+    "lat": "60.8879",
+    "lng": "5.4647",
+    "name": "Solheim kyrkje, Masfjorden",
+    "images": []
+  },
+  {
+    "lat": "59.3255",
+    "lng": "10.9638",
+    "name": "Solli kirke",
+    "images": []
+  },
+  {
+    "lat": "61.7802",
+    "lng": "10.4008",
+    "name": "Sollia kirke",
+    "images": []
+  },
+  {
+    "lat": "65.1843",
+    "lng": "12.1233",
+    "name": "Solstad kirke",
+    "images": []
+  },
+  {
+    "lat": "59.1730",
+    "lng": "9.5591",
+    "name": "Solum kirke",
+    "images": []
+  },
+  {
+    "lat": "61.0756",
+    "lng": "4.8393",
+    "name": "Solund kyrkje",
+    "images": []
+  },
+  {
+    "lat": "61.3006",
+    "lng": "7.2372",
+    "name": "Solvorn kyrkje",
+    "images": []
+  },
+  {
+    "lat": "68.7002",
+    "lng": "15.4123",
+    "name": "Sortland kirke",
+    "images": []
+  },
+  {
+    "lat": "58.0465",
+    "lng": "7.1419",
+    "name": "Spangereid kirke",
+    "images": []
+  },
+  {
+    "lat": "58.0931",
+    "lng": "6.9018",
+    "name": "Spind kirke",
+    "images": []
+  },
+  {
+    "lat": "62.4678",
+    "lng": "6.3478",
+    "name": "Spjelkavik kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.5950",
+    "lng": "11.0684",
+    "name": "Spydeberg kirke",
+    "images": []
+  },
+  {
+    "lat": "60.3868",
+    "lng": "5.3314",
+    "name": "St. Jakob kirke, Bergen",
+    "images": []
+  },
+  {
+    "lat": "62.0399",
+    "lng": "5.5190",
+    "name": "St. Jetmund kyrkje, Vanylven",
+    "images": []
+  },
+  {
+    "lat": "58.9687",
+    "lng": "5.7491",
+    "name": "St. Johannes kirke, Stavanger",
+    "images": []
+  },
+  {
+    "lat": "60.3790",
+    "lng": "5.3235",
+    "name": "St. Markus kirke, Bergen",
+    "images": []
+  },
+  {
+    "lat": "58.9706",
+    "lng": "5.7367",
+    "name": "St. Petri kirke, Stavanger",
+    "images": []
+  },
+  {
+    "lat": "63.4984",
+    "lng": "10.0094",
+    "name": "Stadsbygd kirke",
+    "images": []
+  },
+  {
+    "lat": "60.6642",
+    "lng": "5.7497",
+    "name": "Stamnes kyrkje",
+    "images": []
+  },
+  {
+    "lat": "68.1440",
+    "lng": "13.8392",
+    "name": "Stamsund kirke",
+    "images": []
+  },
+  {
+    "lat": "60.7098",
+    "lng": "11.1359",
+    "name": "Stange kirke",
+    "images": []
+  },
+  {
+    "lat": "62.9171",
+    "lng": "8.4592",
+    "name": "Stangvik kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.0416",
+    "lng": "9.6996",
+    "name": "Stathelle kirke",
+    "images": []
+  },
+  {
+    "lat": "64.4967",
+    "lng": "11.1345",
+    "name": "Statland kirke",
+    "images": []
+  },
+  {
+    "lat": "61.5351",
+    "lng": "5.1818",
+    "name": "Stavang kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.9656",
+    "lng": "5.7386",
+    "name": "Stavanger døvekirke",
+    "images": []
+  },
+  {
+    "lat": "58.9974",
+    "lng": "10.0346",
+    "name": "Stavern kirke",
+    "images": []
+  },
+  {
+    "lat": "61.2266",
+    "lng": "7.0956",
+    "name": "Stedje kyrkje",
+    "images": []
+  },
+  {
+    "lat": "67.9361",
+    "lng": "14.9795",
+    "name": "Steigen kirke",
+    "images": []
+  },
+  {
+    "lat": "64.7549",
+    "lng": "11.3047",
+    "name": "Steine kapell",
+    "images": []
+  },
+  {
+    "lat": "63.3279",
+    "lng": "8.6955",
+    "name": "Stemshaug kirke",
+    "images": []
+  },
+  {
+    "lat": "60.2775",
+    "lng": "11.0886",
+    "name": "Stensgård kirke",
+    "images": []
+  },
+  {
+    "lat": "58.9646",
+    "lng": "5.6901",
+    "name": "Stokka kirke, Stavanger",
+    "images": []
+  },
+  {
+    "lat": "59.2206",
+    "lng": "10.3063",
+    "name": "Stokke kirke",
+    "images": []
+  },
+  {
+    "lat": "58.4919",
+    "lng": "8.8440",
+    "name": "Stokken kirke",
+    "images": []
+  },
+  {
+    "lat": "64.0373",
+    "lng": "10.0470",
+    "name": "Stoksund kirke",
+    "images": []
+  },
+  {
+    "lat": "69.0832",
+    "lng": "17.1742",
+    "name": "Stonglandet kirke",
+    "images": []
+  },
+  {
+    "lat": "59.7872",
+    "lng": "5.5107",
+    "name": "Stord kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.3839",
+    "lng": "7.0144",
+    "name": "Stordal gamle kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.3826",
+    "lng": "7.0005",
+    "name": "Stordal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "63.3126",
+    "lng": "11.8509",
+    "name": "Stordalen kapell, Meråker",
+    "images": []
+  },
+  {
+    "lat": "60.1272",
+    "lng": "5.0792",
+    "name": "Store-Kalsøy kapell",
+    "images": []
+  },
+  {
+    "lat": "61.5241",
+    "lng": "11.0483",
+    "name": "Stor-Elvdal kirke",
+    "images": []
+  },
+  {
+    "lat": "60.3516",
+    "lng": "5.3448",
+    "name": "Storetveit kirke",
+    "images": []
+  },
+  {
+    "lat": "69.2722",
+    "lng": "19.9472",
+    "name": "Storfjord kirke",
+    "images": []
+  },
+  {
+    "lat": "63.6629",
+    "lng": "9.3976",
+    "name": "Storfosna kirke",
+    "images": []
+  },
+  {
+    "lat": "60.8041",
+    "lng": "11.0463",
+    "name": "Storhamar kirke",
+    "images": []
+  },
+  {
+    "lat": "69.2312",
+    "lng": "19.2336",
+    "name": "Storsteinnes kapell",
+    "images": []
+  },
+  {
+    "lat": "59.9556",
+    "lng": "10.9260",
+    "name": "Stovner kirke",
+    "images": []
+  },
+  {
+    "lat": "61.2906",
+    "lng": "11.2741",
+    "name": "Strand kirke, Stor-Elvdal",
+    "images": []
+  },
+  {
+    "lat": "60.9756",
+    "lng": "9.1822",
+    "name": "Strand kyrkje, Svenes i Nord-Aurdal",
+    "images": []
+  },
+  {
+    "lat": "63.5536",
+    "lng": "10.2204",
+    "name": "Stranda kirke, Leksvik",
+    "images": []
+  },
+  {
+    "lat": "62.3084",
+    "lng": "6.9475",
+    "name": "Stranda kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.2694",
+    "lng": "6.0132",
+    "name": "Strandebarm kyrkje",
+    "images": []
+  },
+  {
+    "lat": "68.3929",
+    "lng": "14.4688",
+    "name": "Strandlandet kirke",
+    "images": []
+  },
+  {
+    "lat": "60.5137",
+    "lng": "11.2476",
+    "name": "Strandlykkja kapell",
+    "images": []
+  },
+  {
+    "lat": "60.1596",
+    "lng": "5.6672",
+    "name": "Strandvik kyrkje",
+    "images": []
+  },
+  {
+    "lat": "69.1415",
+    "lng": "18.1477",
+    "name": "Straumen kapell",
+    "images": []
+  },
+  {
+    "lat": "63.0526",
+    "lng": "8.0243",
+    "name": "Straumsnes kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.1109",
+    "lng": "9.6678",
+    "name": "Stridsklev kirke",
+    "images": []
+  },
+  {
+    "lat": "63.4131",
+    "lng": "10.4443",
+    "name": "Strinda kirke",
+    "images": []
+  },
+  {
+    "lat": "63.4255",
+    "lng": "10.4424",
+    "name": "Strindheim kirke",
+    "images": []
+  },
+  {
+    "lat": "60.4015",
+    "lng": "5.1897",
+    "name": "Strusshamn kirke, Askøy",
+    "images": []
+  },
+  {
+    "lat": "60.2436",
+    "lng": "11.7635",
+    "name": "Strøm kirke",
+    "images": []
+  },
+  {
+    "lat": "59.7425",
+    "lng": "10.1869",
+    "name": "Strømsgodset kirke",
+    "images": []
+  },
+  {
+    "lat": "60.3396",
+    "lng": "9.8439",
+    "name": "Strømsoddbygda kapell",
+    "images": []
+  },
+  {
+    "lat": "59.7360",
+    "lng": "10.2084",
+    "name": "Strømsø kirke",
+    "images": []
+  },
+  {
+    "lat": "62.9071",
+    "lng": "11.8932",
+    "name": "Stugudal kapell",
+    "images": []
+  },
+  {
+    "lat": "59.3378",
+    "lng": "9.8957",
+    "name": "Styrvoll kirke",
+    "images": []
+  },
+  {
+    "lat": "59.6731",
+    "lng": "5.9657",
+    "name": "Stødle kyrkje, Etne",
+    "images": []
+  },
+  {
+    "lat": "58.8200",
+    "lng": "9.3762",
+    "name": "Støle kirke",
+    "images": []
+  },
+  {
+    "lat": "63.0315",
+    "lng": "10.2916",
+    "name": "Støren kirke",
+    "images": []
+  },
+  {
+    "lat": "61.9186",
+    "lng": "5.7657",
+    "name": "Stårheim kyrkje",
+    "images": []
+  },
+  {
+    "lat": "63.8471",
+    "lng": "8.4560",
+    "name": "Sula kapell",
+    "images": []
+  },
+  {
+    "lat": "59.3385",
+    "lng": "6.0257",
+    "name": "Suldal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.9650",
+    "lng": "5.6083",
+    "name": "Sunde kirke, Stavanger",
+    "images": []
+  },
+  {
+    "lat": "60.0736",
+    "lng": "5.7564",
+    "name": "Sundvor kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.0854",
+    "lng": "6.8662",
+    "name": "Sunnylven kyrkje",
+    "images": []
+  },
+  {
+    "lat": "65.3946",
+    "lng": "14.0132",
+    "name": "Susendal kirke",
+    "images": []
+  },
+  {
+    "lat": "78.2152",
+    "lng": "15.6538",
+    "name": "Svalbard kirke",
+    "images": []
+  },
+  {
+    "lat": "69.4535",
+    "lng": "30.0549",
+    "name": "Svanvik kirke",
+    "images": []
+  },
+  {
+    "lat": "59.4024",
+    "lng": "9.9612",
+    "name": "Svarstad kirke",
+    "images": []
+  },
+  {
+    "lat": "61.3191",
+    "lng": "9.8557",
+    "name": "Svatsum kirke",
+    "images": []
+  },
+  {
+    "lat": "59.5433",
+    "lng": "5.3514",
+    "name": "Sveio kyrkje",
+    "images": []
+  },
+  {
+    "lat": "61.7667",
+    "lng": "5.2840",
+    "name": "Svelgen kapell",
+    "images": []
+  },
+  {
+    "lat": "59.6135",
+    "lng": "10.4079",
+    "name": "Svelvik kirke",
+    "images": []
+  },
+  {
+    "lat": "58.8286",
+    "lng": "5.8278",
+    "name": "Sviland kapell",
+    "images": []
+  },
+  {
+    "lat": "63.5828",
+    "lng": "9.5162",
+    "name": "Agdenes kirke",
+    "images": []
+  },
+  {
+    "lat": "59.4241",
+    "lng": "11.0164",
+    "name": "Svinndal kirke",
+    "images": []
+  },
+  {
+    "lat": "68.2335",
+    "lng": "14.5633",
+    "name": "Svolvær kirke",
+    "images": []
+  },
+  {
+    "lat": "62.3936",
+    "lng": "6.5816",
+    "name": "Sykkylven kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.8987",
+    "lng": "10.2815",
+    "name": "Sylling kirke",
+    "images": []
+  },
+  {
+    "lat": "62.2994",
+    "lng": "7.2631",
+    "name": "Sylte kyrkje, Valldal",
+    "images": []
+  },
+  {
+    "lat": "62.0909",
+    "lng": "5.7440",
+    "name": "Syvde kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.6124",
+    "lng": "5.1529",
+    "name": "Sæbø kyrkje",
+    "images": []
+  },
+  {
+    "lat": "61.1124",
+    "lng": "6.3891",
+    "name": "Sæle kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.3406",
+    "lng": "5.2697",
+    "name": "Sælen kirke",
+    "images": []
+  },
+  {
+    "lat": "61.5992",
+    "lng": "9.7358",
+    "name": "Sødorp kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.9075",
+    "lng": "10.7380",
+    "name": "Akershus slottskirke",
+    "images": []
+  },
+  {
+    "lat": "58.0904",
+    "lng": "7.8420",
+    "name": "Søgne gamle kirke",
+    "images": []
+  },
+  {
+    "lat": "58.0949",
+    "lng": "7.7873",
+    "name": "Søgne hovedkirke",
+    "images": []
+  },
+  {
+    "lat": "58.1512",
+    "lng": "8.0761",
+    "name": "Søm kirke",
+    "images": []
+  },
+  {
+    "lat": "62.0993",
+    "lng": "11.6609",
+    "name": "Sømådal kirke",
+    "images": []
+  },
+  {
+    "lat": "59.7174",
+    "lng": "11.4487",
+    "name": "Søndre Høland kirke",
+    "images": []
+  },
+  {
+    "lat": "59.1279",
+    "lng": "5.6436",
+    "name": "Sørbø kyrkje",
+    "images": []
+  },
+  {
+    "lat": "61.6679",
+    "lng": "11.7861",
+    "name": "Søre Elvdal kirke",
+    "images": []
+  },
+  {
+    "lat": "61.1728",
+    "lng": "11.9142",
+    "name": "Søre Osen kirke",
+    "images": []
+  },
+  {
+    "lat": "59.4231",
+    "lng": "5.4461",
+    "name": "Aksdal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.3150",
+    "lng": "5.2732",
+    "name": "Søreide kirke",
+    "images": []
+  },
+  {
+    "lat": "60.0156",
+    "lng": "10.6166",
+    "name": "Sørkedalen kirke",
+    "images": []
+  },
+  {
+    "lat": "64.2485",
+    "lng": "13.7486",
+    "name": "Sørli kirke",
+    "images": []
+  },
+  {
+    "lat": "58.9110",
+    "lng": "5.6762",
+    "name": "Sørnes kirke",
+    "images": []
+  },
+  {
+    "lat": "69.1753",
+    "lng": "18.0859",
+    "name": "Sørreisa kirke",
+    "images": []
+  },
+  {
+    "lat": "60.9428",
+    "lng": "11.7737",
+    "name": "Sørskogbygda kirke",
+    "images": []
+  },
+  {
+    "lat": "60.5168",
+    "lng": "10.2955",
+    "name": "Sørum kirke, Brandbu",
+    "images": []
+  },
+  {
+    "lat": "66.3871",
+    "lng": "13.1199",
+    "name": "Aldersund kirke",
+    "images": []
+  },
+  {
+    "lat": "60.0066",
+    "lng": "11.2346",
+    "name": "Sørum kirke, Sørum",
+    "images": []
+  },
+  {
+    "lat": "61.9304",
+    "lng": "5.1109",
+    "name": "Sør-Vågsøy kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.5286",
+    "lng": "10.7532",
+    "name": "Såner kirke",
+    "images": []
+  },
+  {
+    "lat": "60.4210",
+    "lng": "5.5260",
+    "name": "Takvam kapell",
+    "images": []
+  },
+  {
+    "lat": "59.1063",
+    "lng": "5.8415",
+    "name": "Talgje kyrkje",
+    "images": []
+  },
+  {
+    "lat": "70.0417",
+    "lng": "22.9490",
+    "name": "Talvik kirke",
+    "images": []
+  },
+  {
+    "lat": "70.3993",
+    "lng": "28.1857",
+    "name": "Tana kirke",
+    "images": []
+  },
+  {
+    "lat": "58.9354",
+    "lng": "5.6033",
+    "name": "Tananger kirke",
+    "images": []
+  },
+  {
+    "lat": "60.6179",
+    "lng": "11.2646",
+    "name": "Tangen kirke, Hedmark",
+    "images": []
+  },
+  {
+    "lat": "59.0241",
+    "lng": "9.9697",
+    "name": "Tanum kirke, Brunlanes",
+    "images": []
+  },
+  {
+    "lat": "58.9813",
+    "lng": "5.6935",
+    "name": "Tasta kirke, Stavanger",
+    "images": []
+  },
+  {
+    "lat": "59.2514",
+    "lng": "10.4167",
+    "name": "Teie kirke",
+    "images": []
+  },
+  {
+    "lat": "63.4110",
+    "lng": "10.4004",
+    "name": "Tempe kirke",
+    "images": []
+  },
+  {
+    "lat": "63.3615",
+    "lng": "10.4054",
+    "name": "Tiller kirke",
+    "images": []
+  },
+  {
+    "lat": "60.3939",
+    "lng": "10.5102",
+    "name": "St. Petri kirke, Gran (Tingelstad gamle kirke)",
+    "images": []
+  },
+  {
+    "lat": "60.3951",
+    "lng": "10.4857",
+    "name": "Tingelstad kirke",
+    "images": []
+  },
+  {
+    "lat": "65.8940",
+    "lng": "12.3979",
+    "name": "Alstahaug kirke, Alstahaug",
+    "images": []
+  },
+  {
+    "lat": "60.9834",
+    "lng": "9.2590",
+    "name": "Tingnes kirke",
+    "images": []
+  },
+  {
+    "lat": "62.9119",
+    "lng": "8.1817",
+    "name": "Tingvoll kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.1294",
+    "lng": "11.4446",
+    "name": "Tistedal kirke",
+    "images": []
+  },
+  {
+    "lat": "63.6694",
+    "lng": "8.3088",
+    "name": "Titran kapell",
+    "images": []
+  },
+  {
+    "lat": "68.5472",
+    "lng": "16.3989",
+    "name": "Tjeldsund kirke",
+    "images": []
+  },
+  {
+    "lat": "58.9506",
+    "lng": "5.7023",
+    "name": "Tjensvoll kirke",
+    "images": []
+  },
+  {
+    "lat": "61.2152",
+    "lng": "6.5438",
+    "name": "Tjugum kyrkje",
+    "images": []
+  },
+  {
+    "lat": "68.9002",
+    "lng": "15.2769",
+    "name": "Alsvåg kirke",
+    "images": []
+  },
+  {
+    "lat": "59.1136",
+    "lng": "10.3916",
+    "name": "Tjøme kirke",
+    "images": []
+  },
+  {
+    "lat": "65.8271",
+    "lng": "12.4237",
+    "name": "Tjøtta kirke",
+    "images": []
+  },
+  {
+    "lat": "62.8139",
+    "lng": "8.7163",
+    "name": "Todalen kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.4150",
+    "lng": "10.9941",
+    "name": "Tolga kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9429",
+    "lng": "10.8051",
+    "name": "Tonsen kirke",
+    "images": []
+  },
+  {
+    "lat": "60.6640",
+    "lng": "8.7084",
+    "name": "Torpo stavkyrkje",
+    "images": []
+  },
+  {
+    "lat": "69.9646",
+    "lng": "23.2518",
+    "name": "Alta kirke",
+    "images": []
+  },
+  {
+    "lat": "58.2044",
+    "lng": "7.9289",
+    "name": "Torridal kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9386",
+    "lng": "10.7734",
+    "name": "Torshov kirke",
+    "images": []
+  },
+  {
+    "lat": "59.1812",
+    "lng": "10.4414",
+    "name": "Torød kirke",
+    "images": []
+  },
+  {
+    "lat": "65.2539",
+    "lng": "12.7892",
+    "name": "Tosen kapell, Lande",
+    "images": []
+  },
+  {
+    "lat": "60.6434",
+    "lng": "10.9999",
+    "name": "Totenviken kirke",
+    "images": []
+  },
+  {
+    "lat": "61.9324",
+    "lng": "5.3881",
+    "name": "Totland kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.1094",
+    "lng": "10.6302",
+    "name": "Alvdal kirke",
+    "images": []
+  },
+  {
+    "lat": "59.8105",
+    "lng": "10.2572",
+    "name": "Tranby kirke",
+    "images": []
+  },
+  {
+    "lat": "69.1440",
+    "lng": "17.4424",
+    "name": "Tranøy kirke",
+    "images": []
+  },
+  {
+    "lat": "58.4590",
+    "lng": "8.7658",
+    "name": "Trefoldighet kirke, Arendal",
+    "images": []
+  },
+  {
+    "lat": "59.9168",
+    "lng": "10.7452",
+    "name": "Trefoldighetskirken, Oslo",
+    "images": []
+  },
+  {
+    "lat": "62.5218",
+    "lng": "7.1381",
+    "name": "Tresfjord kyrkje",
+    "images": []
+  },
+  {
+    "lat": "69.6488",
+    "lng": "18.9568",
+    "name": "Tromsø domkirke",
+    "images": []
+  },
+  {
+    "lat": "60.5720",
+    "lng": "5.2334",
+    "name": "Alversund kyrkje",
+    "images": []
+  },
+  {
+    "lat": "69.6811",
+    "lng": "19.0628",
+    "name": "Tromsø døvekirke",
+    "images": []
+  },
+  {
+    "lat": "58.4498",
+    "lng": "8.8641",
+    "name": "Tromøy kirke",
+    "images": []
+  },
+  {
+    "lat": "68.8219",
+    "lng": "16.5630",
+    "name": "Trondenes kirke",
+    "images": []
+  },
+  {
+    "lat": "64.7394",
+    "lng": "12.8453",
+    "name": "Trones kirke, Namsskogan",
+    "images": []
+  },
+  {
+    "lat": "66.5013",
+    "lng": "12.0984",
+    "name": "Træna kirke",
+    "images": []
+  },
+  {
+    "lat": "60.5021",
+    "lng": "11.3828",
+    "name": "Trøftskogen kapell",
+    "images": []
+  },
+  {
+    "lat": "59.5060",
+    "lng": "11.3587",
+    "name": "Trømborg kirke",
+    "images": []
+  },
+  {
+    "lat": "59.3089",
+    "lng": "10.1770",
+    "name": "Andebu kirke",
+    "images": []
+  },
+  {
+    "lat": "59.7553",
+    "lng": "8.7884",
+    "name": "Tuddal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.4920",
+    "lng": "10.0112",
+    "name": "Tuft kirke",
+    "images": []
+  },
+  {
+    "lat": "59.2922",
+    "lng": "11.0835",
+    "name": "Tune kirke",
+    "images": []
+  },
+  {
+    "lat": "60.4574",
+    "lng": "8.7463",
+    "name": "Tunhovd kirke",
+    "images": []
+  },
+  {
+    "lat": "60.4543",
+    "lng": "5.1316",
+    "name": "Tveit kirke, Askøy",
+    "images": []
+  },
+  {
+    "lat": "58.2283",
+    "lng": "8.1214",
+    "name": "Tveit kirke, Kristiansand",
+    "images": []
+  },
+  {
+    "lat": "67.2971",
+    "lng": "14.7366",
+    "name": "Tverlandet kirke",
+    "images": []
+  },
+  {
+    "lat": "63.0559",
+    "lng": "11.5657",
+    "name": "Tydal kirke",
+    "images": []
+  },
+  {
+    "lat": "69.3185",
+    "lng": "16.1267",
+    "name": "Andenes kirke",
+    "images": []
+  },
+  {
+    "lat": "62.1373",
+    "lng": "10.7955",
+    "name": "Tylldal kirke",
+    "images": []
+  },
+  {
+    "lat": "62.2850",
+    "lng": "10.7542",
+    "name": "Tynset kirke",
+    "images": []
+  },
+  {
+    "lat": "60.0861",
+    "lng": "10.0978",
+    "name": "Tyristrand kirke",
+    "images": []
+  },
+  {
+    "lat": "60.0405",
+    "lng": "5.5312",
+    "name": "Tysnes kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.1172",
+    "lng": "6.5621",
+    "name": "Tyssedal kirke",
+    "images": []
+  },
+  {
+    "lat": "59.3316",
+    "lng": "5.4916",
+    "name": "Tysvær kyrkje",
+    "images": []
+  },
+  {
+    "lat": "67.8969",
+    "lng": "15.8632",
+    "name": "Tømmerneset kirke",
+    "images": []
+  },
+  {
+    "lat": "61.0574",
+    "lng": "7.5174",
+    "name": "Tønjum kyrkje",
+    "images": []
+  },
+  {
+    "lat": "61.1345",
+    "lng": "12.1092",
+    "name": "Tørberget kirke",
+    "images": []
+  },
+  {
+    "lat": "68.9242",
+    "lng": "17.1182",
+    "name": "Andørja kirke, Andørja",
+    "images": []
+  },
+  {
+    "lat": "59.1551",
+    "lng": "8.8107",
+    "name": "Tørdal kirke",
+    "images": []
+  },
+  {
+    "lat": "60.0882",
+    "lng": "11.3989",
+    "name": "Udenes kirke",
+    "images": []
+  },
+  {
+    "lat": "59.4383",
+    "lng": "5.2702",
+    "name": "Udland kirke",
+    "images": []
+  },
+  {
+    "lat": "60.0087",
+    "lng": "5.4983",
+    "name": "Uggdal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.0839",
+    "lng": "11.1646",
+    "name": "Ullensaker kirke",
+    "images": []
+  },
+  {
+    "lat": "60.3195",
+    "lng": "6.6532",
+    "name": "Ullensvang kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.9257",
+    "lng": "10.6547",
+    "name": "Ullern kirke, Oslo",
+    "images": []
+  },
+  {
+    "lat": "60.2128",
+    "lng": "11.6358",
+    "name": "Ullern kirke, Sør-Odal",
+    "images": []
+  },
+  {
+    "lat": "59.2047",
+    "lng": "11.1213",
+    "name": "Ullerøy kirke",
+    "images": []
+  },
+  {
+    "lat": "68.4210",
+    "lng": "17.3788",
+    "name": "Ankenes kirke",
+    "images": []
+  },
+  {
+    "lat": "60.1800",
+    "lng": "10.2582",
+    "name": "Ullerål kirke",
+    "images": []
+  },
+  {
+    "lat": "69.5326",
+    "lng": "19.6411",
+    "name": "Ullsfjord kirke, Sjursnes",
+    "images": []
+  },
+  {
+    "lat": "60.9951",
+    "lng": "9.1137",
+    "name": "Ulnes kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.3444",
+    "lng": "5.8460",
+    "name": "Ulstein kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.5674",
+    "lng": "6.9175",
+    "name": "Ulvik kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.9509",
+    "lng": "7.1023",
+    "name": "Undredal stavkyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.3720",
+    "lng": "10.3687",
+    "name": "Undrumsdal kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9212",
+    "lng": "10.7198",
+    "name": "Uranienborg kirke",
+    "images": []
+  },
+  {
+    "lat": "61.2981",
+    "lng": "7.3225",
+    "name": "Urnes stavkyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.9313",
+    "lng": "5.8581",
+    "name": "Uskedalen kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.2447",
+    "lng": "11.6822",
+    "name": "Aremark kirke",
+    "images": []
+  },
+  {
+    "lat": "60.4228",
+    "lng": "6.6222",
+    "name": "Utne kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.3095",
+    "lng": "4.8828",
+    "name": "Utsira kirke",
+    "images": []
+  },
+  {
+    "lat": "61.8069",
+    "lng": "6.5203",
+    "name": "Utvik kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.2695",
+    "lng": "8.7529",
+    "name": "Uvdal kirke",
+    "images": []
+  },
+  {
+    "lat": "60.2652",
+    "lng": "8.8348",
+    "name": "Uvdal stavkirke",
+    "images": []
+  },
+  {
+    "lat": "70.0762",
+    "lng": "29.7509",
+    "name": "Vadsø kirke",
+    "images": []
+  },
+  {
+    "lat": "60.4747",
+    "lng": "5.7440",
+    "name": "Vaksdal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "68.1922",
+    "lng": "13.9422",
+    "name": "Valberg kirke",
+    "images": []
+  },
+  {
+    "lat": "62.5032",
+    "lng": "6.1302",
+    "name": "Valderøy kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.4191",
+    "lng": "5.4678",
+    "name": "Arna kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.3130",
+    "lng": "9.3308",
+    "name": "Valebø kirke",
+    "images": []
+  },
+  {
+    "lat": "59.6951",
+    "lng": "5.4760",
+    "name": "Valen kapell, Sveio",
+    "images": []
+  },
+  {
+    "lat": "59.6951",
+    "lng": "5.4760",
+    "name": "Valen kyrkje, Kvinnherad",
+    "images": []
+  },
+  {
+    "lat": "59.6750",
+    "lng": "5.4669",
+    "name": "Valestrand kyrkje",
+    "images": []
+  },
+  {
+    "lat": "69.6919",
+    "lng": "25.9315",
+    "name": "Valjok kirke",
+    "images": []
+  },
+  {
+    "lat": "58.0817",
+    "lng": "7.3076",
+    "name": "Valle kirke, Sør-Audnedal",
+    "images": []
+  },
+  {
+    "lat": "59.2096",
+    "lng": "7.5345",
+    "name": "Valle kyrkje, Setesdal",
+    "images": []
+  },
+  {
+    "lat": "60.7012",
+    "lng": "11.3286",
+    "name": "Vallset kirke",
+    "images": []
+  },
+  {
+    "lat": "59.2901",
+    "lng": "10.2509",
+    "name": "Arnadal kirke",
+    "images": []
+  },
+  {
+    "lat": "63.1378",
+    "lng": "8.4909",
+    "name": "Valsøyfjord kirke",
+    "images": []
+  },
+  {
+    "lat": "60.8024",
+    "lng": "11.1326",
+    "name": "Vang kirke, Hamar",
+    "images": []
+  },
+  {
+    "lat": "60.9061",
+    "lng": "7.1878",
+    "name": "Vangen kyrkje, Aurland",
+    "images": []
+  },
+  {
+    "lat": "61.1698",
+    "lng": "6.6416",
+    "name": "Vangsnes kyrkje",
+    "images": []
+  },
+  {
+    "lat": "69.1723",
+    "lng": "17.7549",
+    "name": "Vangsvik kapell",
+    "images": []
+  },
+  {
+    "lat": "58.1006",
+    "lng": "6.6940",
+    "name": "Vanse kirke",
+    "images": []
+  },
+  {
+    "lat": "62.0748",
+    "lng": "5.5255",
+    "name": "Vanylven kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.0972",
+    "lng": "5.9757",
+    "name": "Varaldsøy kyrkje",
+    "images": []
+  },
+  {
+    "lat": "61.0224",
+    "lng": "6.3846",
+    "name": "Arnafjord kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.9594",
+    "lng": "5.7511",
+    "name": "Varden kirke",
+    "images": []
+  },
+  {
+    "lat": "58.9935",
+    "lng": "5.6751",
+    "name": "Vardeneset kirke",
+    "images": []
+  },
+  {
+    "lat": "70.3710",
+    "lng": "31.1133",
+    "name": "Vardø kirke",
+    "images": []
+  },
+  {
+    "lat": "58.5978",
+    "lng": "5.6621",
+    "name": "Varhaug kyrkje",
+    "images": []
+  },
+  {
+    "lat": "65.8224",
+    "lng": "14.1980",
+    "name": "Varntresk kirke",
+    "images": []
+  },
+  {
+    "lat": "59.3503",
+    "lng": "11.1896",
+    "name": "Varteig kirke",
+    "images": []
+  },
+  {
+    "lat": "65.0979",
+    "lng": "12.4217",
+    "name": "Vassås kirke, Bindal",
+    "images": []
+  },
+  {
+    "lat": "59.4850",
+    "lng": "10.0914",
+    "name": "Vassås kirke, Vestfold",
+    "images": []
+  },
+  {
+    "lat": "60.5677",
+    "lng": "12.0584",
+    "name": "Arneberg kirke",
+    "images": []
+  },
+  {
+    "lat": "62.5547",
+    "lng": "6.6071",
+    "name": "Vatne kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.9603",
+    "lng": "9.6149",
+    "name": "Vatnås kirke",
+    "images": []
+  },
+  {
+    "lat": "59.4932",
+    "lng": "5.7279",
+    "name": "Vats kyrkje",
+    "images": []
+  },
+  {
+    "lat": "65.6755",
+    "lng": "11.9625",
+    "name": "Vega kirke",
+    "images": []
+  },
+  {
+    "lat": "58.5341",
+    "lng": "8.1227",
+    "name": "Vegusdal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.7583",
+    "lng": "8.8588",
+    "name": "Vegårshei kirke",
+    "images": []
+  },
+  {
+    "lat": "59.1626",
+    "lng": "10.3460",
+    "name": "Veierland kirke",
+    "images": []
+  },
+  {
+    "lat": "60.2556",
+    "lng": "9.6513",
+    "name": "Veikåker kapell",
+    "images": []
+  },
+  {
+    "lat": "70.0503",
+    "lng": "20.6293",
+    "name": "Arnøy kirke",
+    "images": []
+  },
+  {
+    "lat": "60.9173",
+    "lng": "10.8906",
+    "name": "Veldre kirke",
+    "images": []
+  },
+  {
+    "lat": "65.4050",
+    "lng": "12.5220",
+    "name": "Velfjord kirke, Naustvik",
+    "images": []
+  },
+  {
+    "lat": "60.2068",
+    "lng": "10.0858",
+    "name": "Veme kirke",
+    "images": []
+  },
+  {
+    "lat": "64.5167",
+    "lng": "11.5418",
+    "name": "Vemundvik kirke",
+    "images": []
+  },
+  {
+    "lat": "61.5927",
+    "lng": "10.0526",
+    "name": "Venabygd kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.2764",
+    "lng": "7.9689",
+    "name": "Vennesla kirke",
+    "images": []
+  },
+  {
+    "lat": "61.8081",
+    "lng": "6.1417",
+    "name": "Vereide kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.6024",
+    "lng": "10.7319",
+    "name": "Vestby kirke",
+    "images": []
+  },
+  {
+    "lat": "68.3441",
+    "lng": "15.5036",
+    "name": "Vestbygd kirke, Lødingen",
+    "images": []
+  },
+  {
+    "lat": "59.1442",
+    "lng": "11.4547",
+    "name": "Asak kirke",
+    "images": []
+  },
+  {
+    "lat": "58.0948",
+    "lng": "6.7984",
+    "name": "Vestbygda kapell, Farsund",
+    "images": []
+  },
+  {
+    "lat": "59.1198",
+    "lng": "10.2400",
+    "name": "Vesterøy kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9273",
+    "lng": "11.9902",
+    "name": "Vestmarka kirke",
+    "images": []
+  },
+  {
+    "lat": "62.6276",
+    "lng": "7.0850",
+    "name": "Vestnes kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.9367",
+    "lng": "10.7293",
+    "name": "Vestre Aker kirke",
+    "images": []
+  },
+  {
+    "lat": "61.2002",
+    "lng": "10.1474",
+    "name": "Vestre Gausdal kirke (Nykirken)",
+    "images": []
+  },
+  {
+    "lat": "70.1119",
+    "lng": "29.3371",
+    "name": "Vestre Jakobselv kirke",
+    "images": []
+  },
+  {
+    "lat": "58.2588",
+    "lng": "8.3652",
+    "name": "Vestre Moland kirke",
+    "images": []
+  },
+  {
+    "lat": "59.1429",
+    "lng": "9.6417",
+    "name": "Vestre Porsgrunn kirke (Vestsidens kirke)",
+    "images": []
+  },
+  {
+    "lat": "60.1378",
+    "lng": "10.1807",
+    "name": "Ask kapell, Ringerike",
+    "images": []
+  },
+  {
+    "lat": "59.9526",
+    "lng": "9.9053",
+    "name": "Vestre Spone kirke",
+    "images": []
+  },
+  {
+    "lat": "63.8931",
+    "lng": "10.9685",
+    "name": "Vestvik kirke",
+    "images": []
+  },
+  {
+    "lat": "59.2853",
+    "lng": "8.0923",
+    "name": "Veum kyrkje",
+    "images": []
+  },
+  {
+    "lat": "65.7089",
+    "lng": "12.4551",
+    "name": "Vevelstad kirke",
+    "images": []
+  },
+  {
+    "lat": "61.4917",
+    "lng": "5.3968",
+    "name": "Vevring kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.6745",
+    "lng": "7.4277",
+    "name": "Veøy gamle kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.6857",
+    "lng": "7.4542",
+    "name": "Veøy kyrkje, Sølsnes",
+    "images": []
+  },
+  {
+    "lat": "58.2026",
+    "lng": "7.3339",
+    "name": "Vigmostad kirke",
+    "images": []
+  },
+  {
+    "lat": "62.5638",
+    "lng": "6.0781",
+    "name": "Vigra kyrkje",
+    "images": []
+  },
+  {
+    "lat": "64.4555",
+    "lng": "10.7615",
+    "name": "Vik kirke",
+    "images": []
+  },
+  {
+    "lat": "60.4769",
+    "lng": "5.2125",
+    "name": "Ask kirke, Askøy",
+    "images": []
+  },
+  {
+    "lat": "61.0801",
+    "lng": "6.5781",
+    "name": "Vik kyrkje, Sogn",
+    "images": []
+  },
+  {
+    "lat": "60.6986",
+    "lng": "5.5853",
+    "name": "Vike kyrkje, Lindås",
+    "images": []
+  },
+  {
+    "lat": "62.6131",
+    "lng": "7.1430",
+    "name": "Vike kyrkje, Vestnes",
+    "images": []
+  },
+  {
+    "lat": "59.5913",
+    "lng": "5.5869",
+    "name": "Vikebygd kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.4971",
+    "lng": "5.9099",
+    "name": "Vikedal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.4494",
+    "lng": "10.0400",
+    "name": "Viker kirke",
+    "images": []
+  },
+  {
+    "lat": "61.3516",
+    "lng": "6.1158",
+    "name": "Viksdalen kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.3491",
+    "lng": "6.1764",
+    "name": "Vikøy kyrkje",
+    "images": []
+  },
+  {
+    "lat": "61.3188",
+    "lng": "4.9627",
+    "name": "Vilnes kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.4173",
+    "lng": "10.8665",
+    "name": "Vingelen kirke",
+    "images": []
+  },
+  {
+    "lat": "59.8433",
+    "lng": "10.4366",
+    "name": "Asker kirke",
+    "images": []
+  },
+  {
+    "lat": "60.1948",
+    "lng": "12.0105",
+    "name": "Vinger kirke",
+    "images": []
+  },
+  {
+    "lat": "61.0723",
+    "lng": "10.4299",
+    "name": "Vingrom kirke",
+    "images": []
+  },
+  {
+    "lat": "63.2069",
+    "lng": "8.9970",
+    "name": "Vinje kirke, Hemne",
+    "images": []
+  },
+  {
+    "lat": "59.6194",
+    "lng": "7.8432",
+    "name": "Vinje kyrkje, Telemark",
+    "images": []
+  },
+  {
+    "lat": "60.7925",
+    "lng": "6.5111",
+    "name": "Vinje kyrkje, Voss",
+    "images": []
+  },
+  {
+    "lat": "62.7206",
+    "lng": "7.9358",
+    "name": "Vistdal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.4223",
+    "lng": "10.1328",
+    "name": "Vivestad kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9568",
+    "lng": "10.6494",
+    "name": "Voksen kirke",
+    "images": []
+  },
+  {
+    "lat": "59.5907",
+    "lng": "11.1549",
+    "name": "Askim Kirke",
+    "images": []
+  },
+  {
+    "lat": "61.1206",
+    "lng": "9.0591",
+    "name": "Volbu kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.1457",
+    "lng": "6.0674",
+    "name": "Volda kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.5328",
+    "lng": "7.4442",
+    "name": "Voll kyrkje, Måndalen",
+    "images": []
+  },
+  {
+    "lat": "62.4715",
+    "lng": "6.1886",
+    "name": "Volsdalen kirke",
+    "images": []
+  },
+  {
+    "lat": "59.3278",
+    "lng": "8.4168",
+    "name": "Vrådal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "63.7738",
+    "lng": "11.7504",
+    "name": "Vuku kirke",
+    "images": []
+  },
+  {
+    "lat": "63.4543",
+    "lng": "10.9549",
+    "name": "Værnes kirke",
+    "images": []
+  },
+  {
+    "lat": "67.6930",
+    "lng": "12.7095",
+    "name": "Værøy gamle kirke",
+    "images": []
+  },
+  {
+    "lat": "67.6654",
+    "lng": "12.6951",
+    "name": "Værøy kirke",
+    "images": []
+  },
+  {
+    "lat": "59.0638",
+    "lng": "5.6870",
+    "name": "Askje kirke, Mosterøy",
+    "images": []
+  },
+  {
+    "lat": "60.8457",
+    "lng": "10.1842",
+    "name": "Vølstad kirke",
+    "images": []
+  },
+  {
+    "lat": "68.2156",
+    "lng": "14.4838",
+    "name": "Vågan kirke",
+    "images": []
+  },
+  {
+    "lat": "58.1220",
+    "lng": "7.9558",
+    "name": "Vågsbygd kirke",
+    "images": []
+  },
+  {
+    "lat": "62.6058",
+    "lng": "7.3218",
+    "name": "Vågstranda kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.8227",
+    "lng": "7.0297",
+    "name": "Vågøy kyrkje",
+    "images": []
+  },
+  {
+    "lat": "61.8759",
+    "lng": "9.0977",
+    "name": "Vågåkyrkja",
+    "images": []
+  },
+  {
+    "lat": "59.4198",
+    "lng": "10.2766",
+    "name": "Våle kirke",
+    "images": []
+  },
+  {
+    "lat": "59.4885",
+    "lng": "10.8680",
+    "name": "Våler kirke, Østfold",
+    "images": []
+  },
+  {
+    "lat": "59.9068",
+    "lng": "10.7879",
+    "name": "Vålerengen kirke",
+    "images": []
+  },
+  {
+    "lat": "61.3482",
+    "lng": "5.0699",
+    "name": "Askvoll kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.4145",
+    "lng": "5.2701",
+    "name": "Vår Frelsers kirke, Haugesund",
+    "images": []
+  },
+  {
+    "lat": "63.4302",
+    "lng": "10.3981",
+    "name": "Vår Frue kirke, Trondheim",
+    "images": []
+  },
+  {
+    "lat": "60.4582",
+    "lng": "5.4394",
+    "name": "Ytre Arna kirke",
+    "images": []
+  },
+  {
+    "lat": "61.7594",
+    "lng": "11.1810",
+    "name": "Ytre Rendal kirke",
+    "images": []
+  },
+  {
+    "lat": "66.3453",
+    "lng": "14.1280",
+    "name": "Ytteren kirke",
+    "images": []
+  },
+  {
+    "lat": "60.0905",
+    "lng": "6.1133",
+    "name": "Ænes kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.7165",
+    "lng": "8.4310",
+    "name": "Øksendal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "70.2395",
+    "lng": "22.3513",
+    "name": "Øksfjord kirke",
+    "images": []
+  },
+  {
+    "lat": "68.8773",
+    "lng": "14.9723",
+    "name": "Øksnes kirke",
+    "images": []
+  },
+  {
+    "lat": "68.6748",
+    "lng": "17.1243",
+    "name": "Astafjord kirke",
+    "images": []
+  },
+  {
+    "lat": "59.6037",
+    "lng": "5.8020",
+    "name": "Ølen kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.9926",
+    "lng": "5.7845",
+    "name": "Ølve kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.9200",
+    "lng": "7.7534",
+    "name": "Øre kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.4810",
+    "lng": "11.6597",
+    "name": "Ørje kirke",
+    "images": []
+  },
+  {
+    "lat": "63.6916",
+    "lng": "9.6512",
+    "name": "Ørland kirke",
+    "images": []
+  },
+  {
+    "lat": "62.4790",
+    "lng": "6.8121",
+    "name": "Ørskog kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.2002",
+    "lng": "6.1306",
+    "name": "Ørsta kyrkje",
+    "images": []
+  },
+  {
+    "lat": "61.2556",
+    "lng": "12.5305",
+    "name": "Østby kirke",
+    "images": []
+  },
+  {
+    "lat": "59.8128",
+    "lng": "10.4640",
+    "name": "Østenstad kirke",
+    "images": []
+  },
+  {
+    "lat": "61.7375",
+    "lng": "10.8171",
+    "name": "Atneosen kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9403",
+    "lng": "10.6071",
+    "name": "Østerås kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9221",
+    "lng": "10.8200",
+    "name": "Østre Aker kirke",
+    "images": []
+  },
+  {
+    "lat": "61.2574",
+    "lng": "10.1553",
+    "name": "Østre Gausdal kirke",
+    "images": []
+  },
+  {
+    "lat": "60.8490",
+    "lng": "10.0787",
+    "name": "Østsinni kirke",
+    "images": []
+  },
+  {
+    "lat": "68.9975",
+    "lng": "19.1329",
+    "name": "Øverbygd kirke, Målselv",
+    "images": []
+  },
+  {
+    "lat": "62.3356",
+    "lng": "8.0685",
+    "name": "Øverdalen kirke, Rauma",
+    "images": []
+  },
+  {
+    "lat": "61.8896",
+    "lng": "11.0787",
+    "name": "Øvre Rendal kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9884",
+    "lng": "8.7320",
+    "name": "Atrå kyrkje",
+    "images": []
+  },
+  {
+    "lat": "63.0978",
+    "lng": "9.3219",
+    "name": "Øvre Rindal kapell",
+    "images": []
+  },
+  {
+    "lat": "59.9468",
+    "lng": "11.0356",
+    "name": "Øvre Rælingen kirke",
+    "images": []
+  },
+  {
+    "lat": "66.9642",
+    "lng": "15.3118",
+    "name": "Øvre Saltdal kirke",
+    "images": []
+  },
+  {
+    "lat": "60.8459",
+    "lng": "11.2046",
+    "name": "Øvre Vang kirke, Hamar",
+    "images": []
+  },
+  {
+    "lat": "58.2933",
+    "lng": "7.7895",
+    "name": "Øvrebø kirke",
+    "images": []
+  },
+  {
+    "lat": "62.9807",
+    "lng": "8.7186",
+    "name": "Øye kyrkje, Surnadal",
+    "images": []
+  },
+  {
+    "lat": "61.1671",
+    "lng": "8.3994",
+    "name": "Øye kyrkje, Vang",
+    "images": []
+  },
+  {
+    "lat": "61.1679",
+    "lng": "8.4000",
+    "name": "Øye stavkyrkje",
+    "images": []
+  },
+  {
+    "lat": "61.2662",
+    "lng": "10.4223",
+    "name": "Øyer kirke",
+    "images": []
+  },
+  {
+    "lat": "58.4117",
+    "lng": "8.6490",
+    "name": "Øyestad kirke",
+    "images": []
+  },
+  {
+    "lat": "62.7907",
+    "lng": "6.9170",
+    "name": "Aukra kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.5748",
+    "lng": "8.1741",
+    "name": "Øyfjell kyrkje",
+    "images": []
+  },
+  {
+    "lat": "61.0433",
+    "lng": "9.0141",
+    "name": "Øyjar kapell",
+    "images": []
+  },
+  {
+    "lat": "59.4198",
+    "lng": "11.6640",
+    "name": "Øymark kirke",
+    "images": []
+  },
+  {
+    "lat": "58.1673",
+    "lng": "7.5529",
+    "name": "Øyslebø kirke",
+    "images": []
+  },
+  {
+    "lat": "60.3877",
+    "lng": "6.2033",
+    "name": "Øystese kyrkje",
+    "images": []
+  },
+  {
+    "lat": "63.9670",
+    "lng": "10.2202",
+    "name": "Åfjord kirke",
+    "images": []
+  },
+  {
+    "lat": "58.7496",
+    "lng": "7.5173",
+    "name": "Åknes kapell",
+    "images": []
+  },
+  {
+    "lat": "59.7901",
+    "lng": "6.1015",
+    "name": "Åkra kyrkje, Kvinnherad",
+    "images": []
+  },
+  {
+    "lat": "59.2575",
+    "lng": "5.1919",
+    "name": "Åkra gamle kirke",
+    "images": []
+  },
+  {
+    "lat": "59.2570",
+    "lng": "5.1954",
+    "name": "Åkra kirke, Karmøy",
+    "images": []
+  },
+  {
+    "lat": "60.0372",
+    "lng": "11.3981",
+    "name": "Auli kirke",
+    "images": []
+  },
+  {
+    "lat": "60.3583",
+    "lng": "10.5857",
+    "name": "Ål kirke, Gran",
+    "images": []
+  },
+  {
+    "lat": "60.6292",
+    "lng": "8.5582",
+    "name": "Ål kyrkje, Ål",
+    "images": []
+  },
+  {
+    "lat": "62.8438",
+    "lng": "11.2852",
+    "name": "Ålen kirke",
+    "images": []
+  },
+  {
+    "lat": "62.4712",
+    "lng": "6.1457",
+    "name": "Ålesund kirke",
+    "images": []
+  },
+  {
+    "lat": "61.8397",
+    "lng": "5.6780",
+    "name": "Ålfoten kyrkje",
+    "images": []
+  },
+  {
+    "lat": "61.5308",
+    "lng": "6.2341",
+    "name": "Ålhus kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.4348",
+    "lng": "6.4308",
+    "name": "Ålvik kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.7658",
+    "lng": "8.5366",
+    "name": "Ålvundeid kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.7675",
+    "lng": "8.4877",
+    "name": "Åmli kirke",
+    "images": []
+  },
+  {
+    "lat": "61.2737",
+    "lng": "10.0047",
+    "name": "Aulstad kirke",
+    "images": []
+  },
+  {
+    "lat": "60.9969",
+    "lng": "10.0476",
+    "name": "Åmot kirke, Nord-Torpa",
+    "images": []
+  },
+  {
+    "lat": "61.1340",
+    "lng": "11.3729",
+    "name": "Åmot kirke, Rena",
+    "images": []
+  },
+  {
+    "lat": "59.6275",
+    "lng": "8.4072",
+    "name": "Åmotsdal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.1979",
+    "lng": "5.4907",
+    "name": "Åram kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.1546",
+    "lng": "6.1908",
+    "name": "Årdal gamle kyrkje, Ryfylke",
+    "images": []
+  },
+  {
+    "lat": "58.7071",
+    "lng": "7.8238",
+    "name": "Årdal kirke, Grendi",
+    "images": []
+  },
+  {
+    "lat": "61.0989",
+    "lng": "7.4951",
+    "name": "Årdal kyrkje, Nedre Årdal",
+    "images": []
+  },
+  {
+    "lat": "59.1546",
+    "lng": "6.1908",
+    "name": "Årdal kyrkje, Ryfylke",
+    "images": []
+  },
+  {
+    "lat": "60.1252",
+    "lng": "11.4723",
+    "name": "Årnes kirke",
+    "images": []
+  },
+  {
+    "lat": "60.9247",
+    "lng": "9.4134",
+    "name": "Aurdal kirke",
+    "images": []
+  },
+  {
+    "lat": "59.7051",
+    "lng": "10.5124",
+    "name": "Åros kirke",
+    "images": []
+  },
+  {
+    "lat": "60.3751",
+    "lng": "5.3523",
+    "name": "Årstad kirke",
+    "images": []
+  },
+  {
+    "lat": "59.6715",
+    "lng": "10.7687",
+    "name": "Ås kirke, Ås",
+    "images": []
+  },
+  {
+    "lat": "60.4753",
+    "lng": "5.3264",
+    "name": "Åsane gamle kirke",
+    "images": []
+  },
+  {
+    "lat": "60.4748",
+    "lng": "5.3258",
+    "name": "Åsane kirke",
+    "images": []
+  },
+  {
+    "lat": "63.6062",
+    "lng": "11.0382",
+    "name": "Åsen kirke",
+    "images": []
+  },
+  {
+    "lat": "58.6174",
+    "lng": "7.4140",
+    "name": "Åseral kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.3477",
+    "lng": "10.4681",
+    "name": "Åsgårdstrand kirke",
+    "images": []
+  },
+  {
+    "lat": "61.0117",
+    "lng": "10.7801",
+    "name": "Åsmarka kirke",
+    "images": []
+  },
+  {
+    "lat": "63.2658",
+    "lng": "8.5283",
+    "name": "Aure kirke",
+    "images": []
+  },
+  {
+    "lat": "60.7039",
+    "lng": "12.3796",
+    "name": "Åsnes Finnskog kirke",
+    "images": []
+  },
+  {
+    "lat": "60.6100",
+    "lng": "11.9763",
+    "name": "Åsnes kirke",
+    "images": []
+  },
+  {
+    "lat": "59.7542",
+    "lng": "10.1431",
+    "name": "Åssiden kirke",
+    "images": []
+  },
+  {
+    "lat": "63.0179",
+    "lng": "8.4966",
+    "name": "Åsskard kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.9269",
+    "lng": "11.4568",
+    "name": "Aurskog kirke",
+    "images": []
+  },
+  {
+    "lat": "58.0920",
+    "lng": "7.0459",
+    "name": "Austad kirke, Lyngdal",
+    "images": []
+  },
+  {
+    "lat": "58.9808",
+    "lng": "7.6079",
+    "name": "Austad kyrkje, Tveit",
+    "images": []
+  },
+  {
+    "lat": "60.0295",
+    "lng": "8.8264",
+    "name": "Austbygde kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.0617",
+    "lng": "6.3259",
+    "name": "Austefjord kyrkje",
+    "images": []
+  },
+  {
+    "lat": "70.4434",
+    "lng": "28.4876",
+    "name": "Austertana kapell",
+    "images": []
+  },
+  {
+    "lat": "60.1048",
+    "lng": "5.1698",
+    "name": "Austevoll kirke",
+    "images": []
+  },
+  {
+    "lat": "60.1016",
+    "lng": "12.3250",
+    "name": "Austmarka kirke",
+    "images": []
+  },
+  {
+    "lat": "58.5464",
+    "lng": "8.8112",
+    "name": "Austre Moland kirke",
+    "images": []
+  },
+  {
+    "lat": "60.7639",
+    "lng": "4.9156",
+    "name": "Austrheim kyrkje",
+    "images": []
+  },
+  {
+    "lat": "63.7041",
+    "lng": "9.7435",
+    "name": "Austråt borgkapell",
+    "images": []
+  },
+  {
+    "lat": "59.3559",
+    "lng": "5.2916",
+    "name": "Avaldsnes kirke",
+    "images": []
+  },
+  {
+    "lat": "60.8202",
+    "lng": "9.5636",
+    "name": "Bagn kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.9173",
+    "lng": "6.8703",
+    "name": "Bakka kyrkje, Nærøy",
+    "images": []
+  },
+  {
+    "lat": "58.4139",
+    "lng": "6.6588",
+    "name": "Bakke kirke, Sirnes",
+    "images": []
+  },
+  {
+    "lat": "63.4328",
+    "lng": "10.4104",
+    "name": "Bakke kirke, Trondheim",
+    "images": []
+  },
+  {
+    "lat": "58.4709",
+    "lng": "6.0225",
+    "name": "Bakkebø kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9489",
+    "lng": "10.7542",
+    "name": "Bakkehaugen kirke",
+    "images": []
+  },
+  {
+    "lat": "60.6682",
+    "lng": "10.9500",
+    "name": "Balke kirke",
+    "images": []
+  },
+  {
+    "lat": "68.3396",
+    "lng": "16.8206",
+    "name": "Ballangen kirke",
+    "images": []
+  },
+  {
+    "lat": "69.3112",
+    "lng": "19.3466",
+    "name": "Balsfjord kirke",
+    "images": []
+  },
+  {
+    "lat": "59.0094",
+    "lng": "9.6640",
+    "name": "Bamble kirke",
+    "images": []
+  },
+  {
+    "lat": "58.4643",
+    "lng": "8.7753",
+    "name": "Barbu kirke, Arendal",
+    "images": []
+  },
+  {
+    "lat": "66.2182",
+    "lng": "13.3870",
+    "name": "Bardal kirke",
+    "images": []
+  },
+  {
+    "lat": "68.8651",
+    "lng": "18.3463",
+    "name": "Bardu kirke",
+    "images": []
+  },
+  {
+    "lat": "60.6477",
+    "lng": "9.7837",
+    "name": "Begnadalen kirke",
+    "images": []
+  },
+  {
+    "lat": "67.0063",
+    "lng": "14.5720",
+    "name": "Beiarn kirke",
+    "images": []
+  },
+  {
+    "lat": "59.8849",
+    "lng": "10.7882",
+    "name": "Bekkelaget kirke, Oslo",
+    "images": []
+  },
+  {
+    "lat": "60.0032",
+    "lng": "5.2025",
+    "name": "Bekkjarvik kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.9852",
+    "lng": "9.8691",
+    "name": "Berg arbeidskirke, Larvik",
+    "images": []
+  },
+  {
+    "lat": "63.4226",
+    "lng": "10.4251",
+    "name": "Berg arbeidskirke, Trondheim",
+    "images": []
+  },
+  {
+    "lat": "59.1374",
+    "lng": "11.3295",
+    "name": "Berg kirke, Halden",
+    "images": []
+  },
+  {
+    "lat": "69.4458",
+    "lng": "17.2996",
+    "name": "Berg kirke, Skaland",
+    "images": []
+  },
+  {
+    "lat": "58.9930",
+    "lng": "9.9190",
+    "name": "Berg stenkirke, Larvik",
+    "images": []
+  },
+  {
+    "lat": "58.9913",
+    "lng": "9.9152",
+    "name": "Berg trekirke, Larvik",
+    "images": []
+  },
+  {
+    "lat": "60.3782",
+    "lng": "5.3624",
+    "name": "Bergen Diakonissehjems kapell, Haraldsplass",
+    "images": []
+  },
+  {
+    "lat": "59.5449",
+    "lng": "10.3879",
+    "name": "Berger kirke",
+    "images": []
+  },
+  {
+    "lat": "60.5716",
+    "lng": "5.9506",
+    "name": "Bergsdalen kyrkje",
+    "images": []
+  },
+  {
+    "lat": "70.2468",
+    "lng": "21.7811",
+    "name": "Bergsfjord kirke",
+    "images": []
+  },
+  {
+    "lat": "61.8278",
+    "lng": "5.1151",
+    "name": "Berle kyrkje",
+    "images": []
+  },
+  {
+    "lat": "70.8611",
+    "lng": "29.0895",
+    "name": "Berlevåg kirke",
+    "images": []
+  },
+  {
+    "lat": "60.3159",
+    "lng": "5.3564",
+    "name": "Birkeland kirke, Nesttun",
+    "images": []
+  },
+  {
+    "lat": "58.3114",
+    "lng": "8.1902",
+    "name": "Birkenes kirke, Birkenes",
+    "images": []
+  },
+  {
+    "lat": "60.4246",
+    "lng": "5.2984",
+    "name": "Biskopshavn kirke",
+    "images": []
+  },
+  {
+    "lat": "68.9954",
+    "lng": "16.5436",
+    "name": "Bjarkøy kirke",
+    "images": []
+  },
+  {
+    "lat": "58.5837",
+    "lng": "6.0769",
+    "name": "Bjerkreim kyrkje",
+    "images": []
+  },
+  {
+    "lat": "68.5485",
+    "lng": "17.5616",
+    "name": "Bjerkvik kirke",
+    "images": []
+  },
+  {
+    "lat": "59.6650",
+    "lng": "5.6444",
+    "name": "Bjoa kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.4416",
+    "lng": "8.6982",
+    "name": "Bjorbekk kirke",
+    "images": []
+  },
+  {
+    "lat": "61.0752",
+    "lng": "5.8290",
+    "name": "Bjordal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "63.7592",
+    "lng": "9.7358",
+    "name": "Bjugn kirke",
+    "images": []
+  },
+  {
+    "lat": "64.9192",
+    "lng": "13.0788",
+    "name": "Bjørhusdal kapell",
+    "images": []
+  },
+  {
+    "lat": "60.2343",
+    "lng": "11.0125",
+    "name": "Bjørke kirke, Nannestad",
+    "images": []
+  },
+  {
+    "lat": "62.1072",
+    "lng": "6.5563",
+    "name": "Bjørke kyrkje, Ørsta",
+    "images": []
+  },
+  {
+    "lat": "59.8769",
+    "lng": "11.5595",
+    "name": "Bjørkelangen kirke",
+    "images": []
+  },
+  {
+    "lat": "69.0000",
+    "lng": "15.6335",
+    "name": "Bjørnskinn kirke",
+    "images": []
+  },
+  {
+    "lat": "60.0015",
+    "lng": "11.3017",
+    "name": "Blaker kirke",
+    "images": []
+  },
+  {
+    "lat": "65.9088",
+    "lng": "13.8086",
+    "name": "Bleikvassli kapell",
+    "images": []
+  },
+  {
+    "lat": "60.5303",
+    "lng": "4.8772",
+    "name": "Blomvåg kyrkje",
+    "images": []
+  },
+  {
+    "lat": "67.2741",
+    "lng": "14.4348",
+    "name": "Bodin kirke",
+    "images": []
+  },
+  {
+    "lat": "63.9720",
+    "lng": "11.9187",
+    "name": "Bodom kapell",
+    "images": []
+  },
+  {
+    "lat": "67.2824",
+    "lng": "14.3814",
+    "name": "Bodø domkirke",
+    "images": []
+  },
+  {
+    "lat": "68.5163",
+    "lng": "17.0051",
+    "name": "Bogen kapell, Evenes",
+    "images": []
+  },
+  {
+    "lat": "59.2238",
+    "lng": "5.4406",
+    "name": "Bokn kyrkje",
+    "images": []
+  },
+  {
+    "lat": "68.2448",
+    "lng": "13.7707",
+    "name": "Borge kirke, Vestvågøy",
+    "images": []
+  },
+  {
+    "lat": "59.1603",
+    "lng": "9.6579",
+    "name": "Borgestad kirke",
+    "images": []
+  },
+  {
+    "lat": "61.0466",
+    "lng": "7.8124",
+    "name": "Borgund kyrkje, Lærdal",
+    "images": []
+  },
+  {
+    "lat": "62.4663",
+    "lng": "6.2339",
+    "name": "Borgund kyrkje, Ålesund",
+    "images": []
+  },
+  {
+    "lat": "61.0472",
+    "lng": "7.8123",
+    "name": "Borgund stavkyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.3823",
+    "lng": "10.4598",
+    "name": "Borre kirke",
+    "images": []
+  },
+  {
+    "lat": "59.4811",
+    "lng": "10.2772",
+    "name": "Botne kirke",
+    "images": []
+  },
+  {
+    "lat": "59.7467",
+    "lng": "10.2066",
+    "name": "Bragernes kirke",
+    "images": []
+  },
+  {
+    "lat": "60.3155",
+    "lng": "12.0138",
+    "name": "Brandval kirke",
+    "images": []
+  },
+  {
+    "lat": "63.3475",
+    "lng": "10.4810",
+    "name": "Bratsberg kirke",
+    "images": []
+  },
+  {
+    "lat": "63.4065",
+    "lng": "7.8060",
+    "name": "Brattvær kirke",
+    "images": []
+  },
+  {
+    "lat": "62.6020",
+    "lng": "6.4415",
+    "name": "Brattvåg kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.9468",
+    "lng": "10.8593",
+    "name": "Bredtvet kirke",
+    "images": []
+  },
+  {
+    "lat": "61.7337",
+    "lng": "6.4079",
+    "name": "Breim kyrkje",
+    "images": []
+  },
+  {
+    "lat": "61.0193",
+    "lng": "5.4601",
+    "name": "Brekke kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.6474",
+    "lng": "11.8725",
+    "name": "Brekken kirke",
+    "images": []
+  },
+  {
+    "lat": "61.8435",
+    "lng": "4.9665",
+    "name": "Bremanger kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.7954",
+    "lng": "5.1743",
+    "name": "Bremnes kyrkje, Svortland",
+    "images": []
+  },
+  {
+    "lat": "59.0517",
+    "lng": "9.7045",
+    "name": "Brevik kirke",
+    "images": []
+  },
+  {
+    "lat": "60.8845",
+    "lng": "10.9528",
+    "name": "Brumunddal kirke",
+    "images": []
+  },
+  {
+    "lat": "59.4337",
+    "lng": "8.4813",
+    "name": "Brunkeberg kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.4791",
+    "lng": "5.6775",
+    "name": "Bruvik kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.1878",
+    "lng": "10.9882",
+    "name": "Brydalen kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9211",
+    "lng": "10.4881",
+    "name": "Bryn kirke, Bærum",
+    "images": []
+  },
+  {
+    "lat": "58.7367",
+    "lng": "5.6457",
+    "name": "Bryne kyrkje",
+    "images": []
+  },
+  {
+    "lat": "65.4689",
+    "lng": "12.2064",
+    "name": "Brønnøy kirke",
+    "images": []
+  },
+  {
+    "lat": "69.0784",
+    "lng": "17.6917",
+    "name": "Brøstad kirke",
+    "images": []
+  },
+  {
+    "lat": "60.8439",
+    "lng": "10.6616",
+    "name": "Bråstad kirke",
+    "images": []
+  },
+  {
+    "lat": "62.9080",
+    "lng": "6.9106",
+    "name": "Bud kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.8850",
+    "lng": "10.4837",
+    "name": "Budal kirke",
+    "images": []
+  },
+  {
+    "lat": "59.1366",
+    "lng": "10.1847",
+    "name": "Bugården kirke",
+    "images": []
+  },
+  {
+    "lat": "68.1172",
+    "lng": "13.5603",
+    "name": "Buksnes kirke",
+    "images": []
+  },
+  {
+    "lat": "69.9340",
+    "lng": "22.0398",
+    "name": "Burfjord kirke",
+    "images": []
+  },
+  {
+    "lat": "63.3094",
+    "lng": "10.1870",
+    "name": "Buvik kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9062",
+    "lng": "10.6788",
+    "name": "Bygdøy kirke",
+    "images": []
+  },
+  {
+    "lat": "58.8305",
+    "lng": "7.7959",
+    "name": "Bygland kirke",
+    "images": []
+  },
+  {
+    "lat": "61.3806",
+    "lng": "5.6652",
+    "name": "Bygstad kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.3519",
+    "lng": "7.3443",
+    "name": "Bykle gamle kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.3512",
+    "lng": "7.3428",
+    "name": "Bykle kyrkje",
+    "images": []
+  },
+  {
+    "lat": "63.3558",
+    "lng": "10.1158",
+    "name": "Byneset kirke",
+    "images": []
+  },
+  {
+    "lat": "63.3926",
+    "lng": "10.3696",
+    "name": "Byåsen kirke",
+    "images": []
+  },
+  {
+    "lat": "59.4110",
+    "lng": "9.0563",
+    "name": "Bø gamle kyrkje, Bø i Telemark",
+    "images": []
+  },
+  {
+    "lat": "68.6171",
+    "lng": "14.5493",
+    "name": "Bø kirke, Vesterålen",
+    "images": []
+  },
+  {
+    "lat": "61.1305",
+    "lng": "5.3288",
+    "name": "Bø kyrkje, Leirvik",
+    "images": []
+  },
+  {
+    "lat": "59.4112",
+    "lng": "9.0549",
+    "name": "Bø kyrkje, Bø i Telemark",
+    "images": []
+  },
+  {
+    "lat": "59.6089",
+    "lng": "5.2146",
+    "name": "Bømlo gamle kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.6046",
+    "lng": "5.2107",
+    "name": "Bømlo kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.3300",
+    "lng": "5.3014",
+    "name": "Bønes kirke",
+    "images": []
+  },
+  {
+    "lat": "63.3253",
+    "lng": "10.0727",
+    "name": "Børsa kirke",
+    "images": []
+  },
+  {
+    "lat": "70.3172",
+    "lng": "25.5422",
+    "name": "Børselv kapell",
+    "images": []
+  },
+  {
+    "lat": "61.7200",
+    "lng": "8.3442",
+    "name": "Bøverdal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "70.6356",
+    "lng": "29.7182",
+    "name": "Båtsfjord kirke",
+    "images": []
+  },
+  {
+    "lat": "63.4219",
+    "lng": "10.4938",
+    "name": "Charlottenlund kirke",
+    "images": []
+  },
+  {
+    "lat": "60.4165",
+    "lng": "8.4690",
+    "name": "Dagali kirke",
+    "images": []
+  },
+  {
+    "lat": "59.8829",
+    "lng": "8.6749",
+    "name": "Dal kirke, Rjukan",
+    "images": []
+  },
+  {
+    "lat": "61.3624",
+    "lng": "5.3968",
+    "name": "Dale kyrkje, Fjaler",
+    "images": []
+  },
+  {
+    "lat": "61.4413",
+    "lng": "7.4553",
+    "name": "Dale kyrkje, Luster",
+    "images": []
+  },
+  {
+    "lat": "60.5902",
+    "lng": "5.8239",
+    "name": "Dale kyrkje, Vaksdal",
+    "images": []
+  },
+  {
+    "lat": "59.8639",
+    "lng": "11.2267",
+    "name": "Dalen kirke, Gansdalen",
+    "images": []
+  },
+  {
+    "lat": "62.1758",
+    "lng": "9.8125",
+    "name": "Dalen kyrkje, Folldal",
+    "images": []
+  },
+  {
+    "lat": "62.5253",
+    "lng": "11.1081",
+    "name": "Dalsbygda kirke",
+    "images": []
+  },
+  {
+    "lat": "62.1244",
+    "lng": "5.9437",
+    "name": "Dalsfjord kyrkje",
+    "images": []
+  },
+  {
+    "lat": "61.8921",
+    "lng": "5.5325",
+    "name": "Davik kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.3549",
+    "lng": "11.4231",
+    "name": "Degernes kirke",
+    "images": []
+  },
+  {
+    "lat": "61.3035",
+    "lng": "11.4602",
+    "name": "Deset kirke",
+    "images": []
+  },
+  {
+    "lat": "68.3122",
+    "lng": "14.9849",
+    "name": "Digermulen kirke",
+    "images": []
+  },
+  {
+    "lat": "58.8272",
+    "lng": "6.1901",
+    "name": "Dirdal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "63.6329",
+    "lng": "8.7066",
+    "name": "Dolm kirke, Hitra",
+    "images": []
+  },
+  {
+    "lat": "65.8445",
+    "lng": "13.2040",
+    "name": "Dolstad kirke",
+    "images": []
+  },
+  {
+    "lat": "62.0750",
+    "lng": "9.1245",
+    "name": "Dombås kyrkje",
+    "images": []
+  },
+  {
+    "lat": "61.9885",
+    "lng": "9.2480",
+    "name": "Dovre kyrkje",
+    "images": []
+  },
+  {
+    "lat": "68.0237",
+    "lng": "16.1390",
+    "name": "Drag/Helland kirke",
+    "images": []
+  },
+  {
+    "lat": "64.5569",
+    "lng": "12.1837",
+    "name": "Drageid kapell",
+    "images": []
+  },
+  {
+    "lat": "59.8830",
+    "lng": "10.8404",
+    "name": "Bøler kirke",
+    "images": []
+  },
+  {
+    "lat": "59.0980",
+    "lng": "9.0647",
+    "name": "Drangedal kirke",
+    "images": []
+  },
+  {
+    "lat": "65.9826",
+    "lng": "13.2654",
+    "name": "Drevja kirke",
+    "images": []
+  },
+  {
+    "lat": "61.8848",
+    "lng": "12.0300",
+    "name": "Drevsjø kirke",
+    "images": []
+  },
+  {
+    "lat": "64.6571",
+    "lng": "11.2619",
+    "name": "Dun kirke",
+    "images": []
+  },
+  {
+    "lat": "69.1140",
+    "lng": "15.9816",
+    "name": "Dverberg kirke",
+    "images": []
+  },
+  {
+    "lat": "58.6263",
+    "lng": "9.0522",
+    "name": "Dypvåg kirke",
+    "images": []
+  },
+  {
+    "lat": "69.0387",
+    "lng": "17.4943",
+    "name": "Dyrøy kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9297",
+    "lng": "10.7265",
+    "name": "Døvekirken i Oslo",
+    "images": []
+  },
+  {
+    "lat": "63.2856",
+    "lng": "8.1315",
+    "name": "Edøy gamle kirke",
+    "images": []
+  },
+  {
+    "lat": "63.3340",
+    "lng": "8.0657",
+    "name": "Edøy kirke",
+    "images": []
+  },
+  {
+    "lat": "59.5505",
+    "lng": "9.8098",
+    "name": "Efteløt kirke",
+    "images": []
+  },
+  {
+    "lat": "58.4519",
+    "lng": "5.9999",
+    "name": "Egersund kirke",
+    "images": []
+  },
+  {
+    "lat": "64.0233",
+    "lng": "11.4747",
+    "name": "Egge kirke",
+    "images": []
+  },
+  {
+    "lat": "60.2462",
+    "lng": "9.3573",
+    "name": "Eggedal kirke",
+    "images": []
+  },
+  {
+    "lat": "59.7873",
+    "lng": "5.6944",
+    "name": "Eid kyrkje, Kvinnherad",
+    "images": []
+  },
+  {
+    "lat": "61.9114",
+    "lng": "5.9851",
+    "name": "Eid kyrkje, Nordfjordeid",
+    "images": []
+  },
+  {
+    "lat": "62.5897",
+    "lng": "7.4973",
+    "name": "Eid kyrkje, Rauma",
+    "images": []
+  },
+  {
+    "lat": "59.1185",
+    "lng": "9.6992",
+    "name": "Eidanger kirke",
+    "images": []
+  },
+  {
+    "lat": "62.9167",
+    "lng": "7.4446",
+    "name": "Eide kirke, Nordmøre",
+    "images": []
+  },
+  {
+    "lat": "60.4616",
+    "lng": "7.0711",
+    "name": "Eidfjord gamle kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.4632",
+    "lng": "7.0698",
+    "name": "Eidfjord kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.5195",
+    "lng": "11.2575",
+    "name": "Eidsberg kirke",
+    "images": []
+  },
+  {
+    "lat": "59.4646",
+    "lng": "8.0219",
+    "name": "Eidsborg stavkyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.5920",
+    "lng": "10.0452",
+    "name": "Eidsfoss kirke",
+    "images": []
+  },
+  {
+    "lat": "60.0300",
+    "lng": "12.1252",
+    "name": "Eidskog kirke",
+    "images": []
+  },
+  {
+    "lat": "60.4387",
+    "lng": "5.3173",
+    "name": "Eidsvåg kirke",
+    "images": []
+  },
+  {
+    "lat": "61.5854",
+    "lng": "5.4594",
+    "name": "Eikefjord kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.4671",
+    "lng": "8.1894",
+    "name": "Eikesdal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.4093",
+    "lng": "10.6862",
+    "name": "Ekholt kirke",
+    "images": []
+  },
+  {
+    "lat": "60.7847",
+    "lng": "5.9591",
+    "name": "Eksingedal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.1666",
+    "lng": "11.9417",
+    "name": "Elgå kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9370",
+    "lng": "10.9165",
+    "name": "Ellingsrud kirke",
+    "images": []
+  },
+  {
+    "lat": "62.4922",
+    "lng": "6.2715",
+    "name": "Ellingsøy kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.3032",
+    "lng": "11.7199",
+    "name": "Tufsingdalen kirke",
+    "images": []
+  },
+  {
+    "lat": "66.1060",
+    "lng": "13.5453",
+    "name": "Elsfjord kirke",
+    "images": []
+  },
+  {
+    "lat": "69.9717",
+    "lng": "23.3697",
+    "name": "Elvebakken kirke",
+    "images": []
+  },
+  {
+    "lat": "69.6485",
+    "lng": "18.9213",
+    "name": "Elverhøy kirke, Tromsø",
+    "images": []
+  },
+  {
+    "lat": "60.8776",
+    "lng": "11.5663",
+    "name": "Elverum kirke",
+    "images": []
+  },
+  {
+    "lat": "63.3936",
+    "lng": "11.0659",
+    "name": "Elvran kapell",
+    "images": []
+  },
+  {
+    "lat": "59.7623",
+    "lng": "11.1469",
+    "name": "Enebakk kirke",
+    "images": []
+  },
+  {
+    "lat": "60.7738",
+    "lng": "10.6694",
+    "name": "Engehaugen kirke",
+    "images": []
+  },
+  {
+    "lat": "58.4017",
+    "lng": "8.6931",
+    "name": "Engene kirke",
+    "images": []
+  },
+  {
+    "lat": "60.5803",
+    "lng": "10.3335",
+    "name": "Enger kirke",
+    "images": []
+  },
+  {
+    "lat": "60.3686",
+    "lng": "6.1438",
+    "name": "Norheimsund kyrkje",
+    "images": []
+  },
+  {
+    "lat": "61.7578",
+    "lng": "11.9606",
+    "name": "Engerdal kirke",
+    "images": []
+  },
+  {
+    "lat": "58.9083",
+    "lng": "11.5218",
+    "name": "Søndre Enningdal kirke",
+    "images": []
+  },
+  {
+    "lat": "60.4391",
+    "lng": "5.2280",
+    "name": "Erdal kirke",
+    "images": []
+  },
+  {
+    "lat": "59.3472",
+    "lng": "6.2393",
+    "name": "Erfjord kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.1668",
+    "lng": "5.1173",
+    "name": "Ervik kyrkje",
+    "images": []
+  },
+  {
+    "lat": "68.4599",
+    "lng": "16.6987",
+    "name": "Evenes kirke",
+    "images": []
+  },
+  {
+    "lat": "61.4059",
+    "lng": "11.1334",
+    "name": "Evenstad kirke",
+    "images": []
+  },
+  {
+    "lat": "62.2224",
+    "lng": "9.5684",
+    "name": "Eysteinkyrkja",
+    "images": []
+  },
+  {
+    "lat": "59.9273",
+    "lng": "10.7297",
+    "name": "Fagerborg kirke",
+    "images": []
+  },
+  {
+    "lat": "62.6567",
+    "lng": "9.8767",
+    "name": "Fagerhaug kirke",
+    "images": []
+  },
+  {
+    "lat": "60.2634",
+    "lng": "5.3484",
+    "name": "Fana kirke",
+    "images": []
+  },
+  {
+    "lat": "61.3103",
+    "lng": "7.8011",
+    "name": "Farnes kyrkje, Øvre Årdal",
+    "images": []
+  },
+  {
+    "lat": "67.2579",
+    "lng": "15.3726",
+    "name": "Fauske kirke",
+    "images": []
+  },
+  {
+    "lat": "58.2629",
+    "lng": "6.8199",
+    "name": "Feda kirke",
+    "images": []
+  },
+  {
+    "lat": "60.7815",
+    "lng": "4.7149",
+    "name": "Fedje kyrkje",
+    "images": []
+  },
+  {
+    "lat": "61.1493",
+    "lng": "6.7600",
+    "name": "Feios kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.9026",
+    "lng": "8.7494",
+    "name": "Felle kapell",
+    "images": []
+  },
+  {
+    "lat": "60.2113",
+    "lng": "11.3768",
+    "name": "Fenstad kirke",
+    "images": []
+  },
+  {
+    "lat": "59.2076",
+    "lng": "5.1845",
+    "name": "Ferkingstad kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.9143",
+    "lng": "11.1658",
+    "name": "Fet kirke, Fetsund",
+    "images": []
+  },
+  {
+    "lat": "61.3622",
+    "lng": "7.2612",
+    "name": "Fet kyrkje, Luster",
+    "images": []
+  },
+  {
+    "lat": "62.6163",
+    "lng": "6.8596",
+    "name": "Fiksdal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "63.6074",
+    "lng": "8.9746",
+    "name": "Fillan kirke",
+    "images": []
+  },
+  {
+    "lat": "59.5697",
+    "lng": "10.5961",
+    "name": "Filtvet kirke",
+    "images": []
+  },
+  {
+    "lat": "63.8019",
+    "lng": "10.5813",
+    "name": "Fines kirke",
+    "images": []
+  },
+  {
+    "lat": "58.3156",
+    "lng": "7.5905",
+    "name": "Finsland kirke",
+    "images": []
+  },
+  {
+    "lat": "61.1109",
+    "lng": "10.4792",
+    "name": "Fiskerkapellet, Maihaugen",
+    "images": []
+  },
+  {
+    "lat": "59.6989",
+    "lng": "9.8099",
+    "name": "Fiskum gamle kirke",
+    "images": []
+  },
+  {
+    "lat": "59.1757",
+    "lng": "6.0626",
+    "name": "Fister kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.9171",
+    "lng": "5.3193",
+    "name": "Fitjar kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.7386",
+    "lng": "5.7069",
+    "name": "Fjelberg kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.7178",
+    "lng": "10.2176",
+    "name": "Fjell kirke, Drammen",
+    "images": []
+  },
+  {
+    "lat": "60.3309",
+    "lng": "5.0757",
+    "name": "Fjell kyrkje, Sotra",
+    "images": []
+  },
+  {
+    "lat": "59.5615",
+    "lng": "7.3542",
+    "name": "Fjellgardane kyrkje, Hovden",
+    "images": []
+  },
+  {
+    "lat": "59.9423",
+    "lng": "10.9797",
+    "name": "Fjellhamar kirke",
+    "images": []
+  },
+  {
+    "lat": "58.5250",
+    "lng": "6.9905",
+    "name": "Fjotland kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.8754",
+    "lng": "6.3882",
+    "name": "Fjæra kapell",
+    "images": []
+  },
+  {
+    "lat": "58.3662",
+    "lng": "8.5948",
+    "name": "Fjære kirke",
+    "images": []
+  },
+  {
+    "lat": "61.4036",
+    "lng": "6.7396",
+    "name": "Fjærland kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.7061",
+    "lng": "6.3749",
+    "name": "Fjørtoft kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.3047",
+    "lng": "8.6987",
+    "name": "Fjågesund kyrkje",
+    "images": []
+  },
+  {
+    "lat": "68.1048",
+    "lng": "13.3063",
+    "name": "Flakstad kirke",
+    "images": []
+  },
+  {
+    "lat": "59.5607",
+    "lng": "8.5722",
+    "name": "Flatdal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.2961",
+    "lng": "6.6618",
+    "name": "Flekkefjord kirke",
+    "images": []
+  },
+  {
+    "lat": "58.0759",
+    "lng": "8.0012",
+    "name": "Flekkerøy kirke",
+    "images": []
+  },
+  {
+    "lat": "63.1095",
+    "lng": "11.3095",
+    "name": "Flora kapell, Selbu",
+    "images": []
+  },
+  {
+    "lat": "63.4580",
+    "lng": "11.3590",
+    "name": "Floren kapell",
+    "images": []
+  },
+  {
+    "lat": "61.5990",
+    "lng": "5.0292",
+    "name": "Florø kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.5286",
+    "lng": "8.9341",
+    "name": "Flosta kirke",
+    "images": []
+  },
+  {
+    "lat": "60.7761",
+    "lng": "10.2461",
+    "name": "Fluberg kirke",
+    "images": []
+  },
+  {
+    "lat": "60.4285",
+    "lng": "9.4662",
+    "name": "Flå kirke, Hallingdal",
+    "images": []
+  },
+  {
+    "lat": "63.1957",
+    "lng": "10.3078",
+    "name": "Flå kirke, Sør-Trøndelag",
+    "images": []
+  },
+  {
+    "lat": "59.3202",
+    "lng": "8.9857",
+    "name": "Flåbygd kirke",
+    "images": []
+  },
+  {
+    "lat": "60.8377",
+    "lng": "7.1214",
+    "name": "Flåm kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.1466",
+    "lng": "6.1920",
+    "name": "Fogn kyrkje",
+    "images": []
+  },
+  {
+    "lat": "64.9629",
+    "lng": "12.1787",
+    "name": "Foldereid kirke",
+    "images": []
+  },
+  {
+    "lat": "60.3674",
+    "lng": "5.1268",
+    "name": "Foldnes kyrkje",
+    "images": []
+  },
+  {
+    "lat": "63.9854",
+    "lng": "11.1137",
+    "name": "Follafoss kirke",
+    "images": []
+  },
+  {
+    "lat": "62.1269",
+    "lng": "10.0389",
+    "name": "Folldal kirke",
+    "images": []
+  },
+  {
+    "lat": "61.2260",
+    "lng": "10.2677",
+    "name": "Follebu kirke",
+    "images": []
+  },
+  {
+    "lat": "59.4121",
+    "lng": "10.2063",
+    "name": "Fon kirke",
+    "images": []
+  },
+  {
+    "lat": "64.0728",
+    "lng": "11.6816",
+    "name": "For kyrkje, Stod",
+    "images": []
+  },
+  {
+    "lat": "66.9095",
+    "lng": "13.6337",
+    "name": "Fore kirke",
+    "images": []
+  },
+  {
+    "lat": "58.9012",
+    "lng": "6.0981",
+    "name": "Forsand kyrkje",
+    "images": []
+  },
+  {
+    "lat": "63.4303",
+    "lng": "8.4276",
+    "name": "Forsnes kapell",
+    "images": []
+  },
+  {
+    "lat": "61.4932",
+    "lng": "7.6867",
+    "name": "Fortun kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.9627",
+    "lng": "10.9247",
+    "name": "Fossum kirke",
+    "images": []
+  },
+  {
+    "lat": "63.0246",
+    "lng": "7.8031",
+    "name": "Frei kirke",
+    "images": []
+  },
+  {
+    "lat": "58.0948",
+    "lng": "6.7984",
+    "name": "Frelserens kirke, Farsund",
+    "images": []
+  },
+  {
+    "lat": "61.0734",
+    "lng": "6.9395",
+    "name": "Fresvik kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.3629",
+    "lng": "5.3562",
+    "name": "Fridalen kirke",
+    "images": []
+  },
+  {
+    "lat": "63.9989",
+    "lng": "9.1725",
+    "name": "Froan kapell",
+    "images": []
+  },
+  {
+    "lat": "59.6995",
+    "lng": "10.7233",
+    "name": "Frogn kirke",
+    "images": []
+  },
+  {
+    "lat": "60.0206",
+    "lng": "11.1048",
+    "name": "Frogner gamle kirke, Sørum",
+    "images": []
+  },
+  {
+    "lat": "59.7789",
+    "lng": "10.2237",
+    "name": "Frogner kirke, Lier",
+    "images": []
+  },
+  {
+    "lat": "59.9175",
+    "lng": "10.7066",
+    "name": "Frogner kirke, Oslo",
+    "images": []
+  },
+  {
+    "lat": "60.0200",
+    "lng": "11.1058",
+    "name": "Frogner kirke, Sørum",
+    "images": []
+  },
+  {
+    "lat": "58.5260",
+    "lng": "8.6518",
+    "name": "Froland kirke",
+    "images": []
+  },
+  {
+    "lat": "58.7171",
+    "lng": "9.2088",
+    "name": "Frydendal kirke",
+    "images": []
+  },
+  {
+    "lat": "61.7758",
+    "lng": "4.8978",
+    "name": "Frøya kyrkje, Bremanger",
+    "images": []
+  },
+  {
+    "lat": "60.8636",
+    "lng": "5.2101",
+    "name": "Frøyset kyrkje, Masfjorden",
+    "images": []
+  },
+  {
+    "lat": "59.9428",
+    "lng": "10.8893",
+    "name": "Furuset kirke, Oslo",
+    "images": []
+  },
+  {
+    "lat": "60.1590",
+    "lng": "11.2627",
+    "name": "Furuset kirke, Ullensaker",
+    "images": []
+  },
+  {
+    "lat": "60.2036",
+    "lng": "5.6243",
+    "name": "Fusa kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.3530",
+    "lng": "5.2963",
+    "name": "Fyllingsdalen kirke",
+    "images": []
+  },
+  {
+    "lat": "58.4499",
+    "lng": "8.8100",
+    "name": "Færvik kirke",
+    "images": []
+  },
+  {
+    "lat": "64.1033",
+    "lng": "11.5448",
+    "name": "Føling kirke",
+    "images": []
+  },
+  {
+    "lat": "61.4558",
+    "lng": "5.8627",
+    "name": "Førde kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.6125",
+    "lng": "5.4805",
+    "name": "Førde kyrkje, Sveio",
+    "images": []
+  },
+  {
+    "lat": "59.4243",
+    "lng": "5.3809",
+    "name": "Førre kirke",
+    "images": []
+  },
+  {
+    "lat": "61.4271",
+    "lng": "10.2204",
+    "name": "Fåvang kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9237",
+    "lng": "10.7470",
+    "name": "Gamle Aker kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9031",
+    "lng": "10.7686",
+    "name": "Gamlebyen kirke",
+    "images": []
+  },
+  {
+    "lat": "71.0659",
+    "lng": "28.2475",
+    "name": "Gamvik kirke",
+    "images": []
+  },
+  {
+    "lat": "58.8402",
+    "lng": "5.7142",
+    "name": "Gand kirke",
+    "images": []
+  },
+  {
+    "lat": "59.5812",
+    "lng": "10.8097",
+    "name": "Garder kirke",
+    "images": []
+  },
+  {
+    "lat": "61.8474",
+    "lng": "8.8046",
+    "name": "Garmo kyrkje",
+    "images": []
+  },
+  {
+    "lat": "64.8767",
+    "lng": "10.9627",
+    "name": "Garstad kirke",
+    "images": []
+  },
+  {
+    "lat": "61.4084",
+    "lng": "7.2960",
+    "name": "Gaupne gamle kyrkje",
+    "images": []
+  },
+  {
+    "lat": "61.4099",
+    "lng": "7.2875",
+    "name": "Gaupne kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.8987",
+    "lng": "5.7224",
+    "name": "Gausel kirke, Stavanger",
+    "images": []
+  },
+  {
+    "lat": "68.6112",
+    "lng": "16.4923",
+    "name": "Gausvik kirke",
+    "images": []
+  },
+  {
+    "lat": "60.5308",
+    "lng": "8.2090",
+    "name": "Geilo kulturkyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.5353",
+    "lng": "8.2105",
+    "name": "Geilo kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.0988",
+    "lng": "7.2071",
+    "name": "Geiranger kyrkje",
+    "images": []
+  },
+  {
+    "lat": "67.0592",
+    "lng": "14.0453",
+    "name": "Gildeskål gamle kirke",
+    "images": []
+  },
+  {
+    "lat": "67.0591",
+    "lng": "14.0427",
+    "name": "Gildeskål hovedkirke",
+    "images": []
+  },
+  {
+    "lat": "61.7723",
+    "lng": "6.1439",
+    "name": "Gimmestad gamle kyrkje",
+    "images": []
+  },
+  {
+    "lat": "61.7719",
+    "lng": "6.1567",
+    "name": "Gimmestad kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.1919",
+    "lng": "9.6043",
+    "name": "Gimsøy kirke",
+    "images": []
+  },
+  {
+    "lat": "68.3220",
+    "lng": "14.2316",
+    "name": "Gimsøy kirke, Vågan",
+    "images": []
+  },
+  {
+    "lat": "62.4987",
+    "lng": "6.0503",
+    "name": "Giske kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.9634",
+    "lng": "7.7780",
+    "name": "Gjemnes kirke",
+    "images": []
+  },
+  {
+    "lat": "59.6641",
+    "lng": "5.9348",
+    "name": "Gjerde kyrkje, Etne",
+    "images": []
+  },
+  {
+    "lat": "59.2241",
+    "lng": "9.6077",
+    "name": "Gjerpen kirke",
+    "images": []
+  },
+  {
+    "lat": "58.8829",
+    "lng": "9.0198",
+    "name": "Gjerstad kirke, Gjerstad",
+    "images": []
+  },
+  {
+    "lat": "60.4996",
+    "lng": "5.5484",
+    "name": "Gjerstad kyrkje, Osterøy",
+    "images": []
+  },
+  {
+    "lat": "58.7735",
+    "lng": "5.9469",
+    "name": "Gjesdal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.6784",
+    "lng": "12.0246",
+    "name": "Gjesåsen kirke",
+    "images": []
+  },
+  {
+    "lat": "59.7467",
+    "lng": "10.6104",
+    "name": "Gjøfjell kirke",
+    "images": []
+  },
+  {
+    "lat": "58.8719",
+    "lng": "8.3040",
+    "name": "Gjøvdal kirke",
+    "images": []
+  },
+  {
+    "lat": "60.8028",
+    "lng": "10.6713",
+    "name": "Gjøvik kirke",
+    "images": []
+  },
+  {
+    "lat": "60.1220",
+    "lng": "9.7622",
+    "name": "Glesne kapell, Krøderen",
+    "images": []
+  },
+  {
+    "lat": "66.8164",
+    "lng": "13.9588",
+    "name": "Glomfjord kirke",
+    "images": []
+  },
+  {
+    "lat": "64.5348",
+    "lng": "12.4018",
+    "name": "Gløshaug kirke",
+    "images": []
+  },
+  {
+    "lat": "62.6729",
+    "lng": "11.4297",
+    "name": "Glåmos kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9080",
+    "lng": "10.6833",
+    "name": "Gol stavkirke, Oslo",
+    "images": []
+  },
+  {
+    "lat": "65.5831",
+    "lng": "13.3967",
+    "name": "Grane kirke",
+    "images": []
+  },
+  {
+    "lat": "60.5553",
+    "lng": "6.7310",
+    "name": "Granvin kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.8788",
+    "lng": "12.2452",
+    "name": "Gravberget kirke",
+    "images": []
+  },
+  {
+    "lat": "64.9901",
+    "lng": "11.7690",
+    "name": "Gravvik kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9542",
+    "lng": "10.7792",
+    "name": "Grefsen kirke",
+    "images": []
+  },
+  {
+    "lat": "58.1541",
+    "lng": "7.8250",
+    "name": "Greipstad kirke",
+    "images": []
+  },
+  {
+    "lat": "59.7749",
+    "lng": "10.8030",
+    "name": "Greverud kirke",
+    "images": []
+  },
+  {
+    "lat": "59.2698",
+    "lng": "11.0298",
+    "name": "Greåker kirke",
+    "images": []
+  },
+  {
+    "lat": "58.1481",
+    "lng": "7.9723",
+    "name": "Grim kirke",
+    "images": []
+  },
+  {
+    "lat": "58.3431",
+    "lng": "8.5955",
+    "name": "Grimstad kirke",
+    "images": []
+  },
+  {
+    "lat": "59.6699",
+    "lng": "6.0040",
+    "name": "Grindheim kyrkje, Etne",
+    "images": []
+  },
+  {
+    "lat": "59.9490",
+    "lng": "10.6228",
+    "name": "Grinilund kirke",
+    "images": []
+  },
+  {
+    "lat": "63.2196",
+    "lng": "7.5941",
+    "name": "Grip stavkirke",
+    "images": []
+  },
+  {
+    "lat": "64.4669",
+    "lng": "12.2964",
+    "name": "Grong kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9578",
+    "lng": "10.8847",
+    "name": "Grorud kirke",
+    "images": []
+  },
+  {
+    "lat": "60.2555",
+    "lng": "10.6622",
+    "name": "Grua kirke, Lunner",
+    "images": []
+  },
+  {
+    "lat": "66.3159",
+    "lng": "14.1946",
+    "name": "Gruben kirke",
+    "images": []
+  },
+  {
+    "lat": "59.7230",
+    "lng": "7.6968",
+    "name": "Grunge kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.3403",
+    "lng": "10.4041",
+    "name": "Grymyr kirke",
+    "images": []
+  },
+  {
+    "lat": "62.5527",
+    "lng": "7.6729",
+    "name": "Grytten kirke",
+    "images": []
+  },
+  {
+    "lat": "59.0090",
+    "lng": "5.6501",
+    "name": "Grødem kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9111",
+    "lng": "10.7677",
+    "name": "Grønland kirke",
+    "images": []
+  },
+  {
+    "lat": "68.6678",
+    "lng": "14.9483",
+    "name": "Grønning kirke",
+    "images": []
+  },
+  {
+    "lat": "69.6793",
+    "lng": "18.9606",
+    "name": "Grønnåsen kirke",
+    "images": []
+  },
+  {
+    "lat": "68.9592",
+    "lng": "16.2659",
+    "name": "Grøtavær kirke",
+    "images": []
+  },
+  {
+    "lat": "61.2465",
+    "lng": "5.5302",
+    "name": "Guddal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.9808",
+    "lng": "5.0756",
+    "name": "Gulen kyrkje",
+    "images": []
+  },
+  {
+    "lat": "63.2056",
+    "lng": "8.1525",
+    "name": "Gullstein kirke",
+    "images": []
+  },
+  {
+    "lat": "59.2175",
+    "lng": "9.5671",
+    "name": "Gulset kirke",
+    "images": []
+  },
+  {
+    "lat": "62.2302",
+    "lng": "5.6199",
+    "name": "Gursken kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.4116",
+    "lng": "6.7916",
+    "name": "Gyland kirke, Nuland",
+    "images": []
+  },
+  {
+    "lat": "68.5410",
+    "lng": "14.9906",
+    "name": "Hadsel kirke",
+    "images": []
+  },
+  {
+    "lat": "61.3109",
+    "lng": "7.1856",
+    "name": "Hafslo kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.2727",
+    "lng": "11.1396",
+    "name": "Hafslund kirke",
+    "images": []
+  },
+  {
+    "lat": "60.1057",
+    "lng": "10.8771",
+    "name": "Hakadal kirke",
+    "images": []
+  },
+  {
+    "lat": "63.6771",
+    "lng": "8.6183",
+    "name": "Hallaren kirke, Frøya",
+    "images": []
+  },
+  {
+    "lat": "66.7437",
+    "lng": "13.5770",
+    "name": "Halsa kirke, Meløy",
+    "images": []
+  },
+  {
+    "lat": "63.0757",
+    "lng": "8.2467",
+    "name": "Halsa kirke, Nordmøre",
+    "images": []
+  },
+  {
+    "lat": "62.9263",
+    "lng": "11.1455",
+    "name": "Haltdalen kirke",
+    "images": []
+  },
+  {
+    "lat": "63.4188",
+    "lng": "10.3558",
+    "name": "Haltdalen stavkirke",
+    "images": []
+  },
+  {
+    "lat": "68.0840",
+    "lng": "15.6386",
+    "name": "Hamarøy kirke",
+    "images": []
+  },
+  {
+    "lat": "62.5320",
+    "lng": "6.2689",
+    "name": "Hamnsund kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.5447",
+    "lng": "5.3519",
+    "name": "Hamre kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.8641",
+    "lng": "5.7578",
+    "name": "Hana kirke",
+    "images": []
+  },
+  {
+    "lat": "61.8393",
+    "lng": "10.8892",
+    "name": "Hanestad kirke",
+    "images": []
+  },
+  {
+    "lat": "62.6317",
+    "lng": "6.2733",
+    "name": "Haram kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.3673",
+    "lng": "6.0299",
+    "name": "Hareid kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.0439",
+    "lng": "7.6057",
+    "name": "Harkmark kirke",
+    "images": []
+  },
+  {
+    "lat": "64.5592",
+    "lng": "12.4865",
+    "name": "Harran kirke",
+    "images": []
+  },
+  {
+    "lat": "68.8022",
+    "lng": "16.5355",
+    "name": "Harstad kirke",
+    "images": []
+  },
+  {
+    "lat": "62.7615",
+    "lng": "6.4586",
+    "name": "Harøy kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.9215",
+    "lng": "10.7843",
+    "name": "Hasle kirke",
+    "images": []
+  },
+  {
+    "lat": "63.6314",
+    "lng": "9.8401",
+    "name": "Hasselvika kirke",
+    "images": []
+  },
+  {
+    "lat": "70.4886",
+    "lng": "22.1549",
+    "name": "Hasvik kirke",
+    "images": []
+  },
+  {
+    "lat": "60.0455",
+    "lng": "5.9019",
+    "name": "Hatlestrand kyrkje",
+    "images": []
+  },
+  {
+    "lat": "65.5970",
+    "lng": "13.9917",
+    "name": "Hattfjelldal kirke",
+    "images": []
+  },
+  {
+    "lat": "60.1741",
+    "lng": "10.3201",
+    "name": "Haug kirke, Ringerike",
+    "images": []
+  },
+  {
+    "lat": "61.0989",
+    "lng": "7.4951",
+    "name": "Hauge kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.9215",
+    "lng": "10.8577",
+    "name": "Haugerud kirke",
+    "images": []
+  },
+  {
+    "lat": "58.5847",
+    "lng": "6.7230",
+    "name": "Haughom kapell",
+    "images": []
+  },
+  {
+    "lat": "60.8524",
+    "lng": "9.9787",
+    "name": "Haugner kirke",
+    "images": []
+  },
+  {
+    "lat": "61.4204",
+    "lng": "6.3712",
+    "name": "Haukedalen kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.8395",
+    "lng": "10.8073",
+    "name": "Hauketo/Prinsdal kirke",
+    "images": []
+  },
+  {
+    "lat": "60.4538",
+    "lng": "5.4937",
+    "name": "Haus kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.1006",
+    "lng": "5.6889",
+    "name": "Hausken kyrkje",
+    "images": []
+  },
+  {
+    "lat": "63.4049",
+    "lng": "10.3709",
+    "name": "Havstein kirke",
+    "images": []
+  },
+  {
+    "lat": "60.6225",
+    "lng": "9.6907",
+    "name": "Hedalen stavkirke",
+    "images": []
+  },
+  {
+    "lat": "59.6119",
+    "lng": "9.6564",
+    "name": "Hedenstad kirke",
+    "images": []
+  },
+  {
+    "lat": "59.1232",
+    "lng": "10.0601",
+    "name": "Hedrum kirke",
+    "images": []
+  },
+  {
+    "lat": "61.1577",
+    "lng": "9.0237",
+    "name": "Hegge stavkyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.7860",
+    "lng": "10.4367",
+    "name": "Heggedal kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9409",
+    "lng": "10.0009",
+    "name": "Heggen kirke",
+    "images": []
+  },
+  {
+    "lat": "63.9467",
+    "lng": "11.3275",
+    "name": "Heggstad kyrkje, Sandvollan",
+    "images": []
+  },
+  {
+    "lat": "63.4655",
+    "lng": "11.1137",
+    "name": "Hegra kirke",
+    "images": []
+  },
+  {
+    "lat": "63.7384",
+    "lng": "9.8789",
+    "name": "Hegvik kirke",
+    "images": []
+  },
+  {
+    "lat": "61.7473",
+    "lng": "9.3308",
+    "name": "Heidal kirke",
+    "images": []
+  },
+  {
+    "lat": "63.4238",
+    "lng": "9.0933",
+    "name": "Heim kirke",
+    "images": []
+  },
+  {
+    "lat": "63.3503",
+    "lng": "10.3516",
+    "name": "Heimdal kirke",
+    "images": []
+  },
+  {
+    "lat": "59.2539",
+    "lng": "9.3591",
+    "name": "Helgen kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9025",
+    "lng": "10.5133",
+    "name": "Helgerud kirke, Bærum",
+    "images": []
+  },
+  {
+    "lat": "61.5607",
+    "lng": "6.4000",
+    "name": "Helgheim kyrkje, Jølster",
+    "images": []
+  },
+  {
+    "lat": "70.1127",
+    "lng": "19.3601",
+    "name": "Helgøy kirke",
+    "images": []
+  },
+  {
+    "lat": "60.7446",
+    "lng": "10.9586",
+    "name": "Helgøya kirke, Ringsaker",
+    "images": []
+  },
+  {
+    "lat": "59.5635",
+    "lng": "11.0956",
+    "name": "Heli kirke",
+    "images": []
+  },
+  {
+    "lat": "58.8988",
+    "lng": "9.3706",
+    "name": "Helle kirke",
+    "images": []
+  },
+  {
+    "lat": "58.5207",
+    "lng": "6.1159",
+    "name": "Helleland kirke, Eigersund",
+    "images": []
+  },
+  {
+    "lat": "58.1481",
+    "lng": "7.9221",
+    "name": "Hellemyr kirke",
+    "images": []
+  },
+  {
+    "lat": "59.4267",
+    "lng": "10.0202",
+    "name": "Hem kirke",
+    "images": []
+  },
+  {
+    "lat": "63.2873",
+    "lng": "9.0793",
+    "name": "Hemne kirke, Hemne",
+    "images": []
+  },
+  {
+    "lat": "66.2258",
+    "lng": "13.6118",
+    "name": "Hemnes kirke, Hemnesberget",
+    "images": []
+  },
+  {
+    "lat": "60.8618",
+    "lng": "8.5637",
+    "name": "Hemsedal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.0967",
+    "lng": "11.0599",
+    "name": "Heni kirke, Gjerdrum",
+    "images": []
+  },
+  {
+    "lat": "63.9524",
+    "lng": "11.6240",
+    "name": "Henning kyrkje",
+    "images": []
+  },
+  {
+    "lat": "68.1518",
+    "lng": "14.1991",
+    "name": "Henningsvær kirke",
+    "images": []
+  },
+  {
+    "lat": "58.1562",
+    "lng": "6.7955",
+    "name": "Herad kirke, Farsund",
+    "images": []
+  },
+  {
+    "lat": "60.8228",
+    "lng": "11.6344",
+    "name": "Heradsbygd kirke",
+    "images": []
+  },
+  {
+    "lat": "60.5683",
+    "lng": "4.9506",
+    "name": "Herdla kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.5231",
+    "lng": "8.3502",
+    "name": "Herefoss kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.9268",
+    "lng": "11.6336",
+    "name": "Hernes kirke",
+    "images": []
+  },
+  {
+    "lat": "59.1030",
+    "lng": "9.5627",
+    "name": "Herre kirke",
+    "images": []
+  },
+  {
+    "lat": "61.1717",
+    "lng": "4.8947",
+    "name": "Hersvik kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.3354",
+    "lng": "5.6363",
+    "name": "Herøy kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.1113",
+    "lng": "9.6490",
+    "name": "Herøya kirke, Klevstrand",
+    "images": []
+  },
+  {
+    "lat": "59.1763",
+    "lng": "5.8139",
+    "name": "Hesby kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.4978",
+    "lng": "6.3594",
+    "name": "Heskestad kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.7908",
+    "lng": "11.1812",
+    "name": "Hessdalen kirke",
+    "images": []
+  },
+  {
+    "lat": "61.3590",
+    "lng": "5.1883",
+    "name": "Hestad kapell",
+    "images": []
+  },
+  {
+    "lat": "62.6069",
+    "lng": "6.3308",
+    "name": "Hildre kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.5121",
+    "lng": "10.1836",
+    "name": "Hillestad kirke",
+    "images": []
+  },
+  {
+    "lat": "69.5981",
+    "lng": "18.0318",
+    "name": "Hillesøy kirke",
+    "images": []
+  },
+  {
+    "lat": "58.9447",
+    "lng": "5.7412",
+    "name": "Hillevåg kirke, Stavanger",
+    "images": []
+  },
+  {
+    "lat": "58.9237",
+    "lng": "5.7272",
+    "name": "Hinna kirke",
+    "images": []
+  },
+  {
+    "lat": "58.4334",
+    "lng": "8.7480",
+    "name": "Hisøy kirke",
+    "images": []
+  },
+  {
+    "lat": "63.6286",
+    "lng": "8.7268",
+    "name": "Hitra kirke",
+    "images": []
+  },
+  {
+    "lat": "62.6092",
+    "lng": "11.6314",
+    "name": "Hitterdal kapell",
+    "images": []
+  },
+  {
+    "lat": "59.6040",
+    "lng": "8.6396",
+    "name": "Hjartdal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.6509",
+    "lng": "4.8255",
+    "name": "Hjelme gamle kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.6490",
+    "lng": "4.7981",
+    "name": "Hjelme kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.2359",
+    "lng": "6.1807",
+    "name": "Hjelmeland kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.2094",
+    "lng": "6.4732",
+    "name": "Hjørundfjord kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.3622",
+    "lng": "11.1991",
+    "name": "Hodalen kirke",
+    "images": []
+  },
+  {
+    "lat": "63.3979",
+    "lng": "10.4296",
+    "name": "Hoeggen kirke",
+    "images": []
+  },
+  {
+    "lat": "60.5767",
+    "lng": "12.3380",
+    "name": "Hof Finnskog kirke",
+    "images": []
+  },
+  {
+    "lat": "59.5395",
+    "lng": "10.0798",
+    "name": "Hof kirke, Vestfold",
+    "images": []
+  },
+  {
+    "lat": "60.5510",
+    "lng": "12.0178",
+    "name": "Hof kirke, Åsnes",
+    "images": []
+  },
+  {
+    "lat": "60.6839",
+    "lng": "10.8457",
+    "name": "Hoff kirke, Østre Toten",
+    "images": []
+  },
+  {
+    "lat": "60.6151",
+    "lng": "8.3002",
+    "name": "Hol gamle kyrkje",
+    "images": []
+  },
+  {
+    "lat": "68.1387",
+    "lng": "13.6422",
+    "name": "Hol kirke, Leknes",
+    "images": []
+  },
+  {
+    "lat": "60.2432",
+    "lng": "5.8331",
+    "name": "Holdhus gamle kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.2805",
+    "lng": "9.2630",
+    "name": "Holla kirke, Ulefoss",
+    "images": []
+  },
+  {
+    "lat": "59.3433",
+    "lng": "11.1130",
+    "name": "Holleby kirke",
+    "images": []
+  },
+  {
+    "lat": "62.6769",
+    "lng": "7.5679",
+    "name": "Holm kyrkje",
+    "images": []
+  },
+  {
+    "lat": "61.3590",
+    "lng": "5.1883",
+    "name": "Holmedal kyrkje, Askvoll",
+    "images": []
+  },
+  {
+    "lat": "59.7836",
+    "lng": "5.9028",
+    "name": "Holmedal kyrkje, Kvinnherad",
+    "images": []
+  },
+  {
+    "lat": "59.1428",
+    "lng": "11.7412",
+    "name": "Holmegil kirke",
+    "images": []
+  },
+  {
+    "lat": "59.8718",
+    "lng": "10.4901",
+    "name": "Holmen kirke, Asker",
+    "images": []
+  },
+  {
+    "lat": "60.0460",
+    "lng": "9.6328",
+    "name": "Holmen kirke, Sigdal",
+    "images": []
+  },
+  {
+    "lat": "59.9657",
+    "lng": "10.6723",
+    "name": "Holmenkollen kapell",
+    "images": []
+  },
+  {
+    "lat": "59.4886",
+    "lng": "10.3157",
+    "name": "Holmestrand kirke",
+    "images": []
+  },
+  {
+    "lat": "59.8362",
+    "lng": "10.7928",
+    "name": "Holmlia kirke",
+    "images": []
+  },
+  {
+    "lat": "61.4187",
+    "lng": "6.1543",
+    "name": "Holsen kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.6069",
+    "lng": "8.8705",
+    "name": "Holt kirke, Tvedestrand",
+    "images": []
+  },
+  {
+    "lat": "58.0981",
+    "lng": "7.5147",
+    "name": "Holum kirke",
+    "images": []
+  },
+  {
+    "lat": "62.2051",
+    "lng": "11.4405",
+    "name": "Holøydalen kirke",
+    "images": []
+  },
+  {
+    "lat": "70.9780",
+    "lng": "25.9792",
+    "name": "Honningsvåg kirke",
+    "images": []
+  },
+  {
+    "lat": "63.4659",
+    "lng": "8.0134",
+    "name": "Hopen kirke",
+    "images": []
+  },
+  {
+    "lat": "61.0775",
+    "lng": "6.5690",
+    "name": "Hopperstad stavkyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.6976",
+    "lng": "4.9282",
+    "name": "Hordabø kyrkje",
+    "images": []
+  },
+  {
+    "lat": "63.1371",
+    "lng": "10.2545",
+    "name": "Horg kirke",
+    "images": []
+  },
+  {
+    "lat": "58.5592",
+    "lng": "7.7734",
+    "name": "Hornnes kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.4269",
+    "lng": "10.4901",
+    "name": "Horten kirke",
+    "images": []
+  },
+  {
+    "lat": "60.5773",
+    "lng": "5.4749",
+    "name": "Hosanger kyrkje",
+    "images": []
+  },
+  {
+    "lat": "63.4304",
+    "lng": "10.3843",
+    "name": "Hospitalskirken, Trondheim",
+    "images": []
+  },
+  {
+    "lat": "62.6726",
+    "lng": "8.5700",
+    "name": "Hov kirke, Sunndal",
+    "images": []
+  },
+  {
+    "lat": "60.6976",
+    "lng": "10.3510",
+    "name": "Hov kirke, Søndre Land",
+    "images": []
+  },
+  {
+    "lat": "61.0718",
+    "lng": "6.5841",
+    "name": "Hove kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.6310",
+    "lng": "11.1216",
+    "name": "Hovin kirke, Spydeberg",
+    "images": []
+  },
+  {
+    "lat": "59.8494",
+    "lng": "9.0067",
+    "name": "Hovin kirke, Tinn",
+    "images": []
+  },
+  {
+    "lat": "58.9932",
+    "lng": "5.7269",
+    "name": "Hundvåg kirke, Stavanger",
+    "images": []
+  },
+  {
+    "lat": "60.7940",
+    "lng": "10.6569",
+    "name": "Hunn kirke",
+    "images": []
+  },
+  {
+    "lat": "60.4096",
+    "lng": "11.0535",
+    "name": "Hurdal kirke",
+    "images": []
+  },
+  {
+    "lat": "59.6143",
+    "lng": "10.4597",
+    "name": "Hurum kirke",
+    "images": []
+  },
+  {
+    "lat": "59.8670",
+    "lng": "5.7580",
+    "name": "Husnes kyrkje",
+    "images": []
+  },
+  {
+    "lat": "63.9669",
+    "lng": "11.3481",
+    "name": "Hustad kirke, Inderøy",
+    "images": []
+  },
+  {
+    "lat": "62.9560",
+    "lng": "7.0971",
+    "name": "Hustad kyrkje, Fræna",
+    "images": []
+  },
+  {
+    "lat": "61.0133",
+    "lng": "4.6742",
+    "name": "Husøy kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.2679",
+    "lng": "10.1745",
+    "name": "Hval kirke",
+    "images": []
+  },
+  {
+    "lat": "59.2641",
+    "lng": "9.9382",
+    "name": "Hvarnes kirke",
+    "images": []
+  },
+  {
+    "lat": "59.0802",
+    "lng": "10.4432",
+    "name": "Hvasser kirke",
+    "images": []
+  },
+  {
+    "lat": "59.5993",
+    "lng": "10.6587",
+    "name": "Hvitsten kirke",
+    "images": []
+  },
+  {
+    "lat": "61.7395",
+    "lng": "5.9185",
+    "name": "Hyen kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.0954",
+    "lng": "7.5335",
+    "name": "Hylestad kyrkje",
+    "images": []
+  },
+  {
+    "lat": "61.1711",
+    "lng": "5.2949",
+    "name": "Hyllestad kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.3863",
+    "lng": "7.7403",
+    "name": "Hægeland kirke",
+    "images": []
+  },
+  {
+    "lat": "59.5530",
+    "lng": "11.4036",
+    "name": "Hærland kirke",
+    "images": []
+  },
+  {
+    "lat": "66.0542",
+    "lng": "12.5181",
+    "name": "Hestad kirke",
+    "images": []
+  },
+  {
+    "lat": "58.8969",
+    "lng": "6.0082",
+    "name": "Høle kyrkje",
+    "images": []
+  },
+  {
+    "lat": "63.1138",
+    "lng": "10.0232",
+    "name": "Hølonda kirke",
+    "images": []
+  },
+  {
+    "lat": "59.8991",
+    "lng": "10.5771",
+    "name": "Høvik kirke",
+    "images": []
+  },
+  {
+    "lat": "58.1676",
+    "lng": "8.2498",
+    "name": "Høvåg kirke",
+    "images": []
+  },
+  {
+    "lat": "61.2180",
+    "lng": "6.0777",
+    "name": "Høyanger kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.9443",
+    "lng": "10.9093",
+    "name": "Høybråten kirke, Oslo",
+    "images": []
+  },
+  {
+    "lat": "59.4906",
+    "lng": "8.2322",
+    "name": "Høydalsmo kyrkje",
+    "images": []
+  },
+  {
+    "lat": "66.9096",
+    "lng": "14.7492",
+    "name": "Høyforsmoen kapell",
+    "images": []
+  },
+  {
+    "lat": "59.3674",
+    "lng": "10.1211",
+    "name": "Høyjord stavkirke",
+    "images": []
+  },
+  {
+    "lat": "58.8309",
+    "lng": "5.7506",
+    "name": "Høyland kirke, Sandnes",
+    "images": []
+  },
+  {
+    "lat": "64.6424",
+    "lng": "12.3137",
+    "name": "Høylandet kirke, Namdal",
+    "images": []
+  },
+  {
+    "lat": "68.4046",
+    "lng": "17.3112",
+    "name": "Håkvik kapell",
+    "images": []
+  },
+  {
+    "lat": "60.2297",
+    "lng": "5.8720",
+    "name": "Hålandsdal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.1775",
+    "lng": "8.0922",
+    "name": "Hånes kirke",
+    "images": []
+  },
+  {
+    "lat": "68.7876",
+    "lng": "17.1542",
+    "name": "Ibestad kirke",
+    "images": []
+  },
+  {
+    "lat": "59.0863",
+    "lng": "11.4347",
+    "name": "Idd kirke",
+    "images": []
+  },
+  {
+    "lat": "62.3823",
+    "lng": "6.5518",
+    "name": "Ikornnes kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.9328",
+    "lng": "10.7529",
+    "name": "Iladalen kirke",
+    "images": []
+  },
+  {
+    "lat": "63.4299",
+    "lng": "10.3764",
+    "name": "Ilen kirke",
+    "images": []
+  },
+  {
+    "lat": "59.1211",
+    "lng": "11.3909",
+    "name": "Immanuels kirke, Halden",
+    "images": []
+  },
+  {
+    "lat": "59.4772",
+    "lng": "5.9887",
+    "name": "Imsland kyrkje",
+    "images": []
+  },
+  {
+    "lat": "68.7271",
+    "lng": "15.1519",
+    "name": "Indre Eidsfjord kirke",
+    "images": []
+  },
+  {
+    "lat": "62.3038",
+    "lng": "5.7264",
+    "name": "Indre Herøy kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.7632",
+    "lng": "9.0798",
+    "name": "Søndeled kirke",
+    "images": []
+  },
+  {
+    "lat": "63.4582",
+    "lng": "9.9060",
+    "name": "Ingdalen kapell",
+    "images": []
+  },
+  {
+    "lat": "60.2344",
+    "lng": "11.5171",
+    "name": "Ingeborgrud kirke",
+    "images": []
+  },
+  {
+    "lat": "59.1786",
+    "lng": "11.2151",
+    "name": "Ingedal kirke",
+    "images": []
+  },
+  {
+    "lat": "71.0817",
+    "lng": "24.0602",
+    "name": "Ingøy kirke",
+    "images": []
+  },
+  {
+    "lat": "61.8537",
+    "lng": "6.6170",
+    "name": "Innvik kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.4562",
+    "lng": "7.9189",
+    "name": "Iveland kirke",
+    "images": []
+  },
+  {
+    "lat": "58.6880",
+    "lng": "6.1595",
+    "name": "Ivesdal kapell, Øvrebygd",
+    "images": []
+  },
+  {
+    "lat": "59.9181",
+    "lng": "10.7544",
+    "name": "Jakob kirke, Oslo",
+    "images": []
+  },
+  {
+    "lat": "59.9186",
+    "lng": "10.6172",
+    "name": "Jar kirke",
+    "images": []
+  },
+  {
+    "lat": "59.3385",
+    "lng": "6.0257",
+    "name": "Jelsa kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.4365",
+    "lng": "10.6373",
+    "name": "Jeløy kirke",
+    "images": []
+  },
+  {
+    "lat": "60.1449",
+    "lng": "11.1753",
+    "name": "Jessheim kirke",
+    "images": []
+  },
+  {
+    "lat": "60.2577",
+    "lng": "10.4344",
+    "name": "Jevnaker kirke",
+    "images": []
+  },
+  {
+    "lat": "60.2776",
+    "lng": "6.2563",
+    "name": "Jondal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.7040",
+    "lng": "9.5142",
+    "name": "Jondalen kirke",
+    "images": []
+  },
+  {
+    "lat": "61.3782",
+    "lng": "7.2887",
+    "name": "Joranger kyrkje",
+    "images": []
+  },
+  {
+    "lat": "61.5875",
+    "lng": "7.2833",
+    "name": "Jostedal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.8308",
+    "lng": "5.6642",
+    "name": "Julebygda kapell",
+    "images": []
+  },
+  {
+    "lat": "58.2004",
+    "lng": "8.0318",
+    "name": "Justvik kirke",
+    "images": []
+  },
+  {
+    "lat": "59.0264",
+    "lng": "6.0394",
+    "name": "Jørpeland kirke",
+    "images": []
+  },
+  {
+    "lat": "63.8615",
+    "lng": "9.8095",
+    "name": "Jøssund kirke",
+    "images": []
+  },
+  {
+    "lat": "58.9709",
+    "lng": "5.7122",
+    "name": "Kampen kirke, Stavanger",
+    "images": []
+  },
+  {
+    "lat": "68.7812",
+    "lng": "16.5315",
+    "name": "Kanebogen kirke",
+    "images": []
+  },
+  {
+    "lat": "60.7098",
+    "lng": "10.8625",
+    "name": "Kapp kirke",
+    "images": []
+  },
+  {
+    "lat": "69.4667",
+    "lng": "25.5037",
+    "name": "Karasjok gamle kirke",
+    "images": []
+  },
+  {
+    "lat": "69.4701",
+    "lng": "25.5093",
+    "name": "Karasjok kirke",
+    "images": []
+  },
+  {
+    "lat": "70.0022",
+    "lng": "19.8948",
+    "name": "Karlsøy kirke",
+    "images": []
+  },
+  {
+    "lat": "61.1842",
+    "lng": "7.2334",
+    "name": "Kaupanger stavkyrkje",
+    "images": []
+  },
+  {
+    "lat": "69.0029",
+    "lng": "23.0477",
+    "name": "Kautokeino kirke",
+    "images": []
+  },
+  {
+    "lat": "59.1171",
+    "lng": "9.4316",
+    "name": "Kilebygda kirke",
+    "images": []
+  },
+  {
+    "lat": "59.3345",
+    "lng": "8.8049",
+    "name": "Kilen kapell",
+    "images": []
+  },
+  {
+    "lat": "62.0644",
+    "lng": "6.0646",
+    "name": "Kilsfjord kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.9367",
+    "lng": "10.1292",
+    "name": "Kinn kirke, Nordre land",
+    "images": []
+  },
+  {
+    "lat": "61.5665",
+    "lng": "4.7575",
+    "name": "Kinn kyrkje, Flora",
+    "images": []
+  },
+  {
+    "lat": "60.3763",
+    "lng": "6.7220",
+    "name": "Kinsarvik kyrkje",
+    "images": []
+  },
+  {
+    "lat": "63.1145",
+    "lng": "7.7257",
+    "name": "Kirkelandet kirke",
+    "images": []
+  },
+  {
+    "lat": "69.7287",
+    "lng": "30.0444",
+    "name": "Kirkenes kirke, Sør-Varanger",
+    "images": []
+  },
+  {
+    "lat": "69.0053",
+    "lng": "18.8934",
+    "name": "Kirkesnesmoen kapell, Bakkehaug",
+    "images": []
+  },
+  {
+    "lat": "70.4564",
+    "lng": "25.2284",
+    "name": "Kistrand kirke",
+    "images": []
+  },
+  {
+    "lat": "68.4054",
+    "lng": "16.6604",
+    "name": "Kjeldebotn kirke",
+    "images": []
+  },
+  {
+    "lat": "67.5189",
+    "lng": "14.7588",
+    "name": "Kjerringøy kirke",
+    "images": []
+  },
+  {
+    "lat": "59.1077",
+    "lng": "9.9175",
+    "name": "Kjose kirke",
+    "images": []
+  },
+  {
+    "lat": "70.9446",
+    "lng": "27.3598",
+    "name": "Kjøllefjord kirke",
+    "images": []
+  },
+  {
+    "lat": "61.9181",
+    "lng": "5.6250",
+    "name": "Kjølsdalen kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.2360",
+    "lng": "11.0088",
+    "name": "Kjølstad kirke",
+    "images": []
+  },
+  {
+    "lat": "68.0969",
+    "lng": "16.3744",
+    "name": "Kjøpsvik kirke",
+    "images": []
+  },
+  {
+    "lat": "62.7991",
+    "lng": "7.6550",
+    "name": "Kleive kirke",
+    "images": []
+  },
+  {
+    "lat": "59.8306",
+    "lng": "10.8491",
+    "name": "Klemetsrud kirke",
+    "images": []
+  },
+  {
+    "lat": "64.4062",
+    "lng": "11.4836",
+    "name": "Klinga kirke",
+    "images": []
+  },
+  {
+    "lat": "59.5245",
+    "lng": "11.6371",
+    "name": "Klund kirke",
+    "images": []
+  },
+  {
+    "lat": "63.2953",
+    "lng": "10.4767",
+    "name": "Klæbu kirke",
+    "images": []
+  },
+  {
+    "lat": "59.2314",
+    "lng": "10.1264",
+    "name": "Kodal kirke",
+    "images": []
+  },
+  {
+    "lat": "70.6108",
+    "lng": "24.6520",
+    "name": "Kokelv kirke",
+    "images": []
+  },
+  {
+    "lat": "59.8070",
+    "lng": "10.8062",
+    "name": "Kolbotn kirke",
+    "images": []
+  },
+  {
+    "lat": "60.6296",
+    "lng": "10.7737",
+    "name": "Kolbu kirke",
+    "images": []
+  },
+  {
+    "lat": "63.3648",
+    "lng": "10.3468",
+    "name": "Kolstad kirke",
+    "images": []
+  },
+  {
+    "lat": "70.2591",
+    "lng": "23.4159",
+    "name": "Komagfjord kirke",
+    "images": []
+  },
+  {
+    "lat": "59.5061",
+    "lng": "9.9129",
+    "name": "Komnes kirke",
+    "images": []
+  },
+  {
+    "lat": "69.7859",
+    "lng": "30.8115",
+    "name": "Kong Oscar IIs kapell",
+    "images": []
+  },
+  {
+    "lat": "59.6658",
+    "lng": "9.6463",
+    "name": "Kongsberg kirke",
+    "images": []
+  },
+  {
+    "lat": "59.6707",
+    "lng": "10.5551",
+    "name": "Kongsdelene kirke",
+    "images": []
+  },
+  {
+    "lat": "64.8849",
+    "lng": "12.4384",
+    "name": "Kongsmo kapell, Høylandet",
+    "images": []
+  },
+  {
+    "lat": "59.7172",
+    "lng": "10.1531",
+    "name": "Konnerud arbeidskirke",
+    "images": []
+  },
+  {
+    "lat": "59.7207",
+    "lng": "10.1406",
+    "name": "Konnerud gamle kirke",
+    "images": []
+  },
+  {
+    "lat": "63.3997",
+    "lng": "11.8403",
+    "name": "Kopperå kapell",
+    "images": []
+  },
+  {
+    "lat": "66.0766",
+    "lng": "13.8254",
+    "name": "Korgen kirke",
+    "images": []
+  },
+  {
+    "lat": "62.4380",
+    "lng": "7.8501",
+    "name": "Kors kirke",
+    "images": []
+  },
+  {
+    "lat": "58.0226",
+    "lng": "7.0013",
+    "name": "Korshamn kapell",
+    "images": []
+  },
+  {
+    "lat": "68.2521",
+    "lng": "16.0542",
+    "name": "Korsnes kirke, Tysfjord",
+    "images": []
+  },
+  {
+    "lat": "58.8712",
+    "lng": "9.4144",
+    "name": "Kragerø kirke",
+    "images": []
+  },
+  {
+    "lat": "58.1461",
+    "lng": "7.9945",
+    "name": "Kristiansand domkirke",
+    "images": []
+  },
+  {
+    "lat": "59.6381",
+    "lng": "10.8478",
+    "name": "Kroer kirke",
+    "images": []
+  },
+  {
+    "lat": "69.6810",
+    "lng": "19.0629",
+    "name": "Kroken kirke, Tromsø",
+    "images": []
+  },
+  {
+    "lat": "58.9444",
+    "lng": "9.1327",
+    "name": "Kroken kyrkje",
+    "images": []
+  },
+  {
+    "lat": "70.5010",
+    "lng": "23.9758",
+    "name": "Kvalsund kirke",
+    "images": []
+  },
+  {
+    "lat": "69.6806",
+    "lng": "18.7442",
+    "name": "Kvaløy kirke",
+    "images": []
+  },
+  {
+    "lat": "61.6656",
+    "lng": "9.6944",
+    "name": "Kvam kirke, Nord-Fron",
+    "images": []
+  },
+  {
+    "lat": "64.1390",
+    "lng": "11.7398",
+    "name": "Kvam kyrkje, Steinkjer",
+    "images": []
+  },
+  {
+    "lat": "61.4607",
+    "lng": "5.4227",
+    "name": "Kvammen kapell",
+    "images": []
+  },
+  {
+    "lat": "61.1288",
+    "lng": "6.4845",
+    "name": "Kvamsøy kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.1971",
+    "lng": "9.9676",
+    "name": "Kvelde kirke",
+    "images": []
+  },
+  {
+    "lat": "63.5298",
+    "lng": "8.3818",
+    "name": "Kvenvær kirke",
+    "images": []
+  },
+  {
+    "lat": "63.0055",
+    "lng": "7.7219",
+    "name": "Kvernes stavkirke",
+    "images": []
+  },
+  {
+    "lat": "61.5743",
+    "lng": "9.5877",
+    "name": "Kvikne kirke, Nord-Fron",
+    "images": []
+  },
+  {
+    "lat": "62.5837",
+    "lng": "10.2851",
+    "name": "Kvikne kirke, Tynset",
+    "images": []
+  },
+  {
+    "lat": "58.3172",
+    "lng": "6.9612",
+    "name": "Kvinesdal kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9898",
+    "lng": "6.0069",
+    "name": "Kvinnherad kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.3552",
+    "lng": "8.5238",
+    "name": "Kviteseid gamle kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.4035",
+    "lng": "8.4846",
+    "name": "Kviteseid kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.0641",
+    "lng": "5.4164",
+    "name": "Kvitsøy kirke",
+    "images": []
+  },
+  {
+    "lat": "68.7714",
+    "lng": "16.1802",
+    "name": "Kvæfjord kirke",
+    "images": []
+  },
+  {
+    "lat": "58.9417",
+    "lng": "6.9164",
+    "name": "Kvævemoen kapell",
+    "images": []
+  },
+  {
+    "lat": "58.2633",
+    "lng": "7.1996",
+    "name": "Kvås kirke",
+    "images": []
+  },
+  {
+    "lat": "61.1650",
+    "lng": "5.9184",
+    "name": "Kyrkjebø kyrkje",
+    "images": []
+  },
+  {
+    "lat": "69.9341",
+    "lng": "23.0263",
+    "name": "Kåfjord kirke, Alta",
+    "images": []
+  },
+  {
+    "lat": "69.6016",
+    "lng": "20.5468",
+    "name": "Kåfjord kirke, Olderdalen",
+    "images": []
+  },
+  {
+    "lat": "63.4462",
+    "lng": "10.4386",
+    "name": "Lade kirke",
+    "images": []
+  },
+  {
+    "lat": "63.4371",
+    "lng": "10.4303",
+    "name": "Lademoen kirke",
+    "images": []
+  },
+  {
+    "lat": "58.6801",
+    "lng": "9.0630",
+    "name": "Laget kapell",
+    "images": []
+  },
+  {
+    "lat": "70.0504",
+    "lng": "24.9530",
+    "name": "Lakselv kirke",
+    "images": []
+  },
+  {
+    "lat": "69.4120",
+    "lng": "19.6501",
+    "name": "Lakselvbukt kirke",
+    "images": []
+  },
+  {
+    "lat": "60.3856",
+    "lng": "5.3006",
+    "name": "Laksevåg kirke",
+    "images": []
+  },
+  {
+    "lat": "59.8701",
+    "lng": "10.8135",
+    "name": "Lambertseter kirke",
+    "images": []
+  },
+  {
+    "lat": "60.4183",
+    "lng": "4.9721",
+    "name": "Landro kyrkje, Vesthordland",
+    "images": []
+  },
+  {
+    "lat": "59.2461",
+    "lng": "9.1608",
+    "name": "Landsmarka kapell",
+    "images": []
+  },
+  {
+    "lat": "58.3417",
+    "lng": "8.5228",
+    "name": "Landvik kirke",
+    "images": []
+  },
+  {
+    "lat": "60.3646",
+    "lng": "5.3718",
+    "name": "Landås kirke",
+    "images": []
+  },
+  {
+    "lat": "60.8334",
+    "lng": "10.2960",
+    "name": "Landåsbygda kirke",
+    "images": []
+  },
+  {
+    "lat": "59.0904",
+    "lng": "9.7930",
+    "name": "Langangen kirke",
+    "images": []
+  },
+  {
+    "lat": "69.0193",
+    "lng": "15.1561",
+    "name": "Langenes kirke, Øksnes",
+    "images": []
+  },
+  {
+    "lat": "59.0496",
+    "lng": "10.0102",
+    "name": "Langestrand kirke",
+    "images": []
+  },
+  {
+    "lat": "59.0007",
+    "lng": "9.7461",
+    "name": "Langesund kirke",
+    "images": []
+  },
+  {
+    "lat": "70.0560",
+    "lng": "22.3626",
+    "name": "Langfjord kirke",
+    "images": []
+  },
+  {
+    "lat": "59.7547",
+    "lng": "10.8432",
+    "name": "Langhus kirke",
+    "images": []
+  },
+  {
+    "lat": "59.0468",
+    "lng": "10.0352",
+    "name": "Larvik kirke",
+    "images": []
+  },
+  {
+    "lat": "68.7721",
+    "lng": "17.8016",
+    "name": "Lavangen kirke",
+    "images": []
+  },
+  {
+    "lat": "61.1045",
+    "lng": "5.5017",
+    "name": "Lavik kyrkje",
+    "images": []
+  },
+  {
+    "lat": "70.5733",
+    "lng": "27.0041",
+    "name": "Lebesby kirke",
+    "images": []
+  },
+  {
+    "lat": "62.2494",
+    "lng": "5.7815",
+    "name": "Leikanger kyrkje, Herøy",
+    "images": []
+  },
+  {
+    "lat": "61.1853",
+    "lng": "6.8195",
+    "name": "Leikanger kyrkje, Leikanger",
+    "images": []
+  },
+  {
+    "lat": "63.3282",
+    "lng": "10.3065",
+    "name": "Leinstrand kirke",
+    "images": []
+  },
+  {
+    "lat": "67.7383",
+    "lng": "14.8064",
+    "name": "Leiranger kirke",
+    "images": []
+  },
+  {
+    "lat": "70.1195",
+    "lng": "23.3958",
+    "name": "Leirbotn kirke",
+    "images": []
+  },
+  {
+    "lat": "66.0622",
+    "lng": "12.9378",
+    "name": "Leirfjord kirke",
+    "images": []
+  },
+  {
+    "lat": "65.0888",
+    "lng": "11.7102",
+    "name": "Leka kirke",
+    "images": []
+  },
+  {
+    "lat": "63.6781",
+    "lng": "10.6324",
+    "name": "Leksvik kirke",
+    "images": []
+  },
+  {
+    "lat": "69.7612",
+    "lng": "19.8443",
+    "name": "Lenangsøyra kapell",
+    "images": []
+  },
+  {
+    "lat": "63.5148",
+    "lng": "9.8067",
+    "name": "Lensvik kirke, Agdenes",
+    "images": []
+  },
+  {
+    "lat": "69.3414",
+    "lng": "18.0907",
+    "name": "Lenvik kirke, Bjorelvnes",
+    "images": []
+  },
+  {
+    "lat": "62.1119",
+    "lng": "8.8543",
+    "name": "Lesja kirke",
+    "images": []
+  },
+  {
+    "lat": "62.1888",
+    "lng": "8.5517",
+    "name": "Lesjaverk kirke",
+    "images": []
+  },
+  {
+    "lat": "60.6972",
+    "lng": "8.5017",
+    "name": "Leveld kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.3117",
+    "lng": "7.0663",
+    "name": "Liabygda kyrkje",
+    "images": []
+  },
+  {
+    "lat": "61.2007",
+    "lng": "8.9801",
+    "name": "Lidar kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.9313",
+    "lng": "10.7664",
+    "name": "Lilleborg kirke",
+    "images": []
+  },
+  {
+    "lat": "61.1115",
+    "lng": "10.4645",
+    "name": "Lillehammer kirke",
+    "images": []
+  },
+  {
+    "lat": "58.2504",
+    "lng": "8.3818",
+    "name": "Lillesand kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9586",
+    "lng": "11.0483",
+    "name": "Lillestrøm kirke",
+    "images": []
+  },
+  {
+    "lat": "59.8463",
+    "lng": "10.7844",
+    "name": "Ljan kirke",
+    "images": []
+  },
+  {
+    "lat": "58.7893",
+    "lng": "7.3510",
+    "name": "Ljosland kapell",
+    "images": []
+  },
+  {
+    "lat": "61.3838",
+    "lng": "12.6855",
+    "name": "Ljørdalen kirke",
+    "images": []
+  },
+  {
+    "lat": "63.4188",
+    "lng": "10.3558",
+    "name": "Lo kirke",
+    "images": []
+  },
+  {
+    "lat": "60.3666",
+    "lng": "5.2273",
+    "name": "Loddefjord kirke",
+    "images": []
+  },
+  {
+    "lat": "61.8716",
+    "lng": "6.8576",
+    "name": "Loen kyrkje",
+    "images": []
+  },
+  {
+    "lat": "63.5672",
+    "lng": "10.7018",
+    "name": "Logtun kirke, Frosta",
+    "images": []
+  },
+  {
+    "lat": "61.8398",
+    "lng": "8.5661",
+    "name": "Lom stavkyrkje",
+    "images": []
+  },
+  {
+    "lat": "61.1328",
+    "lng": "8.8907",
+    "name": "Lomen kyrkje",
+    "images": []
+  },
+  {
+    "lat": "61.1349",
+    "lng": "8.9239",
+    "name": "Lomen stavkirke",
+    "images": []
+  },
+  {
+    "lat": "59.9509",
+    "lng": "10.5012",
+    "name": "Lommedalen kirke",
+    "images": []
+  },
+  {
+    "lat": "70.3347",
+    "lng": "21.4542",
+    "name": "Loppa kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9324",
+    "lng": "10.7446",
+    "name": "Lovisenberg kirke",
+    "images": []
+  },
+  {
+    "lat": "64.7681",
+    "lng": "11.6099",
+    "name": "Lund kapell, Nærøy",
+    "images": []
+  },
+  {
+    "lat": "58.1526",
+    "lng": "8.0120",
+    "name": "Lund kirke, Kristiansand",
+    "images": []
+  },
+  {
+    "lat": "58.4480",
+    "lng": "6.5535",
+    "name": "Lund kirke, Moi",
+    "images": []
+  },
+  {
+    "lat": "59.3059",
+    "lng": "9.1140",
+    "name": "Lunde kirke, Nome",
+    "images": []
+  },
+  {
+    "lat": "60.9316",
+    "lng": "10.0432",
+    "name": "Lunde kirke, Nordre Land",
+    "images": []
+  },
+  {
+    "lat": "58.8085",
+    "lng": "6.7634",
+    "name": "Lunde kyrkje, Sirdal",
+    "images": []
+  },
+  {
+    "lat": "68.8755",
+    "lng": "16.5660",
+    "name": "Lundenes kirke, Grytøy",
+    "images": []
+  },
+  {
+    "lat": "60.2421",
+    "lng": "9.9286",
+    "name": "Lunder kirke, Ringerike",
+    "images": []
+  },
+  {
+    "lat": "60.3001",
+    "lng": "12.2756",
+    "name": "Lundersæter kirke",
+    "images": []
+  },
+  {
+    "lat": "64.8167",
+    "lng": "11.2569",
+    "name": "Lundring kirke",
+    "images": []
+  },
+  {
+    "lat": "60.3075",
+    "lng": "10.5573",
+    "name": "Lunner kirke, Lunner",
+    "images": []
+  },
+  {
+    "lat": "58.8729",
+    "lng": "5.7302",
+    "name": "Lura kirke",
+    "images": []
+  },
+  {
+    "lat": "66.4185",
+    "lng": "12.8494",
+    "name": "Lurøy kirke",
+    "images": []
+  },
+  {
+    "lat": "60.6888",
+    "lng": "5.1192",
+    "name": "Lygra kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.8836",
+    "lng": "8.8409",
+    "name": "Lykkja kapell",
+    "images": []
+  },
+  {
+    "lat": "59.7003",
+    "lng": "5.1990",
+    "name": "Lykling kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.1534",
+    "lng": "7.0912",
+    "name": "Lyngdal kirke, Lyngdal",
+    "images": []
+  },
+  {
+    "lat": "69.5756",
+    "lng": "20.2168",
+    "name": "Lyngen kirke",
+    "images": []
+  },
+  {
+    "lat": "59.0586",
+    "lng": "6.6634",
+    "name": "Lyse kapell",
+    "images": []
+  },
+  {
+    "lat": "60.2257",
+    "lng": "5.3990",
+    "name": "Lysekloster kapell",
+    "images": []
+  },
+  {
+    "lat": "68.4063",
+    "lng": "15.9806",
+    "name": "Lødingen kirke",
+    "images": []
+  },
+  {
+    "lat": "59.7974",
+    "lng": "11.4678",
+    "name": "Løken kirke",
+    "images": []
+  },
+  {
+    "lat": "62.5886",
+    "lng": "9.3469",
+    "name": "Lønset kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9246",
+    "lng": "10.9848",
+    "name": "Lørenskog kirke",
+    "images": []
+  },
+  {
+    "lat": "60.8268",
+    "lng": "11.3153",
+    "name": "Løten kirke",
+    "images": []
+  },
+  {
+    "lat": "59.4485",
+    "lng": "10.4378",
+    "name": "Løvøy kapell, Horten",
+    "images": []
+  },
+  {
+    "lat": "64.5127",
+    "lng": "10.8832",
+    "name": "Løvøy kirke",
+    "images": []
+  },
+  {
+    "lat": "63.4448",
+    "lng": "10.9342",
+    "name": "Lånke kirke",
+    "images": []
+  },
+  {
+    "lat": "59.4243",
+    "lng": "8.1825",
+    "name": "Lårdal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.9427",
+    "lng": "5.6813",
+    "name": "Madlamark kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9313",
+    "lng": "10.7212",
+    "name": "Majorstuen kirke",
+    "images": []
+  },
+  {
+    "lat": "69.4000",
+    "lng": "18.5982",
+    "name": "Malangen kirke",
+    "images": []
+  },
+  {
+    "lat": "64.0695",
+    "lng": "11.2180",
+    "name": "Malm kirke",
+    "images": []
+  },
+  {
+    "lat": "68.7391",
+    "lng": "14.5889",
+    "name": "Malnes kirke",
+    "images": []
+  },
+  {
+    "lat": "59.5743",
+    "lng": "8.4392",
+    "name": "Mandal kapell, Seljord",
+    "images": []
+  },
+  {
+    "lat": "58.0275",
+    "lng": "7.4528",
+    "name": "Mandal kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9926",
+    "lng": "11.7746",
+    "name": "Mangen kapell",
+    "images": []
+  },
+  {
+    "lat": "60.6415",
+    "lng": "5.0426",
+    "name": "Manger kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.8964",
+    "lng": "10.8109",
+    "name": "Manglerud kirke",
+    "images": []
+  },
+  {
+    "lat": "59.7213",
+    "lng": "11.0502",
+    "name": "Mari kirke",
+    "images": []
+  },
+  {
+    "lat": "60.3665",
+    "lng": "10.5295",
+    "name": "Mariakirken, Gran",
+    "images": []
+  },
+  {
+    "lat": "59.9995",
+    "lng": "10.7710",
+    "name": "Maridalen kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9239",
+    "lng": "10.7396",
+    "name": "Markus kirke",
+    "images": []
+  },
+  {
+    "lat": "69.4436",
+    "lng": "23.6657",
+    "name": "Masi kirke",
+    "images": []
+  },
+  {
+    "lat": "71.0365",
+    "lng": "27.8525",
+    "name": "Mehamn kapell",
+    "images": []
+  },
+  {
+    "lat": "60.5410",
+    "lng": "5.1914",
+    "name": "Meland kyrkje",
+    "images": []
+  },
+  {
+    "lat": "68.5030",
+    "lng": "14.7970",
+    "name": "Melbu kirke",
+    "images": []
+  },
+  {
+    "lat": "59.2090",
+    "lng": "9.4288",
+    "name": "Melum kirke",
+    "images": []
+  },
+  {
+    "lat": "66.8235",
+    "lng": "13.4066",
+    "name": "Meløy kirke",
+    "images": []
+  },
+  {
+    "lat": "63.4299",
+    "lng": "11.7165",
+    "name": "Meråker kirke",
+    "images": []
+  },
+  {
+    "lat": "61.1026",
+    "lng": "10.6924",
+    "name": "Mesnali kirke",
+    "images": []
+  },
+  {
+    "lat": "61.7403",
+    "lng": "5.1632",
+    "name": "Midtgulen kyrkje",
+    "images": []
+  },
+  {
+    "lat": "67.1203",
+    "lng": "14.9962",
+    "name": "Misvær kirke",
+    "images": []
+  },
+  {
+    "lat": "60.9221",
+    "lng": "4.9009",
+    "name": "Mjømna kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.7477",
+    "lng": "10.0063",
+    "name": "Mjøndalen kirke",
+    "images": []
+  },
+  {
+    "lat": "60.8156",
+    "lng": "5.8023",
+    "name": "Mo kyrkje, Modalen",
+    "images": []
+  },
+  {
+    "lat": "60.4289",
+    "lng": "11.6358",
+    "name": "Mo kirke, Nord-Odal",
+    "images": []
+  },
+  {
+    "lat": "66.3099",
+    "lng": "14.1443",
+    "name": "Mo kirke, Rana",
+    "images": []
+  },
+  {
+    "lat": "63.0000",
+    "lng": "8.9677",
+    "name": "Mo kyrkje, Surnadal",
+    "images": []
+  },
+  {
+    "lat": "59.4788",
+    "lng": "7.8463",
+    "name": "Mo kyrkje, Tokke",
+    "images": []
+  },
+  {
+    "lat": "60.2175",
+    "lng": "11.1636",
+    "name": "Mogreina kirke",
+    "images": []
+  },
+  {
+    "lat": "60.4152",
+    "lng": "10.5449",
+    "name": "Moen kirke",
+    "images": []
+  },
+  {
+    "lat": "60.7967",
+    "lng": "11.0683",
+    "name": "Hamar domkirke",
+    "images": []
+  },
+  {
+    "lat": "60.2757",
+    "lng": "11.1797",
+    "name": "Råholt kirke",
+    "images": []
+  },
+  {
+    "lat": "60.3234",
+    "lng": "11.2443",
+    "name": "Eidsvoll kirke",
+    "images": []
+  },
+  {
+    "lat": "60.4847",
+    "lng": "11.1495",
+    "name": "Feiring kirke",
+    "images": []
+  },
+  {
+    "lat": "60.4073",
+    "lng": "11.2426",
+    "name": "Langset kirke",
+    "images": []
+  },
+  {
+    "lat": "60.3886",
+    "lng": "5.3194",
+    "name": "Johanneskirken",
+    "images": []
+  },
+  {
+    "lat": "60.3939",
+    "lng": "5.3309",
+    "name": "Bergen domkirke",
+    "images": []
+  },
+  {
+    "lat": "60.3971",
+    "lng": "5.3135",
+    "name": "Nykirken i Bergen",
+    "images": []
+  },
+  {
+    "lat": "60.3949",
+    "lng": "5.3278",
+    "name": "Korskirken, Bergen",
+    "images": []
+  },
+  {
+    "lat": "64.0149",
+    "lng": "11.4941",
+    "name": "Steinkjer kirke",
+    "images": []
+  },
+  {
+    "lat": "60.0211",
+    "lng": "9.2732",
+    "name": "Rollag stavkirke",
+    "images": []
+  },
+  {
+    "lat": "59.5568",
+    "lng": "10.4367",
+    "name": "Holmsbu kirke",
+    "images": []
+  },
+  {
+    "lat": "61.1603",
+    "lng": "10.3717",
+    "name": "Fåberg kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9238",
+    "lng": "10.5657",
+    "name": "Haslum kirke",
+    "images": []
+  },
+  {
+    "lat": "60.5639",
+    "lng": "9.9856",
+    "name": "Nes kirke, Ringerike",
+    "images": []
+  },
+  {
+    "lat": "60.0603",
+    "lng": "10.1959",
+    "name": "Bønsnes kirke",
+    "images": []
+  },
+  {
+    "lat": "58.2272",
+    "lng": "6.5384",
+    "name": "Hidra kirke",
+    "images": []
+  },
+  {
+    "lat": "59.2105",
+    "lng": "9.6061",
+    "name": "Skien kirke",
+    "images": []
+  },
+  {
+    "lat": "60.9590",
+    "lng": "10.5920",
+    "name": "Biri kirke",
+    "images": []
+  },
+  {
+    "lat": "59.6652",
+    "lng": "10.6271",
+    "name": "Vår Frelsers kirke, Drøbak",
+    "images": []
+  },
+  {
+    "lat": "60.8052",
+    "lng": "10.8401",
+    "name": "Stavsjø kirke",
+    "images": []
+  },
+  {
+    "lat": "60.5719",
+    "lng": "10.6540",
+    "name": "Eina kirke",
+    "images": []
+  },
+  {
+    "lat": "63.8018",
+    "lng": "11.1434",
+    "name": "Ytterøy kirke",
+    "images": []
+  },
+  {
+    "lat": "58.1597",
+    "lng": "8.0134",
+    "name": "Oddernes kirke",
+    "images": []
+  },
+  {
+    "lat": "60.3847",
+    "lng": "5.3493",
+    "name": "Bergen døvekirke",
+    "images": []
+  },
+  {
+    "lat": "60.6753",
+    "lng": "5.2155",
+    "name": "Hundvin kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.7369",
+    "lng": "5.1592",
+    "name": "Lindås kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.7097",
+    "lng": "8.9186",
+    "name": "Gol kyrkje, Gol",
+    "images": []
+  },
+  {
+    "lat": "70.6618",
+    "lng": "23.6757",
+    "name": "Hammerfest kirke",
+    "images": []
+  },
+  {
+    "lat": "60.2875",
+    "lng": "11.6699",
+    "name": "Oppstad kirke",
+    "images": []
+  },
+  {
+    "lat": "59.4511",
+    "lng": "11.2383",
+    "name": "Os kirke, Rakkestad",
+    "images": []
+  },
+  {
+    "lat": "60.1844",
+    "lng": "5.4690",
+    "name": "Os kyrkje, Osøyro",
+    "images": []
+  },
+  {
+    "lat": "60.6265",
+    "lng": "5.4873",
+    "name": "Ostereidet kyrkje",
+    "images": []
+  },
+  {
+    "lat": "64.5110",
+    "lng": "11.2983",
+    "name": "Otterøy kirke, Namsos",
+    "images": []
+  },
+  {
+    "lat": "60.7574",
+    "lng": "11.1447",
+    "name": "Ottestad kirke",
+    "images": []
+  },
+  {
+    "lat": "59.3464",
+    "lng": "10.2546",
+    "name": "Ramnes kirke",
+    "images": []
+  },
+  {
+    "lat": "58.9998",
+    "lng": "5.6193",
+    "name": "Randaberg kirke",
+    "images": []
+  },
+  {
+    "lat": "61.8636",
+    "lng": "6.3209",
+    "name": "Randabygd kyrkje",
+    "images": []
+  },
+  {
+    "lat": "63.4298",
+    "lng": "10.5357",
+    "name": "Ranheim kirke",
+    "images": []
+  },
+  {
+    "lat": "60.7247",
+    "lng": "10.6110",
+    "name": "Raufoss kirke",
+    "images": []
+  },
+  {
+    "lat": "63.5646",
+    "lng": "9.9258",
+    "name": "Rein kirke",
+    "images": []
+  },
+  {
+    "lat": "61.5586",
+    "lng": "9.9422",
+    "name": "Sør-Fron kirke",
+    "images": []
+  },
+  {
+    "lat": "58.9263",
+    "lng": "5.8510",
+    "name": "Riska gamle kirke",
+    "images": []
+  },
+  {
+    "lat": "61.0879",
+    "lng": "9.1244",
+    "name": "Rogne kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.6025",
+    "lng": "8.9391",
+    "name": "Romfo kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.3983",
+    "lng": "5.2958",
+    "name": "Rossabø kirke",
+    "images": []
+  },
+  {
+    "lat": "69.3927",
+    "lng": "18.3987",
+    "name": "Rossfjord kirke",
+    "images": []
+  },
+  {
+    "lat": "60.0160",
+    "lng": "10.0131",
+    "name": "Rud kirke",
+    "images": []
+  },
+  {
+    "lat": "61.8873",
+    "lng": "5.3444",
+    "name": "Rugsund kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.3797",
+    "lng": "10.7225",
+    "name": "Rygge kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9208",
+    "lng": "11.0832",
+    "name": "Rælingen kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9496",
+    "lng": "10.6432",
+    "name": "Røa kirke",
+    "images": []
+  },
+  {
+    "lat": "59.5881",
+    "lng": "11.5949",
+    "name": "Rødenes kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9573",
+    "lng": "10.8686",
+    "name": "Rødtvet kirke",
+    "images": []
+  },
+  {
+    "lat": "66.6593",
+    "lng": "13.0773",
+    "name": "Rødøy kirke",
+    "images": []
+  },
+  {
+    "lat": "61.0473",
+    "lng": "9.0498",
+    "name": "Røn kyrkje, Valdres",
+    "images": []
+  },
+  {
+    "lat": "67.5893",
+    "lng": "15.2252",
+    "name": "Rørstad kirke",
+    "images": []
+  },
+  {
+    "lat": "66.3586",
+    "lng": "14.3235",
+    "name": "Røssvoll kirke",
+    "images": []
+  },
+  {
+    "lat": "59.7465",
+    "lng": "10.3867",
+    "name": "Røyken kirke",
+    "images": []
+  },
+  {
+    "lat": "61.1534",
+    "lng": "8.8045",
+    "name": "Høre stavkyrkje",
+    "images": []
+  },
+  {
+    "lat": "68.0000",
+    "lng": "15.7682",
+    "name": "Sagfjord kirke",
+    "images": []
+  },
+  {
+    "lat": "63.8751",
+    "lng": "11.2681",
+    "name": "Sakshaug gamle kirke",
+    "images": []
+  },
+  {
+    "lat": "61.1135",
+    "lng": "10.3062",
+    "name": "Saksumdal kirke",
+    "images": []
+  },
+  {
+    "lat": "63.8504",
+    "lng": "11.4079",
+    "name": "Salberg kyrkje",
+    "images": []
+  },
+  {
+    "lat": "64.6963",
+    "lng": "11.4540",
+    "name": "Salen kapell",
+    "images": []
+  },
+  {
+    "lat": "60.5033",
+    "lng": "5.2623",
+    "name": "Salhus kirke",
+    "images": []
+  },
+  {
+    "lat": "64.7984",
+    "lng": "11.8447",
+    "name": "Salsbruket kapell",
+    "images": []
+  },
+  {
+    "lat": "67.1022",
+    "lng": "15.4069",
+    "name": "Saltdal kirke",
+    "images": []
+  },
+  {
+    "lat": "67.2335",
+    "lng": "14.6254",
+    "name": "Saltstraumen kirke",
+    "images": []
+  },
+  {
+    "lat": "60.3901",
+    "lng": "11.5440",
+    "name": "Sand kirke, Nord-Odal",
+    "images": []
+  },
+  {
+    "lat": "59.4827",
+    "lng": "6.2524",
+    "name": "Sand kyrkje, Suldal",
+    "images": []
+  },
+  {
+    "lat": "61.7694",
+    "lng": "6.2245",
+    "name": "Sandane kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.5888",
+    "lng": "10.2083",
+    "name": "Sande kirke, Vestfold",
+    "images": []
+  },
+  {
+    "lat": "62.2408",
+    "lng": "5.4431",
+    "name": "Sande kyrkje, Sunnmøre",
+    "images": []
+  },
+  {
+    "lat": "58.8529",
+    "lng": "5.7336",
+    "name": "Sandnes kirke, Sandnes",
+    "images": []
+  },
+  {
+    "lat": "60.8003",
+    "lng": "5.3027",
+    "name": "Sandnes kyrkje, Masfjorden",
+    "images": []
+  },
+  {
+    "lat": "63.5228",
+    "lng": "9.0990",
+    "name": "Sandstad kirke",
+    "images": []
+  },
+  {
+    "lat": "68.6834",
+    "lng": "16.5316",
+    "name": "Sandtorg kirke",
+    "images": []
+  },
+  {
+    "lat": "60.4054",
+    "lng": "5.3255",
+    "name": "Sandvikskirken",
+    "images": []
+  },
+  {
+    "lat": "62.8188",
+    "lng": "6.5842",
+    "name": "Sandøy kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.8933",
+    "lng": "9.2661",
+    "name": "Sannidal kirke",
+    "images": []
+  },
+  {
+    "lat": "59.6518",
+    "lng": "6.3544",
+    "name": "Sauda kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.4218",
+    "lng": "9.2813",
+    "name": "Sauherad kirke",
+    "images": []
+  },
+  {
+    "lat": "59.6206",
+    "lng": "8.9279",
+    "name": "Sauland kyrkje",
+    "images": []
+  },
+  {
+    "lat": "66.2037",
+    "lng": "12.5876",
+    "name": "Dønnes kirke",
+    "images": []
+  },
+  {
+    "lat": "63.4330",
+    "lng": "10.6730",
+    "name": "Malvik kirke",
+    "images": []
+  },
+  {
+    "lat": "63.4108",
+    "lng": "10.7974",
+    "name": "Hommelvik kirke",
+    "images": []
+  },
+  {
+    "lat": "58.9352",
+    "lng": "5.6009",
+    "name": "Tananger kapell",
+    "images": []
+  },
+  {
+    "lat": "59.7300",
+    "lng": "10.2349",
+    "name": "Tangen kirke, Drammen",
+    "images": []
+  },
+  {
+    "lat": "59.8958",
+    "lng": "10.4793",
+    "name": "Tanum kirke, Bærum",
+    "images": []
+  },
+  {
+    "lat": "58.7264",
+    "lng": "5.6955",
+    "name": "Time kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.8691",
+    "lng": "9.2176",
+    "name": "Tisleidalen kirke",
+    "images": []
+  },
+  {
+    "lat": "66.6867",
+    "lng": "13.4357",
+    "name": "Tjongsfjord kirke",
+    "images": []
+  },
+  {
+    "lat": "59.0568",
+    "lng": "10.1254",
+    "name": "Tjølling kirke",
+    "images": []
+  },
+  {
+    "lat": "59.3220",
+    "lng": "10.8098",
+    "name": "Tomb kirke",
+    "images": []
+  },
+  {
+    "lat": "59.6513",
+    "lng": "11.0110",
+    "name": "Tomter kirke",
+    "images": []
+  },
+  {
+    "lat": "58.6670",
+    "lng": "6.7169",
+    "name": "Tonstad kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.6642",
+    "lng": "8.7083",
+    "name": "Torpo kyrkje",
+    "images": []
+  },
+  {
+    "lat": "69.3373",
+    "lng": "17.0974",
+    "name": "Torsken kirke",
+    "images": []
+  },
+  {
+    "lat": "59.3800",
+    "lng": "5.2315",
+    "name": "Torvastad kirke",
+    "images": []
+  },
+  {
+    "lat": "58.8072",
+    "lng": "8.1750",
+    "name": "Tovdal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "61.3177",
+    "lng": "10.3056",
+    "name": "Tretten kirke",
+    "images": []
+  },
+  {
+    "lat": "59.0077",
+    "lng": "8.5590",
+    "name": "Treungen kyrkje",
+    "images": []
+  },
+  {
+    "lat": "61.3170",
+    "lng": "12.2610",
+    "name": "Trysil kirke",
+    "images": []
+  },
+  {
+    "lat": "58.9703",
+    "lng": "5.7333",
+    "name": "Stavanger domkirke",
+    "images": []
+  },
+  {
+    "lat": "59.8261",
+    "lng": "10.4136",
+    "name": "Vardåsen kirke",
+    "images": []
+  },
+  {
+    "lat": "60.6168",
+    "lng": "5.2769",
+    "name": "Seim kyrkje",
+    "images": []
+  },
+  {
+    "lat": "61.8017",
+    "lng": "9.5530",
+    "name": "Sel kirke",
+    "images": []
+  },
+  {
+    "lat": "63.2486",
+    "lng": "10.9519",
+    "name": "Selbustrand kirke",
+    "images": []
+  },
+  {
+    "lat": "59.8267",
+    "lng": "11.7223",
+    "name": "Setskog kirke",
+    "images": []
+  },
+  {
+    "lat": "63.2163",
+    "lng": "11.0425",
+    "name": "Selbu kirke",
+    "images": []
+  },
+  {
+    "lat": "60.6473",
+    "lng": "6.1147",
+    "name": "Evanger kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.4492",
+    "lng": "12.0529",
+    "name": "Grue kirke",
+    "images": []
+  },
+  {
+    "lat": "60.4185",
+    "lng": "12.4056",
+    "name": "Grue Finnskog kirke",
+    "images": []
+  },
+  {
+    "lat": "62.2331",
+    "lng": "8.3472",
+    "name": "Lesjaskog kirke",
+    "images": []
+  },
+  {
+    "lat": "59.8627",
+    "lng": "9.4331",
+    "name": "Flesberg stavkirke",
+    "images": []
+  },
+  {
+    "lat": "59.9107",
+    "lng": "9.5287",
+    "name": "Lyngdal kirke, Flesberg",
+    "images": []
+  },
+  {
+    "lat": "59.2377",
+    "lng": "10.9712",
+    "name": "Gamle Glemmen kirke",
+    "images": []
+  },
+  {
+    "lat": "59.2186",
+    "lng": "10.8986",
+    "name": "Gressvik kirke",
+    "images": []
+  },
+  {
+    "lat": "59.1811",
+    "lng": "10.9283",
+    "name": "Kråkerøy kirke",
+    "images": []
+  },
+  {
+    "lat": "59.2563",
+    "lng": "10.8507",
+    "name": "Onsøy kirke",
+    "images": []
+  },
+  {
+    "lat": "59.1883",
+    "lng": "11.0715",
+    "name": "Torsnes kirke",
+    "images": []
+  },
+  {
+    "lat": "61.1259",
+    "lng": "8.5753",
+    "name": "Vang kyrkje, Vang",
+    "images": []
+  },
+  {
+    "lat": "60.1313",
+    "lng": "10.2700",
+    "name": "Norderhov kirke",
+    "images": []
+  },
+  {
+    "lat": "60.6999",
+    "lng": "9.0104",
+    "name": "Herad kyrkje, Gol",
+    "images": []
+  },
+  {
+    "lat": "59.2656",
+    "lng": "10.4599",
+    "name": "Søndre Slagen kirke",
+    "images": []
+  },
+  {
+    "lat": "63.3651",
+    "lng": "9.9255",
+    "name": "Geitastrand kirke",
+    "images": []
+  },
+  {
+    "lat": "60.3862",
+    "lng": "5.7678",
+    "name": "Haga kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.8892",
+    "lng": "9.7691",
+    "name": "Bingen kapell",
+    "images": []
+  },
+  {
+    "lat": "59.0373",
+    "lng": "10.0702",
+    "name": "Østre Halsen kirke",
+    "images": []
+  },
+  {
+    "lat": "63.3086",
+    "lng": "9.8479",
+    "name": "Orkanger kirke",
+    "images": []
+  },
+  {
+    "lat": "60.0978",
+    "lng": "10.2164",
+    "name": "Hole kirke",
+    "images": []
+  },
+  {
+    "lat": "60.3997",
+    "lng": "5.7109",
+    "name": "Samnanger kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.0901",
+    "lng": "11.0873",
+    "name": "Gjerdrum kirke",
+    "images": []
+  },
+  {
+    "lat": "60.8309",
+    "lng": "9.4927",
+    "name": "Reinli kapell",
+    "images": []
+  },
+  {
+    "lat": "59.8359",
+    "lng": "9.8727",
+    "name": "Bakke kirke, Eiker",
+    "images": []
+  },
+  {
+    "lat": "59.0666",
+    "lng": "10.0561",
+    "name": "Nanset kirke",
+    "images": []
+  },
+  {
+    "lat": "59.2023",
+    "lng": "10.9525",
+    "name": "Østre Fredrikstad kirke",
+    "images": []
+  },
+  {
+    "lat": "59.6766",
+    "lng": "10.8808",
+    "name": "Kråkstad kirke",
+    "images": []
+  },
+  {
+    "lat": "58.1005",
+    "lng": "7.9552",
+    "name": "Voie kirke",
+    "images": []
+  },
+  {
+    "lat": "59.7224",
+    "lng": "10.8614",
+    "name": "Ski middelalderkirke",
+    "images": []
+  },
+  {
+    "lat": "60.9028",
+    "lng": "10.7247",
+    "name": "Ringsaker kirke",
+    "images": []
+  },
+  {
+    "lat": "62.7881",
+    "lng": "9.6225",
+    "name": "Nerskogen kapell",
+    "images": []
+  },
+  {
+    "lat": "63.0445",
+    "lng": "9.7197",
+    "name": "Meldal kirke",
+    "images": []
+  },
+  {
+    "lat": "61.0282",
+    "lng": "10.5499",
+    "name": "Brøttum kirke",
+    "images": []
+  },
+  {
+    "lat": "58.2709",
+    "lng": "8.4809",
+    "name": "Eide kirke, Grimstad",
+    "images": []
+  },
+  {
+    "lat": "59.2692",
+    "lng": "10.4045",
+    "name": "Tønsberg domkirke",
+    "images": []
+  },
+  {
+    "lat": "60.8410",
+    "lng": "11.0217",
+    "name": "Furnes kirke",
+    "images": []
+  },
+  {
+    "lat": "62.8761",
+    "lng": "9.8337",
+    "name": "Rennebu kirke",
+    "images": []
+  },
+  {
+    "lat": "62.7203",
+    "lng": "10.0424",
+    "name": "Innset kirke",
+    "images": []
+  },
+  {
+    "lat": "63.1877",
+    "lng": "9.7658",
+    "name": "Moe kirke",
+    "images": []
+  },
+  {
+    "lat": "59.7992",
+    "lng": "9.5823",
+    "name": "Svene kirke",
+    "images": []
+  },
+  {
+    "lat": "59.2615",
+    "lng": "10.4954",
+    "name": "Valløy kirke",
+    "images": []
+  },
+  {
+    "lat": "68.6797",
+    "lng": "16.8769",
+    "name": "Tovik kirke",
+    "images": []
+  },
+  {
+    "lat": "59.3031",
+    "lng": "10.4424",
+    "name": "Slagen kirke",
+    "images": []
+  },
+  {
+    "lat": "61.1705",
+    "lng": "8.6949",
+    "name": "Heensåsen kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.2256",
+    "lng": "5.1479",
+    "name": "Sund kyrkje, Klokkarvik",
+    "images": []
+  },
+  {
+    "lat": "60.6696",
+    "lng": "10.6994",
+    "name": "Ås kirke, VestreToten",
+    "images": []
+  },
+  {
+    "lat": "59.3982",
+    "lng": "9.5387",
+    "name": "Luksefjell kirke",
+    "images": []
+  },
+  {
+    "lat": "62.4396",
+    "lng": "6.2049",
+    "name": "Langevåg kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.4274",
+    "lng": "6.2997",
+    "name": "Indre Sula kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.5796",
+    "lng": "9.1762",
+    "name": "Heddal stavkyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.0492",
+    "lng": "5.3483",
+    "name": "Selje kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.6288",
+    "lng": "6.4168",
+    "name": "Vangskyrkja",
+    "images": []
+  },
+  {
+    "lat": "59.7027",
+    "lng": "9.8060",
+    "name": "Fiskum kirke",
+    "images": []
+  },
+  {
+    "lat": "58.6237",
+    "lng": "8.9277",
+    "name": "Tvedestrand kirke",
+    "images": []
+  },
+  {
+    "lat": "58.9510",
+    "lng": "5.7285",
+    "name": "Bekkefaret kirke, Stavanger",
+    "images": []
+  },
+  {
+    "lat": "60.2228",
+    "lng": "5.0490",
+    "name": "Kausland kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.6777",
+    "lng": "6.6323",
+    "name": "Raundalen kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.9150",
+    "lng": "10.7679",
+    "name": "Tøyenkirken",
+    "images": []
+  },
+  {
+    "lat": "61.9350",
+    "lng": "6.2667",
+    "name": "Heggjabygda kyrkje",
+    "images": []
+  },
+  {
+    "lat": "64.0867",
+    "lng": "11.3284",
+    "name": "Beitstad kirke",
+    "images": []
+  },
+  {
+    "lat": "63.4270",
+    "lng": "10.3967",
+    "name": "Nidaros domkirke",
+    "images": []
+  },
+  {
+    "lat": "59.6149",
+    "lng": "9.2642",
+    "name": "Lisleherad kirke",
+    "images": []
+  },
+  {
+    "lat": "62.1185",
+    "lng": "5.3125",
+    "name": "Leikanger kyrkje, Selje",
+    "images": []
+  },
+  {
+    "lat": "63.2645",
+    "lng": "9.8141",
+    "name": "Orkdal kirke",
+    "images": []
+  },
+  {
+    "lat": "59.2157",
+    "lng": "10.9388",
+    "name": "Glemmen kirke",
+    "images": []
+  },
+  {
+    "lat": "58.9681",
+    "lng": "5.7410",
+    "name": "Frue kirke (Hetlandskirken)",
+    "images": []
+  },
+  {
+    "lat": "69.6480",
+    "lng": "18.9875",
+    "name": "Tromsdalen kirke, Ishavskatedralen",
+    "images": []
+  },
+  {
+    "lat": "70.9966",
+    "lng": "24.6565",
+    "name": "Havøysund kirke, Måsøy",
+    "images": []
+  },
+  {
+    "lat": "61.9739",
+    "lng": "6.5219",
+    "name": "Hornindal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.7180",
+    "lng": "5.3461",
+    "name": "Moster kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.2924",
+    "lng": "5.2287",
+    "name": "Vedavågen kirke",
+    "images": []
+  },
+  {
+    "lat": "62.3246",
+    "lng": "6.1413",
+    "name": "Vartdal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "65.3109",
+    "lng": "12.1630",
+    "name": "Sømna kirke, Vik",
+    "images": []
+  },
+  {
+    "lat": "59.2095",
+    "lng": "10.9428",
+    "name": "Fredrikstad domkirke",
+    "images": []
+  },
+  {
+    "lat": "68.6900",
+    "lng": "17.5520",
+    "name": "Gratangen kirke",
+    "images": []
+  },
+  {
+    "lat": "59.1513",
+    "lng": "5.2812",
+    "name": "Falnes kirke",
+    "images": []
+  },
+  {
+    "lat": "63.6987",
+    "lng": "11.0409",
+    "name": "Ekne kirke",
+    "images": []
+  },
+  {
+    "lat": "63.6367",
+    "lng": "11.2745",
+    "name": "Markabygda kirke",
+    "images": []
+  },
+  {
+    "lat": "63.7285",
+    "lng": "11.4519",
+    "name": "Okkenhaug kapell",
+    "images": []
+  },
+  {
+    "lat": "63.7969",
+    "lng": "11.5601",
+    "name": "Stiklestad kirke",
+    "images": []
+  },
+  {
+    "lat": "63.8014",
+    "lng": "12.3494",
+    "name": "Vera kirke",
+    "images": []
+  },
+  {
+    "lat": "62.6075",
+    "lng": "9.6452",
+    "name": "Oppdal kirke",
+    "images": []
+  },
+  {
+    "lat": "64.6841",
+    "lng": "13.6448",
+    "name": "Tunnsjø kirke",
+    "images": []
+  },
+  {
+    "lat": "61.1109",
+    "lng": "10.4764",
+    "name": "Garmo stavkirke, Maihaugen",
+    "images": []
+  },
+  {
+    "lat": "58.5993",
+    "lng": "7.8312",
+    "name": "Evje kyrkje",
+    "images": []
+  },
+  {
+    "lat": "63.4177",
+    "lng": "10.3986",
+    "name": "Trondheim døvekirke",
+    "images": []
+  },
+  {
+    "lat": "60.6228",
+    "lng": "8.1577",
+    "name": "Hovet kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.5982",
+    "lng": "8.3480",
+    "name": "Hol kyrkje, Hagafoss",
+    "images": []
+  },
+  {
+    "lat": "61.5089",
+    "lng": "5.7167",
+    "name": "Naustdal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "62.7775",
+    "lng": "8.0702",
+    "name": "Nesset kirke, Eidsvåg",
+    "images": []
+  },
+  {
+    "lat": "58.4403",
+    "lng": "7.4172",
+    "name": "Grindheim kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.2863",
+    "lng": "7.3579",
+    "name": "Konsmo kirke",
+    "images": []
+  },
+  {
+    "lat": "61.2258",
+    "lng": "5.1710",
+    "name": "Øn kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.8162",
+    "lng": "10.5244",
+    "name": "Vardal kirke",
+    "images": []
+  },
+  {
+    "lat": "62.9648",
+    "lng": "7.4567",
+    "name": "Kornstad kirke",
+    "images": []
+  },
+  {
+    "lat": "63.0883",
+    "lng": "7.6598",
+    "name": "Bremsnes kirke",
+    "images": []
+  },
+  {
+    "lat": "59.9119",
+    "lng": "10.7820",
+    "name": "Kampen kirke, Oslo",
+    "images": []
+  },
+  {
+    "lat": "60.3989",
+    "lng": "5.3235",
+    "name": "Mariakirken, Bergen",
+    "images": []
+  },
+  {
+    "lat": "61.0253",
+    "lng": "9.5006",
+    "name": "Nord-Etnedal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.7517",
+    "lng": "11.2613",
+    "name": "Romedal kirke",
+    "images": []
+  },
+  {
+    "lat": "58.3800",
+    "lng": "7.5278",
+    "name": "Bjelland kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.2278",
+    "lng": "11.0435",
+    "name": "Borge kirke, Fredrikstad",
+    "images": []
+  },
+  {
+    "lat": "58.2470",
+    "lng": "7.5045",
+    "name": "Laudal kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.3454",
+    "lng": "6.2947",
+    "name": "Sokndal kirke",
+    "images": []
+  },
+  {
+    "lat": "61.0901",
+    "lng": "10.4748",
+    "name": "Søre Ål kirke, Lillehammer",
+    "images": []
+  },
+  {
+    "lat": "59.7646",
+    "lng": "9.9051",
+    "name": "Haug kirke, Øvre Eiker",
+    "images": []
+  },
+  {
+    "lat": "59.2369",
+    "lng": "10.4636",
+    "name": "Husøy kirke, Tønsberg",
+    "images": []
+  },
+  {
+    "lat": "60.8878",
+    "lng": "9.6391",
+    "name": "Bruflat kyrkje",
+    "images": []
+  },
+  {
+    "lat": "63.7722",
+    "lng": "11.5262",
+    "name": "Vinne kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.0512",
+    "lng": "5.9308",
+    "name": "Strand kirke, Ryfylke",
+    "images": []
+  },
+  {
+    "lat": "63.2737",
+    "lng": "10.2924",
+    "name": "Melhus kirke",
+    "images": []
+  },
+  {
+    "lat": "69.2312",
+    "lng": "17.9844",
+    "name": "Finnsnes kirke",
+    "images": []
+  },
+  {
+    "lat": "63.0052",
+    "lng": "7.7216",
+    "name": "Kvernes kirke",
+    "images": []
+  },
+  {
+    "lat": "63.7451",
+    "lng": "11.2954",
+    "name": "Levanger kirke",
+    "images": []
+  },
+  {
+    "lat": "70.7506",
+    "lng": "24.5331",
+    "name": "Slotten kirke",
+    "images": []
+  },
+  {
+    "lat": "63.7239",
+    "lng": "11.2252",
+    "name": "Alstadhaug kirke, Skogn",
+    "images": []
+  },
+  {
+    "lat": "58.2934",
+    "lng": "6.4421",
+    "name": "Åna-Sira kirke",
+    "images": []
+  },
+  {
+    "lat": "60.2134",
+    "lng": "11.0032",
+    "name": "Nannestad kirke",
+    "images": []
+  },
+  {
+    "lat": "62.8302",
+    "lng": "10.0027",
+    "name": "Berkåk kirke",
+    "images": []
+  },
+  {
+    "lat": "63.5872",
+    "lng": "10.7539",
+    "name": "Frosta kirke",
+    "images": []
+  },
+  {
+    "lat": "66.4913",
+    "lng": "13.2928",
+    "name": "Sørfjorden kirke, Rødøy",
+    "images": []
+  },
+  {
+    "lat": "60.3918",
+    "lng": "5.3327",
+    "name": "St. Jørgen hospitalkirke",
+    "images": []
+  },
+  {
+    "lat": "59.1032",
+    "lng": "5.5906",
+    "name": "Utstein klosterkyrkje",
+    "images": []
+  },
+  {
+    "lat": "60.1456",
+    "lng": "11.0513",
+    "name": "Holter kirke, Nannestad",
+    "images": []
+  },
+  {
+    "lat": "59.7309",
+    "lng": "9.8710",
+    "name": "Vestfossen kirke",
+    "images": []
+  },
+  {
+    "lat": "63.1273",
+    "lng": "9.6828",
+    "name": "Løkken kirke",
+    "images": []
+  },
+  {
+    "lat": "60.0429",
+    "lng": "9.1463",
+    "name": "Veggli kirke",
+    "images": []
+  },
+  {
+    "lat": "60.1428",
+    "lng": "11.1255",
+    "name": "Hovin kirke, Ullensaker",
+    "images": []
+  },
+  {
+    "lat": "59.9940",
+    "lng": "11.0462",
+    "name": "Skedsmo kirke",
+    "images": []
+  },
+  {
+    "lat": "58.3407",
+    "lng": "7.2056",
+    "name": "Hægebostad kirke",
+    "images": []
+  },
+  {
+    "lat": "58.4780",
+    "lng": "7.2084",
+    "name": "Eiken kirke",
+    "images": []
+  },
+  {
+    "lat": "67.1356",
+    "lng": "16.0578",
+    "name": "Valnesfjord kirke",
+    "images": []
+  },
+  {
+    "lat": "67.1356",
+    "lng": "16.0578",
+    "name": "Sulitjelma kirke",
+    "images": []
+  },
+  {
+    "lat": "65.9732",
+    "lng": "12.2779",
+    "name": "Herøy kirke",
+    "images": []
+  },
+  {
+    "lat": "59.6895",
+    "lng": "9.0358",
+    "name": "Gransherad kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.7691",
+    "lng": "5.8454",
+    "name": "Ålgård kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.9527",
+    "lng": "11.0151",
+    "name": "Strømmen kirke",
+    "images": []
+  },
+  {
+    "lat": "64.8665",
+    "lng": "11.5965",
+    "name": "Kolvereid kirke",
+    "images": []
+  },
+  {
+    "lat": "59.6008",
+    "lng": "10.9240",
+    "name": "Hobøl kirke",
+    "images": []
+  },
+  {
+    "lat": "62.5775",
+    "lng": "7.7914",
+    "name": "Hen kirke, Isfjorden",
+    "images": []
+  },
+  {
+    "lat": "58.7734",
+    "lng": "5.6244",
+    "name": "Klepp kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.7950",
+    "lng": "5.5988",
+    "name": "Bore kyrkje",
+    "images": []
+  },
+  {
+    "lat": "59.5613",
+    "lng": "9.2649",
+    "name": "Notodden kirke",
+    "images": []
+  },
+  {
+    "lat": "62.5060",
+    "lng": "6.6972",
+    "name": "Skodje kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.7314",
+    "lng": "5.5297",
+    "name": "Orre gamle kyrkje",
+    "images": []
+  },
+  {
+    "lat": "58.7876",
+    "lng": "5.7204",
+    "name": "Frøyland og Orstad kyrkje",
+    "images": []
+  },
+  {
+    "lat": "589.2387",
+    "lng": "22.4964",
+    "name": "Orre kirke, Pollestad",
+    "images": []
+  },
+  {
+    "lat": "59.0885",
+    "lng": "10.9187",
+    "name": "Spjærøy kirke",
+    "images": []
+  },
+  {
+    "lat": "59.0327",
+    "lng": "11.0256",
+    "name": "Hvaler kirke",
+    "images": []
+  },
+  {
+    "lat": "59.6950",
+    "lng": "11.2952",
+    "name": "Båstad kirke",
+    "images": []
+  },
+  {
+    "lat": "59.6366",
+    "lng": "11.3131",
+    "name": "Trøgstad kirke",
+    "images": []
   }
 ]
