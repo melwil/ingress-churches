@@ -24,39 +24,6 @@ public class IndexScraper {
     private static String indexRoot = "http://www.kirkesok.no/content/search/(offset)/";
     private static String searchString = "?SearchText=&byggeaar_fra=900&byggeaar_til=3000&";
     
-    public static void main(String[] args) throws IOException {
-        
-        List<Church> churches = new ArrayList<Church>();
-        
-        if(Files.exists(Paths.get("churches.json"))) {
-            Scanner scanner = new Scanner(System.in);
-            System.out.print("File already exists. Are you sure you want to parse everything all over? (Y/N): ");
-            String answer = scanner.nextLine();
-            scanner.close();
-            
-            if(answer.equalsIgnoreCase("N")) {
-               System.out.println("Exiting.");
-               System.exit(0); 
-            }
-        }
-        
-        try {
-            for(String church : scrapeIndex()) {
-                churches.add(new Church(church));
-            }
-        } catch(IOException e) {
-            e.printStackTrace();
-        }
-        
-        GsonBuilder builder = new GsonBuilder();
-        builder.setPrettyPrinting();
-        Gson gson = builder.create();
-        
-        String json = gson.toJson(churches).toString();
-        Files.write(Paths.get("churches.json"), json.getBytes(), StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING);
-    }
-    
-    
     public static List<String> scrapeIndex() throws IOException {
         
         List<String> links = new ArrayList<String>();
