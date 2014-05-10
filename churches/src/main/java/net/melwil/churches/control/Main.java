@@ -40,7 +40,7 @@ public class Main {
         Gson gson = builder.create();
 
         String json = gson.toJson(churchHolder).toString();
-        json = "var data = {'churches':"+ json +"}";
+        json = "var data = "+ json;
         Files.write(Paths.get(jsonOutputPath), json.getBytes(), StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING);
     }
 

@@ -1,4 +1,4 @@
-var data = {'churches':{
+var data = {
   "size": 1622,
   "churches": [
     {
@@ -9734,4 +9734,4 @@ var data = {'churches':{
       "images": []
     }
   ]
-}}
+}
