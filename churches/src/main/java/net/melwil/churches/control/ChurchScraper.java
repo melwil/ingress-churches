@@ -8,13 +8,12 @@ import org.jsoup.select.Elements;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
+import java.util.Queue;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- * Created by Espen on 09.05.14.
- */
 public class ChurchScraper {
 
     private static Pattern coordsPattern = Pattern.compile("GPS/POI:\\s+(.*?),(.*?)\\s+");
@@ -24,6 +23,14 @@ public class ChurchScraper {
         List<Church> churches = new ArrayList<Church>();
 
         for(String churchUrl : IndexScraper.scrapeIndex()) {
+            try {
+                Church church = scrapeChurch(churchUrl);
+            }
+            catch (Exception e) {
+                System.out.println(churchUrl);
+                e.printStackTrace();
+                continue;
+            }
             churches.add(scrapeChurch(churchUrl));
         }
 
@@ -33,7 +40,10 @@ public class ChurchScraper {
 
     private static Church scrapeChurch(String churchUrl) throws IOException {
         Church church = new Church();
-        Document doc = Jsoup.connect(churchUrl).get();
+        System.out.println(churchUrl);
+        Document doc = Jsoup.connect(churchUrl).timeout(5000).get();
+
+        System.out.println("Got past it!");
 
         parseCoordinates(doc, church);
         parseChurchName(doc, church);

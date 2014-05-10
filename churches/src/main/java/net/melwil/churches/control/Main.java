@@ -3,6 +3,7 @@ package net.melwil.churches.control;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import net.melwil.churches.model.Church;
+import net.melwil.churches.model.ChurchHolder;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -12,10 +13,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-/**
- * Created by Espen on 09.05.14.
- */
 public class Main {
+
+    private static String jsonOutputPath = "view/churches.json";
 
     public static void main(String[] args) throws IOException {
 
@@ -32,14 +32,16 @@ public class Main {
 //        }
         System.out.println(Paths.get("churches.json").toFile().getAbsolutePath());
         List<Church> churches = ChurchScraper.getChurches();
+        ChurchHolder churchHolder = new ChurchHolder();
+        churchHolder.addChurches(churches);
 
         GsonBuilder builder = new GsonBuilder();
         builder.setPrettyPrinting();
         Gson gson = builder.create();
 
-        String json = gson.toJson(churches).toString();
+        String json = gson.toJson(churchHolder).toString();
         json = "var data = {'churches':"+ json +"}";
-        Files.write(Paths.get("view/churches.json"), json.getBytes(), StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING);
+        Files.write(Paths.get(jsonOutputPath), json.getBytes(), StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING);
     }
 
 }

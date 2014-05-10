@@ -58,4 +58,10 @@ public class Church {
     public void setImages(List<String> images) {
         this.images = images;
     }
+
+
+    @Override
+    public int hashCode() {
+        return ("" + lat + lng + name + url).hashCode();
+    }
 }

@@ -34,15 +34,17 @@ public class IndexScraper {
             offset += 20;
             String currentUrl = String.format("%s%s%s", indexRoot, offset, searchString);
             System.out.println("Fetching offset: " + offset);
-            
-            Document doc = Jsoup.connect(currentUrl).get();
+
+            Document doc = Jsoup.connect(currentUrl).timeout(30000).get();
+            System.out.println("Got past it!");
+
             tables = doc.select("table");
+
             for(Element tableElement : tables) {
                 Elements relevantTableData = tableElement.select("tbody > tr > td");
                 String kirke = relevantTableData.get(0).select("a").get(0).attr("href");
                 links.add(String.format("%s%s", siteRoot, kirke));
             }
-            break;
         }
         while(tables.size() != 0);
         

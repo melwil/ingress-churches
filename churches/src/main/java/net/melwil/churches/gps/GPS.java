@@ -4,9 +4,6 @@ import org.im4java.core.*;
 
 import java.io.IOException;
 
-/**
- * @author Håvard Slettvold
- */
 public class GPS {
 
     public static void main(String[] args) {
