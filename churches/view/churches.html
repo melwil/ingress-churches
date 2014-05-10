@@ -43,10 +43,38 @@
 
         var map = new google.maps.Map(document.getElementById("map"), options);
 
+        // create the info window
+        var infowindow = new google.maps.InfoWindow({
+          content: "empty"
+        });
+
         var markers = [];
         for (var i = 0; i < 1622; i++) {
+          // set the position of the marker
           var latLng = new google.maps.LatLng(data.churches[i].lat, data.churches[i].lng);
-          var marker = new google.maps.Marker({'position': latLng});
+
+          // create the marker
+          var marker = new google.maps.Marker({
+                position: latLng,
+                map: map,
+                title: data.churches[i].name
+          });
+
+          // bind the info window to
+          google.maps.event.addListener(marker, 'click', function() {
+            infowindow.setContent(
+                '<div id="content">'+
+                '<h3>'+
+                this.title+
+                '</h3>'+
+                '<p><a href="'+
+                    'https://www.ingress.com/intel?ll='+ this.position.lat() + ',' + this.position.lng() + '&z=18&pll=' + this.position.lat() + ',' + this.position.lng() + '">'+
+                    'Link to portal location</a></p>'+
+                '</div>'
+            );
+            infowindow.open(map, this);
+          });
+
           markers.push(marker);
         }
         var markerCluster = new MarkerClusterer(map, markers);
